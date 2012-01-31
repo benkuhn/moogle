@@ -13,23 +13,37 @@ config = {'global': {'server.socket_host': '0.0.0.0'},
           '/js': {'tools.staticdir.on': True, 'tools.staticdir.dir': 'js'}
           }
 
-faq = {
-"What's all this, then?":
-"""This is what I'm doing for project week. It's a database of music where you can search for a melody
-and get back tunes that sound sort of like it.""",
-"How do I use it?":
-"""Type in a string of ABC notation, and then click the "search" button. There's more info on the main page.
-""",
-"What's the point?":
-"""Eventually, I'm going to add more features, like making the computer play back songs to you
-or filtering songs based on key/mode/composer/chords/tempo/rhythm/etc. So, uh... it'll be kind of
-nifty, I guess? I mean, what's the point of anything, really?""",
-"Why are these in a weird order?":
-"""The FAQs are stored in a Python dictionary, which doesn't have a defined or stable sort order.
-So they're being rearranged by the webserver before they make it onto the page.""",
-"Why does the order keep changing?":
-"""See above. Or possibly below."""
-}
+faq = [
+("What's all this, then?",
+"""This is what I did for my project week at <a
+href="http://commschool.org">Commonwealth</a>. It's a database of
+music where you can search for a melody and get back tunes that sound
+sort of like it."""),
+("How do I use it?",
+"""Type in a string of ABC notation, and then click the "search"
+button. There's more info on the main page.
+"""),
+("The song I'm looking for isn't coming up.",
+"""There's not much music freely available in computer-readable
+format. The song you're looking for probably isn't in the database.
+"""),
+("How does this work?",
+"""The front-end site is built in Python using <a
+href="http://cherrypy.org/">CherryPy</a>. Behind the scenes, it
+communicates with a database of music that's written in Java. I had to
+write the database myself because there weren't any databases that
+could do this kind of fuzzy matching (with no word boundaries) in the
+database, and transferring the data to another process to compute with
+it was prohibitively slow.
+"""),
+("What sort of algorithm are you using?",
+"""It's an adaptation of an algorithm from bioinformatics called <a
+href="http://blast.ncbi.nlm.nih.gov/Blast.cgi">BLAST</a>. I had to
+re-design the scoring step to make it run fast enough for a Web site.
+"""),
+("I want to know more.",
+"""<a href="https://github.com/benskuhn/moogle">Read the source.</a>""")
+]
 abcre = re.compile(r"[a-gA-G,'^_=]+")
 lookup = TemplateLookup(directories=['templates/'], default_filters=['decode.utf8'],
         input_encoding='utf-8', output_encoding='utf-8')

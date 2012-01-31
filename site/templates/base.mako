@@ -31,5 +31,6 @@
 			${self.body()}
 		</div>
 		<div id="sidebar"></div>
+                <div id="footer">created by <a href="http://benkuhn.net">Ben Kuhn</a></div>
 	</body>
 </html>
