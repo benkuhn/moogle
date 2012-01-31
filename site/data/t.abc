@@ -1,0 +1,1314 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%   ColecciÃ³n de ABCs de  la Taberna   %%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   N I L   %%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+X:16262
+T:T'as perdu tes gants
+R:Maraichine
+A:Poitou
+O:France
+M:2/4
+L:1/8
+Q:1/4=130
+K:G
+B>G B>d|B>A AG|BB BA/2G/2|B2A2:|
+|:B>G B>A|(3GFE Dd|1d>c A>c|B2G2:|2d>c A>B|G2 z2||
+
+
+X:16263
+T:Ta hit en fiol
+S:Uppt. efter Viktor Andersson
+R:Minuet
+M:3/4
+L:1/16
+O:Finland
+A:Jeppo, \"Osterbotten (Finland)
+K:D
+{e}a2z(b a2)^ga b2a2 | fdfa {b}a2^ga b2a2 |\
+gfga b2a2 g2eg | f2ed e8 ::\
+{ef}e2zd c2d2 efed | cdef g2eg f2d2 |\
+efed cdef gfed | cdef g2eg f2ed |\
+g2zg b2b2 a2a2 | cdec d8 :|
+
+
+X:16264
+T: Taam Haman
+M: 3/4
+L: 1/4
+Q: 1/4=200
+K: C
+ F2F|F2E|G2G|E2z|D2D|D2C|E2D|C3|
+|:"C"C2G|G2E|"F"F2A|"G7"G3|"C"C2D|"G7"E2D|"F"FE"G"D|"C"C3:|
+"C"c2c|c2G|"Am"A2B|cBA|"G7"G2F|"C"EDC|"F"FED|"C"C3|:
+"F" F2F|F2E|"G7"G2G|"C"E2z|"Dm"D2D|D2C|"C"E2D|"C"C3:|
+"C"GFE|GFE|GFE|E2z|G3|"F"A3|"G"BAG|"C"c3|
+
+
+X:16265
+T:Tabhair Dom Do LÃ¡mh
+T:Give Me Your Hand
+M:6/8
+L:1/8
+Q:70
+C:Attr. to Rory Dall Ã CathÃ¡in
+S:Appears in O'Neill's Music of Ireland as #406
+D:The Chieftans 5
+Z:O'Neill's version is missing measure 17.
+Z:Measues 8 & 9 may also be played |(EG).G g2 G|(EG).G g2 D|, per
+Z:O'Neill.
+K:G
+D|(EG).G G2 D|(EG).G G2 D|(EG).G (GA).B|Bed B2 (A/2G/2)|.A(Ae)
+.B(Bd)|.A(A/2B/2A/2G/2) E2 D|(EG).G G2 D|
+(EG).G G2 D|(EG).G (ga).b|.d(d/2b/2a/2b/2) g2 G|(EG).G (GA).B|Bed B2
+(A/2G/2)|.A(Ae) .B(Bd)|
+.A(AB/2d/2) e2 (d/2B/2)|d(de) g2 (e/2d/2)|g(ga) b2 (d/2e/2)|.g.g(d/2e/2)
+.g.g(d/2e/2)|.g.g.a b3 |.b.b.b b2 (a/2g/2)|
+(a/2g/2a/2b/2)(a/2b/2) a2 (g/2f/2)|.e.e(g/2e/2) .d.d(e/2d/2)|.B.B(d/2B/2
+)
+A2 G|GG(B/2d/2) =f2 (d/2B/2)|
+eeg e2 (d/2B/2)|.d(dg) .B(Bd)|.A(c/2B/2A/2G/2) JG2||
+
+
+X:16266
+T:Tableau Clog
+R:Hornpipe
+M:4/4
+L:1/8
+K:G
+(3def|a>gd>B A>GB>d|f>ec>A E2_E2|D>FA>g f>ed>e|B>c^c>d e>de>f|
+a>gd>B A>GB>d|f>ec>A E2_E2|D>FA>g f>dA>d|G2B2 G2:|
+K:D
+B>_B|A>gB>^B c>ba>g|f>ad>f B>Af>d|c>eA>c G>Ac>B|A>B (3cde f>dA>F|
+A>gB>^B c>ba>g|f>ad>f B>Af>d|c>Bg>e (3dcB (3ABc|d2f2 d2:|
+
+
+X:16267
+T:Tabulature de la troisieme partie de l'Allemande 
+R:
+C:Trad.
+S:Thoinot Arbeau
+N:qui se dance par mesure binaire, comme la courante, avec les mouuements.
+A:Champaigne
+B:Orchesographie (1589)
+O:France
+Z:<eric.forgeot@caramail.com> -- http://anamnese.fr.st
+M:8/2
+L:1/2
+Q:1/2=150
+K:C
+FF GG AA BB | Bd cB AG FF ||
+
+
+X:16268
+T:Tabulature du Fifre, ou Arigot du troisiesme ton. (*)
+R:
+S:Thoinot Arbeau
+A:Champaigne
+B:Orchesographie (1589)
+O:France
+Z:<eric.forgeot@caramail.com> -- http://anamnese.fr.st
+M:8/2
+L:1/2
+Q:1/2=150
+K:C
+%%MIDI nobarlines
+%%MIDI transpose 0
+G G A B c z z z | G G A B c B c d | c d c B/ A/ B2 |
+B A/ B/ c/ B/ A/ G/ A2 | A G A/ B/ A/ G/ F/ G2 | G F E D E2 | E D E F G2 | /.../
+
+
+X:16269
+T:Tabulature pour iouer du Fifre ou Arigot en mesure ternaire. (*)
+R:
+S:Thoinot Arbeau
+A:Champaigne
+B:Orchesographie (1589)
+O:France
+Z:<eric.forgeot@caramail.com> -- http://anamnese.fr.st
+M:6/2
+L:1/2
+Q:1/2=150
+K:C
+z2 z GAB | c2c GAB | c3/2 d/ c GAB | c2 c B/c/d/c/ B/A/ | 
+B3 A/B/c/ B/A/G/ | A3 G/A/B/ A/G/F/ | G3 FED | E3 EDF | E3 EDF | E3 D/E/F/E/D/C/ | D3 CDED
+/.../ G3 F/G/A/G/F/G/ |  /.../
+
+
+X:16270
+T:Tadie's Wattle
+M:C|
+K:G
+G2BG BddB| cBcd efg2| G2BG Bdge| dcBG "tr"A2G2::\
+g2ag/a/ bggd| edef gdBG| 
+g2ag/a/ bggd| edcB B2A2|\
+bgaf gfed| egfa gdBG| GBAc Bdge| dcBG "tr"A2G2:|
+
+
+X:16271
+T:Tae the Beggin'
+R:reel
+D:Kevin Crawford: In Good Company
+Z:Devin McCabe
+M:C|
+L:1/8
+K:EMin
+g2fg agfa|gefg d~B3|g2fg agfa|1gefd ~e3f:|2gefd ~e3g|
+!d~B3 dGBd|dGBd cAAe|d~B3 defd|1g/2a/2g fd eage:|2g/2a/2g fd edef||
+
+
+X:16272
+T:Taffy & Mally. BF13.108
+M:6/8
+Q:110
+C:In hand "B"
+S:MS13,c1850,Lakes,Browne Coll..
+R:Quadrille
+O:England
+A:Lakes
+N:I felt the need to do some tidying up on this one, but the original is
+N:so ambiguous I've left it there for you to admire..CGP
+Z:vmp.Chris Partington
+K:D
+"Unedited Version"
+A2|d/d/ dcd|f d/c/ d2|ece Ace|g3ef|g2ge e|f2fd d|e2d cBc|d3d2::!
+A2A2GFG|A2d fed|c2e2g2e2|f2d2e2|f2gab2|g2f2d2|c2A2g2e2|c2c4:|]!
+"Edited Version"
+A|d2d dcd|f2d c2d|ece Ace|g3-gef|g2g ee2|f2f dd2|e2d cBc|d3-d2::!
+A|A3 GFG|A2d fed|c2e g2e|f3d2e|f2g ab2|gf2d3|c2A ge2|d3-d2:|]
+
+
+X:16273
+T:Tail Toddle
+M:C
+K:G
+G/G/G BG c2GE| G/G/G BG A2FD| \
+G/G/G BG cABG| A/B/c B/c/d A2FD::
+c2GE EcGE| c2GE DAFD| \
+c2GE (d/c/B/A/) BG| A/B/c B/c/d A2FD ::
+G/G/G BG cABE| G/G/G BG ADFD| \
+G/G/G BG cABG| A/B/c B/c/d c2AF::
+c2Ec EcGE| c2Ec DAFD| \
+c2Ec (d/c/B/A/) BG| A/B/c B/c/d A2FD:|
+
+
+X:16274
+T:Tailor's Thimble, The
+R:reel
+H:Also in Edor, #572
+Z:id:hn-reel-585
+M:C|
+K:Ador
+cAAG A2dB|cA~A2 dBGB|cAAG ABcd|1 e2ge dBGB:|2 e2ge dega||
+|:b2gb abga|bage dega|1 b2gb abgd|efge dega:|2 b2gb abgd|efge dBGB||
+
+
+X:16275
+T:Tailor's Thimble, The
+R:reel
+H:Also in Ador, #585. 
+Z:id:hn-reel-572
+M:C|
+K:Edor
+GE~E2 E2AF|GE~E2 AFDF|GE~E2 EFGA|1 BcdB AFDF:|2 BcdB ABde||
+|:f2df efde|fedB ABde|f2df efdA|1 BcdB ABde:|2 BcdB AFDF||
+"variations"
+|:GEED E2AF|GE~E2 AFDF|GEED EFGA|1 B2dB AFDF:|2 BcdB ABde||
+|:fddf e2de|fddB ABde|fddf e2dc|1 BcdB ABde:|2 B2dB AFDF||
+
+
+X:16276
+T:Tailor's Thimble, The
+M:C|
+R:reel
+H:Also in Ador, #585.
+Z:Michael Hogan, 16/12/1998
+K:Edor
+GE~E2 E2AF|GE~E2 AFDF|GE~E2 EFGA|1 BcdB AFDF:|2 BcdB ABde||
+|:f2df efde|fedB ABde|f2df efdA|1 BcdB ABde:|2 BcdB AFDF||
+"variations"
+|:GEED E2AF|GE~E2 AFDF|GEED EFGA|1 B2dB AFDF:|2 BcdB ABde||
+|:fddf e2de|fddB ABde|fddf edcA|1 BcdB ABde:|2 B2dB AFDF||
+
+
+X:16277
+T:Tailor's Thimble, The
+R:reel
+D:DanÃº: Think Before You Think
+Z:Devin McCabe
+M:4/4
+L:1/8
+K:BMin
+dBcA BAFA|:dcde f2 ec|d ~B3 BAFA|BdcA B3 c|
+!dBBA ~F3A|dcde fdec|dBBA BAFA|BdcA B3 c|
+!d2 Bc dcde|f2 bf afea|fdBc ~d3 e|fbaf e^deg|
+!fdBc ~d3|f2 bf aefa|b ~f3 aefa|bfaf e^deg|fedc BAFA:|
+
+
+X:16278
+T:Tailor's Thimble, The
+R:reel
+H:Also in Edor, #572
+Z:id:hn-reel-585
+M:C|
+L:1/8
+K:Ador
+cAAG A2dB|cA~A2 dBGB|cAAG ABcd|1 e2ge dBGB:|2 e2ge dega||
+|:b2gb abga|bage dega|1 b2gb abgd|efge dega:|2 b2gb abgd|efge dBGB||
+
+
+X:16279
+T:Tailor's Thimble, The
+M:C|
+R:reel
+H:Also in Edor, #572
+Z:Henrik Norbeck
+K:Ador
+cAAG A2dB|cA~A2 dBGB|cAAG ABcd|1 e2ge dBGB:|2 e2ge dega||
+|:b2gb abga|bage dega|1 b2gb abgd|efge dega:|2 b2gb abgd|efge dBGB||
+
+
+X:16280
+T:Tailor's Twist
+Z: id:dc-hornpipe-62
+M:C|
+L:1/8
+K:D Major
+BAF|DA,FD AFdA|Bged cbag|fedc Bged|(3cdc (3BcB (3ABA (3GFE|!
+DA,FD AFdA|Bged cbag|fedc Bgec|d2dc d:|!
+efg|a^gaf defa|bagf eAce|gfge cdef|(3gag (3fgf egfe|!
+dfec dAFA|Bged cbag|fedc Bgec|d2dc d:|!
+
+
+X:16281
+T:Tailor's Twist, The
+R:hornpipe
+D:Paul McGrattan: The Frost is All Over
+Z:id:hn-hornpipe-85
+M:C|
+K:D
+FE|DAFD AFdA|Bged cbag|fedc Bged|cdBc AGFE|
+DAFD AFdA|Bged ceag|fedc Bgec|d2dc d2:|
+|:zb|~a3f deed|bagf eAce|~g3A (3Bcd ef|g2fg egfe|
+d2dc dAFA|Bged ceag|fedc Bgec|d2dc d2:|
+
+
+X:16282
+T:Tais-toi
+C:trad.
+A:Alsace
+O:France
+Z:S. Piron
+M:2/4
+L:1/8
+Q:1/4=130
+K:G
+d/2e/2d/2c/2|B2B>A|B>A GF|G2G/2A/2B/2c/2|
+|:d2d>d|g>f ed|d2d/2e/2d/2c/2|B2B>A|B>A GF|1G2G/2A/2B/2c/2:|2G2dd|
+B2B2|BG/2B/2dd|BGdd|B2B2|BG/2B/2dB|AG/2A/2B/2c/2|
+|:d2d>d|g>f ed|d2d/2e/2d/2c/2|B2B>A|B>A GF|1G2G/2A/2B/2c/2:|2G2dd|
+B2B2|BG/2B/2dd|BGdd|B2B2|BG/2B/2dB|AG/2A/2B/2c/2||
+
+
+X:16283
+T:Taitou
+R:Polka piqu\'ee
+O:France
+M:4/4
+K:G
+d2e2d4|cdcB ABcA|d2e2d4|cdcBA4::\
+B2G2F2G2|ABAGF2D2|c2AcB2GB|1A2GAB2G2:|2A2F2G4||
+
+
+X:16284
+T:Taitou
+R:Polka piquÃ©e
+O:France
+M:4/4
+L:1/8
+Q:1/4=230
+K:G
+d2e2d4|cdcB ABcA|d2e2d4|cdcBA4::
+B2G2F2G2|ABAGF2D2|c2AcB2GB|1A2GAB2G2:|2A2F2G4||
+
+
+X:16285
+T:Take A Dance. JB.37
+M:6/8
+L:1/8
+Q:140
+S:James Biggins MS, Leeds, 1779.
+R:Jig
+O:England
+A:Yorkshire
+N:Like a Kerry Slide, which in my view makes it like Nae Guid Luck &c.
+Z:vmp.Nick Barber & Chris Partington
+K:D
+B2cd2e|fedc3|B2cd2e|f2g fdB|B2cd2e|!fedc3|A2Bc2d|e2a ecA:|
+|:a2fg2e|f2dc3|!B2cd2e|f2g fdB|aaf gge|ffdc3|A2Bc2d|e2a ecA:|]
+
+
+X:16286
+T:Take a Message to Julie
+R:reel
+C:Brian Finnegan
+D:Brian Finnegan: When the Party's Over
+Z:Devin McCabe
+M:C|
+L:1/8
+Q:255
+K:EDor
+EBAG A~E3|GBdB c~A3|EBAG A~E3|GBdG GBdG|
+!EBAG A~E3|GBdB c~A3|edBA B~E3|1DEFD ~E3D:|2DEFD e3d|
+!:e~B3 GBeB|d~A3 GAdG|=c~G3 EGcG|cAA d2 AeA|
+!e~B3 GBeB|d~A3 GAdG|EDGB A~F3|1DEGF e3D:|2DEGF ~E3D||
+
+
+X:16287
+T:Take the Bull by the Horns
+M:6/8
+L:1/8
+R:Jig
+K:D
+|:a2e cee|f2e cBA|a2e cee|fed cBA|
+a2e cee|fed cBA|dfd cec|BcBA2B:|
+|:A2B cBA|aed cBA|dfd cec|BcB Bcd|
+A2B cBA|aed cBA|dfd cec|BcBA3:|
+|:cAA eAA|cAA eAA|dBB fBB|dBB fed|
+cAA eAA|cAA eAA|dfd cec|BcBA3:|
+
+
+X:16288
+T:Taladh Eirisgeach 
+R:air
+S:Mary Macinnes of Isle of Eriskay
+N:Was noted by Marjory Kennedy Fraser
+M:3/4
+L:1/8
+W:Horo lady bhig, Horo eile,
+W:Horo lady bhig, Horo eile,
+W:Horo lady bhig, Horo eile.
+W:A luidh biodh na stuadhan 'gad luasgadh gu braudar
+W:Horo lady bhig, Horo eile,
+W:Horo lady bhig, Horo eile,
+W:Horo la Horo la.
+K:G
+B3 A B2 | G3 A B2 | d3 e d2 | B3 A G2 | F3 E F2 | E3 D B2, | D3 E F2 | G4
+G2 | B3 A B2 | G3 A B2 | d3 e d2 | B3 A G2 | F3 E F2 | E2 D2 B2, | D3
+E F2 | G4 G2 | B3 A B2 | G3 A B2 | d3 e d2 | B3 A G2 | F3 E F2 | E3 D B2,
+| D3 E F2 | G4 G2 | B3 A B2 | G6 | B3 A B2 | (G6 | G6 | G6) :|]
+
+
+X:16289
+T:Tales Of Barnagrove
+R:reel
+C:Ed Reavy
+M:2/2
+L:1/8
+Z:Joe Reavy
+N:What we feel in Paddy Kavanaugh's verses we can also 
+N:hear in Ed's tunes: the simplicity of country people, 
+N:their old roads and villages, and the nearby rising 
+N:Monaghan hills. Tales of Barnagrove tells how Ed 
+N:felt about his early native experiences in that 
+N:region of Ireland.
+K:A
+cd|eA (3cBA EAcd|eAce aecd|eA (3cBA agec|dB=GB d2 cd|
+eA (3cBA EDCD|EAcd ef=gd|ea (3aga =gece|dB=GB A2:||
+cd|ea (3aga bgag|ea (3aga edcd|eg (3gfg agfg|(3ef=g fg gdBG|
+ea (3aga bgag|edcB cdef|gfge a^gec|dBGB A2:||
+
+
+X:16290
+T:Talk me out of it
+S:Andy Hornby
+R:Other
+O:England
+N:1994
+M:4/4
+C:Andy Hornby
+A:Lancaster
+K:D
+A>G|F>Ad>c B>AG>F | G>Ee>d c>BA>G | \
+F>Ad>c B>Ge>d | c>BA>^G A2-A>=G | \
+F>Ad>c B>AG>F | G>Ee>d c2a>g | \
+f>ed>c B>ge>c | d2d>cd2::\
+e>f | g>bg>e c>de>c | f>af>d B2c>d | \
+e>ge>d c>ec>B | A>BG>A F2 (3def | \
+g>bg>e (3fga f>d | e>ge>c d>ef>g | \
+a>fg>e (3fed e>c | d2d>c d2:|**
+W:Copyright Andy Hornby
+
+
+X:16291
+T:Tam Lin
+T:The Howling Wind
+T:Ceilidh Funk
+R:Reel
+N:Nathan Curry
+M:4/4
+L:1/8
+Q:1/4=200
+K:Am
+AB|AE~E2 AcBA|~F2AF cFAF| ~G2BG dGBG| cBAG (3EFG AB|
+AE~E2 AcBA|~F2AF cFAF| ~G2 BG dGBG| cBAG A2:|
+eg|ae ~e2 ceAg| ae ~e2 ceAf|gB~B2 gBaB|gfga gfeg|
+ae ~e2 ceAg| ae ~e2 ceAE| ~F2FE FA{d}cA|BAGB A2:|
+
+
+X:16292
+T:Tam Lin
+T:Howling Wind
+R:reel
+H:Often first played in Dm a few times round,
+H:then in Am (#782) a few times round
+Z:id:hn-reel-234
+M:C|
+K:Dm
+A,2DA, FA,DA,|B,2DB, FB,DB,|C2EC GCEC|FEDC A,DDC|
+A,2DA, FA,DA,|B,2DB, FB,DB,|C2EC GCEC|FEDC A,DD2:|
+|:dA~A2 FADA|dA~A2 FADA|cG~G2 EG~G2|cG~G2 cdec|
+dA~A2 FADA|dA~A2 FADA,|~B,3A, B,CDE|FDEC A,DD2:|
+
+
+X:16293
+T:Tam Lin
+T:Howling Wind
+M:C|
+L:1/8
+S:Session in Sligo 1991
+R:reel
+N:First played in Dm a few times, then in Am a few times
+K:Dm
+A,2DA, FA,DA,|B,2DB, FB,DB,|C2EC GCEC|FEDC A,DDC|
+A,2DA, FA,DA,|B,2DB, FB,DB,|C2EC GCEC|FEDC A,DD2:|
+|:dA~A2 FADA|dA~A2 FADA|cG~G2 EG~G2|cG~G2 cdec|
+dA~A2 FADA|dA~A2 FADA,|~B,3A, B,CDE|FDEC A,DD2:|
+
+
+X:16294
+T:Tam Lin
+T:Howling Wind
+M:C|
+L:1/8
+S:Session in Sligo 1991
+R:reel
+N:First played in Dm a few times, then in Am a few times
+K:Am
+E2AE cEAE|F2AF cFAF|G2BG dGBG|cBAG EAAG|
+E2AE cEAE|F2AF cFAF|G2BG dGBG|cBAG EAA2:|
+|:ae~e2 ceAe|ae~e2 ceAe|gd~d2 Bd~d2|gd~d2 gabg|
+ae~e2 ceAe|ae~e2 ceAE|~F3E FGAB|cABG EAA2:|
+
+
+X:16295
+T:Tam Lin
+M:C
+L:1/8
+K:A minor
+A2|EAcA EAcA|FAcA FAcA|GBdB GBdB|cedB cBAG|!
+EAcA EAcA|FAcA FAcA|GBdB GBdB|cABG A2:|!
+e2|a^gae cAA2|a^gae cAA2|gBBB gBaB|gBBB e^fge|!
+a^gae cAA2|a^gae cAA2|FAcA GBdB|cABG A2:|!
+
+
+X:16296
+T:Tam Lin
+T:Howling Wind
+R:reel
+H:Often first played in Dm (#234) a few times round,
+H:then in Am a few times round
+Z:id:hn-reel-782
+M:C|
+K:Am
+E2AE cEAE|F2AF cFAF|G2BG dGBG|cBAG EAAG|
+E2AE cEAE|F2AF cFAF|G2BG dGBG|cBAG EAA2:|
+|:ae~e2 ceAe|ae~e2 ceAe|gd~d2 Bd~d2|gd~d2 gabg|
+ae~e2 ceAe|ae~e2 ceAE|~F3E FGAB|cABG EAA2:|
+
+
+X:16297
+T:Tam Lin
+Z: id:dc-reel-327
+M:C
+L:1/8
+K:A minor
+G|EAcA EAcA|FAcA FAcA|GBdB GBdB|cedB cBAG|!
+EAcA EAcA|FAcA FAcA|GBdB GBdB|cABG A3:|!
+e|a^gae cAA2|a^gae cAA2|gBBB gBaB|gBBB e^fge|!
+a^gae cAA2|a^gae cAA2|FAcA GBdB|cABG A3:|!
+
+
+X:16298
+T:Tam Lin
+T:Howling Wind
+R:reel
+N:First played in Dm a few times round, then in Am a few times round
+Z:id:hn-reel-234
+M:C|
+K:Dm
+A,2DA, FA,DA,|B,2DB, FB,DB,|C2EC GCEC|FEDC A,DDC|
+A,2DA, FA,DA,|B,2DB, FB,DB,|C2EC GCEC|FEDC A,DD2:|
+|:dA~A2 FADA|dA~A2 FADA|cG~G2 EG~G2|cG~G2 cdec|
+dA~A2 FADA|dA~A2 FADA,|~B,3A, B,CDE|FDEC A,DD2:|
+K:Am
+E2AE cEAE|F2AF cFAF|G2BG dGBG|cBAG EAAG|
+E2AE cEAE|F2AF cFAF|G2BG dGBG|cBAG EAA2:|
+|:ae~e2 ceAe|ae~e2 ceAe|gd~d2 Bd~d2|gd~d2 gabg|
+ae~e2 ceAe|ae~e2 ceAE|~F3E FGAB|cABG EAA2:|
+
+
+X:16299
+T:Tam Lin
+Z: id:dc-reel-328
+M:C
+L:1/8
+K:D Minor
+C|A,DFD A,DFD|B,DFD B,DFD|CEGE CEGE|FAGE FEDC|!
+A,DFD A,DFD|B,DFD B,DFD|CEGE CEGE|FDEC D3:|!
+A|d^cdA FDD2|d^cdA FDD2|cEEE cEdE|cEEE A=BcA|!
+d^cdA FDD2|d^cdA FDD2|B,DFD CEGE|FDEC D3:|!
+
+
+X:16300
+T:Tam Lin
+M:C
+L:1/8
+K:D Minor
+D2|A,DFD A,DFD|B,DFD B,DFD|CEGE CEGE|FAGE FEDC|!
+A,DFD A,DFD|B,DFD B,DFD|CEGE CEGE|FDEC D2:|!
+A2|d^cdA FDD2|d^cdA FDD2|cEEE cEdE|cEEE A=BcA|!
+d^cdA FDD2|d^cdA FDD2|B,DFD CEGE|FDEC D2:|!
+
+
+X:16301
+T:Tam Lin (Howling Wind)
+M:4/4
+L:1/8
+S:Paddy O'Brien Tune Collection
+R:Reel
+N:Paddy O'Brien played this in Dm, but we play it in Em around
+N:here.....The original name is Tam Lin, he renamed it with "The Howling
+N:Wind" because he thought it needed a better name.
+K:EMin
+B,E (3EFE DEFD|C2EC GCEC|D2FD ADFD|CDEG FEDC|!
+B,E (3EFE DEFD|C2EC GCEC|D2FD ADFA|1GFED B,EED:|2GFED B,EEB|!
+|:eBBA GEGB|eBBA GEGB|dA (3AAA FAAB|dAAB defd|!
+eBBA GEGB|eBBA GEDE|CB,CD EDEF|1GBAF GEGB:|2GBAF GEE2||!
+
+
+X:16302
+T:Tam Lin Reel 
+Z:abc transcription Simon Wascher
+N:please mail errors to: simon.wascher@chello.at
+M:2/4
+L:1/16
+K:Gm
+D2GD BDGD|E2GE BEGE|F2AF BAGF|Gfdc BAGF|
+D2GD BDGD|E2GE BEGE|F2AF BAGF|BAGFG4:|
+|:g^fgd BAG2|g^fgd BAG2|Af-f A f-f Af|f2ga ^a=agf|
+g^fgd BAG2|g^fgd BAGD|E2GE BEGE|BAGFG4:|
+
+
+X:16303
+T:Tam's Hunting Horn
+% Nottingham Music Database
+S:AA, via EF
+M:6/8
+K:C
+P:A
+(3G/2G/2G/2|"C"ceG ceG|"C"c2e g2g|"F"a2a "C"g2e|"Dm"d3 -d2G|
+"G"BdG BdG|"G7"B2d f2f|"G7"g2f e2d| [1"C"e3 "G7"e2:|
+ [2"C"c3 c2||\
+P:B
+d/2c/2|"G7"BGG d2B|"C"cGG e2c|"F"fcA cfa|
+"G7"g3 -g2G|"C"gec gec|"C"G2c cdc|"G7"B2G GBd|"C"c3 c2:|
+
+
+X:16304
+T:Tambourine
+M:C|
+K:D
+"Moderato"\
+f2e/f/g f2e2| dfed ("tr"c2B)A| \
+d2c/d/e d2(e/f/g)| fagf e4|\
+f2e/f/g f2e2| dfed "tr"c2BA| 
+d2c/d/e d2e/f/g| fdAc d4::\
+a2g/a/b ad'fg| ab/a/ g/f/e/d/ "tr"c2BA|
+d2c/d/e d2e/f/g| fagf {f}e4|\
+f2d/e/f/g/ f2e2| dfed c2BA| d2c/d/e d2e/f/g| fdAc d4:|
+
+
+X:16305
+T:Tank,The. GS.075
+M:2/4
+L:1/8
+Q:400
+S:George Spencer m/s, Leeds,1831
+R:Misc.
+O:England
+A:Leeds
+N:"1" The chord at the end of the A music  has a vertical curved line,
+N:like a vertical slur  n front of it...'1831' is written on the stave
+N:after the last double bar.
+H:1831
+Z:vmp.Cherri Graebe
+K:BB major
+B2b2 | G2g2 | (fd).c.B | (ec).B.A | .d.e f2 |! .e.f.g2 | fga2 | 
+"1"[B4b4]:||:d2dd | f3 d |! (ge) (ec) 
+ (cA) (AF) | d2 de | f3 b | gecA | [D4B4]:||
+
+
+X:16306
+T:Tank. JC.157
+M:2/4
+L:1/8
+Q:400
+S:John Clare,Poet,Helpstone (1793-1864)
+R:Misc.
+O:England
+A:Northamptonshire
+N:
+Z:P Headford
+K:G
+G2g2|E2e2|dedc|BAG2|BcdB|cdec|d2g2g4:|!
+|:B2d2|d2cB|eccA|AFFD|B2d2|d2cB|ecAF|G4:|]
+
+
+X:16307
+T:Tansey's Favourite
+R:Jig
+S:Seamus Tansey (flute)
+D:Clare FM broadcast. From the Miltown Malbay flute recital.
+H:The Tansey of the title is another Tansey, not the player.
+H:The transcription here is somewhat rationalised
+M:6/8
+Z:Bernie Stocks
+K:G
+|: BdB (3ABcA | BdB {d}B2G | BGB dBG | ABA DFA | ~B3 ~A3 | GBd g2g | edc BcA | AGF G3
+:|
+|: dcB gdB | GBd g3 | cAc fcA | GBd g3 | BAG AGF | GBd g3 | edc BcA | AGF G3 :|
+
+
+X:16308
+T:Tansey's Favourite
+R:reel
+S:Tommy Peoples & Dermot Byrnes
+H:
+N: Also on John Carty: Last Night's Fun 
+D:Concert, Galway.
+Z:Adrian Scahill
+M:4/4
+L:1/8
+K:G
+G2DG EGDG|GABG AEE2|G2BG (3EFG AB|1 cedc BcAB:|2 c2Ac BGG2||\
+gdd2 eBB2|(3dcB AB GEE2|gdd2 edcd|(3Bcd gd BGG2|\
+g2fg eBdB|c3B AGEG|c3d edfa|gedc BcAB||
+
+
+X:16309
+T:Tant Tivey. JMT.010
+M:6/8
+L:1/8
+S:John Moore,Tyneside,1841. (06)
+R:Jig
+O:England
+A:Northumbria
+H:1841
+Z:vmp.John Adams
+K:D
+A| d2d B2G | F2G A2d | B2d ceg | f3 e2A | 
+d2d f2d | B2B e2d | c2c BAB | A3 zcd |!
+ e2c A2A |f2d A2A | f2d A2d | cd/2e/2 f a2 f |
+ f3 e2A |FGA Bcd | efg afd | B2e d2c | d3 d2  A/2A/2 |!
+ A3 A3 |A-d2 d2 A/2A/2 | AFA AFA |  (Ad)d d2(c/2d/2) | 
+e3 e3| (e-a).a .a2 c/2d/2|ece ece | (ea)a a2a|!
+fdd d2f | eAA A2a | fdd d2f | eAA A2 B/2c/2 |
+d2f d2f  | d3 z2 A/2A/2 | d2f d2f | a3 z2 (A/G/) |!
+FGA Bcd | efg afd | B2e d2c | d3 a3 | 
+f2f ede | a3 g3 |  f2f ede | ddd d2|]
+
+
+X:16310
+T:Tant Tivey. JMT010
+M:6/8
+L:1/8
+S:John Moore,Tyneside,1841. (06)
+R:Jig
+O:England
+A:Northumbria
+H:1841
+Z:John Adams
+K:D
+A| d2d B2G | F2G A2d | B2d ceg | f3 e2A | 
+d2d f2d | B2B e2d | c2c BAB | A3 zcd |!
+ e2c A2A |f2d A2A | f2d A2d | cd/2e/2 f a2 f |
+ f3 e2A |FGA Bcd | efg afd | B2e d2c | d3 d2  A/2A/2 |!
+ A3 A3 |A-d2 d2 A/2A/2 | AFA AFA |  (Ad)d d2(c/2d/2) | 
+e3 e3| (e-a).a .a2 c/2d/2|ece ece | (ea)a a2a|!
+fdd d2f | eAA A2a | fdd d2f | eAA A2 B/2c/2 |
+d2f d2f  | d3 z2 A/2A/2 | d2f d2f | a3 z2 (A/G/) |!
+FGA Bcd | efg afd | B2e d2c | d3 a3 | 
+f2f ede | a3 g3 |  f2f ede | ddd d2|]
+
+
+X:16311
+T:Tar Road to Sligo
+R:Jig
+Z:added by Alf Warnock
+M:6/8
+L:1/8
+K:D
+e|fdB Bcd|ecA BAG|FAA ABc|dcd efg|
+fdB Bcd|ecA BAG|FAA Aag|1 fdc d2e:|2 fdc d2B||
+Aff Aff|gfg efg|afd dcd|Bed cBA|
+Aff Aff|gfg efg|afd bge|edc d2B|
+Aff Aff|gfg efg|afd dcd|Bed cBA|
+fdB gec|afd bge|a^ga b=ge|edc d2|]
+
+
+X:16312
+T:Tar Road to Sligo
+R:Jig
+Z:added by Alf Warnock
+M:6/8
+L:1/8
+K:D
+e|fdB Bcd|ecA BAG|FAA ABc|dcd efg|
+fdB Bcd|ecA BAG|FAA Aag|1 fdc d2e:|2 fdc d2B:||
+Aff Aff|gfg efg|afd dcd|Bed cBA|
+Aff Aff|gfg efg|afd bge|edc d2B|
+Aff Aff|gfg efg|afd dcd|Bed cBA|
+fdB gec|afd bge|a^ga b=ge|edc d2|]
+
+
+X:16313
+T:Tar Road to Sligo, The
+T:Coleman's
+R:jig
+D:Bothy Band 1975
+Z:id:hn-jig-70
+M:6/8
+K:D
+fdB Bcd|ecA BAG|FGA ABc|dcd efg|fdB Bcd|ecA BAG|FGA Aag|1 fdc d2e:|2 fdc d2B||
+|:Adf Adf|~g3 efg|afd dcd|Bed cBA|1 Adf Adf|~g3 efg|afd bge|
+edc d2B:|2 fdB gdc|afd bge|~a3 bge|edc d2e||
+
+
+X:16314
+T:Tara Hill
+R:Hornpipe
+C:Ed Reavy
+M:4/4
+L:1/8
+Z:Joe Reavy
+N:A little-known hornpipe of Ed's that could 
+N:in time become one of his most popular compositions.
+K:G
+(3def|gd^cd BGDC|B,DGB edcB|cAFD ^CDFA|
+(3cBc ed cAFA|BGDC B,G,B,D|GABd cAFA|
+fed^c =cAFA|GDB,D G2:||(3def|gdcd edcd|
+eaa^g a2 ef|gfge fdcA|Gggf gedc|BGDC B,G,B,D|
+GABd cAFA|fed^c =cAFA|GDB,D G2:||
+
+
+X:16315
+T:Tarantella
+C:Y. Dour: AccordÃ©ons diatoniques
+M:6/8
+L:1/8
+K:G
+ded BGB|ded AFA|cdc AFA|cdc BGB|\
+ded BGB|ded AFA|ABc dcB|ABA G3:|
+|:+G2d2+ +Gd+ +G2B2+ +GB+|+G2d2+ +Gd+ +F3A3+|\
++F2c2+ +Fc+ +F2A2+ +FA+|+F3d3+ +G3B3+|\
++G2d2+ +Gd+ +G2B2+ +GB+|+G2d2+ +Gd+ +F3A3+|\
+ABc dcB|ABA G3:|
+|:ded BGB|ded +A3-f3-+|+A2f2+ +Af+ +A3e3+|\
++A3f3+ +B3-g3-+|+B2g2+ +Bg+ +B3d3+|\
++B3g3+ +A3-f3-+|+A2f2+ e fed|cBA G3:|
+
+
+X:16316
+T:Tarantella
+R:Tarantella
+O:Other
+M:6/8
+K:Am
+a2a e2e|a2a e2e|f2f fgf|e3 efe|\
+d2d ded|c2c cdc|B2B BcB|1 A3 Ace :|2 A3 |:
+A2B|\
+cBc dcB|cBc dcB|cBA ^GAB|A3 A2B|\
+cBc dcd|ede fed|cBA ^GAB|A3 :|
+A2G|\
+c2c cde|g2g gag|f2f fgf|e2G GAB|\
+c2d e2f|g2g a2g|bag fed|c3 e2f|
+gfg a2g|f3 d2e|fef g2f|e3 e2g|\
+fed d2d|edc c2d|e2d c2B|(A3 A2)||
+
+
+X:16317
+T:Tarantella
+R:Tarantella
+O:France
+M:6/8
+K:Am
+a2a|e2e a2a|e2e efe|f2f afb|e2e cde|\
+d2d Bcd|c2c ABc|BAB dcB|A3:|\
+|:A2B|cBc dcB|c2c ABc|BAB dcB|A3:|
+
+
+X:16318
+T:Tarantella di Montemarano
+C:Mario Salvi
+S:Organetto diatonico
+M:12/8
+L:1/8
+K:C
+e f2e|:d2e f2e ded c2B|A2c e2d cdc B2A|\
+B2c d2e ded c2B|1 +Ace+z+Ace+ \
+efe ez+Ace+ f2e:|2 Az+Ace+ +A3c3e3+ z2c cdc||
+|:Bz2 BcB B2d ded|cz2 ABA A2c cdc|\
+c2B B2c Bcd c2B|1 A2A ABA A2c cdc:|2 +A6-c6-e6-++A2c2e2+e f2e||
+|:dzd d2c Bcd c2B|czc c2d efe d2c|\
+BzB B2c ded c2B|1 AzA A2B cBA cBA:|2 +A6-c6-e6-++A2c2e2+A B2c||
+|:d2z BcB B2B c2d|c2z ABA A2A B2c|\
+ded B2c ded c2B|1 AzA ABA AzA B2c:|2 +A3c3e3+ efe cAc efe||
+|:cAc efe ded cdc|B2z ded BEB ded|\
+BEB ded cdc BcB|Az2 efe cAc efe|
+cAc efe ded cde|f3-fde fed fed|\
+edc edc dcB dcB|1 Az2 efe cAc efe:|2 A3 eze fzf efe\
+|:dzd dcd eze ded|czc cBc dzd cdc|\
+c2B BzB cBc dcd|1 e3 ede fzf efe:|2 c2B B2c ded c2B|\
+A3 +A3c3e3+ cBA A3|G2 +GBd+ +G3B3d3+ e2z d2z||
+K:G
+|:dzA z2d d2e d2c|d2B BcB e2d e2d|\
+d2c cBc d2e d2c|1 Bcd Bcd ezd e2d:|2 B3 Bcd eee ded||
+|:cdc cBc ded cdc|BcB Bcd eee ded:|cdc cBc d2e d2c|B3 Bcd ez2 dz2|
+A2z ABc dz2 cz2|Bz2 Bcd ez2 dz2|Az2  ABc dz2 cz2|Bz2 Bcd ez2 dz2|
+Azd Azd d2e d2c|dcB Bcd eze ded|\
+czc cBc d2e d2c|+G3-B3-d3-++GBd+z2 BcB B2d|
+d2A ABA c2A ABA |c2B BcB BcB B2d|d2A ABA c2A ABA |c2B Bcd e2d e2d|
+fzf f2d f2d f2d|gzg g2d g2d g2d|fzf f2d f2e d2c|+G6B6d6+ z2B c2d||
+|:eze ede f2e d2c|B2d dcd e2d c2B|1 A2c cdc BcB ABc|
+d2B BcB BzB c2d:|2 A2c cdc BcB ABA|\
+G2 +GBd+ +G6B6d6+ d3|c2 +ceg+ +c3-e3-g3-++c2e2g2+=f fef||
+K:C
+|:e2d cde d3d3|c2e c3 (2fe fef|\
+e2d cde d3d3|1 c3 +c3e3g3+ z2 f fef:|2 +c6-e6-g6-+ +c2e2g2+c d2 e||
+|:a2 aba aza b2a|g2g c'g ege geg|\
+f2e d2c B3d3|1 c2e c2e czc d2e:|2 c2e +c3e3g3+ f2e f2e||
+|:d3d3 e2d e2d|c3c3 f2e f2e|\
+ded dcd e2d e2d|1 c3c3 f2e f2e:|2 c3 c3 f3 +^F3A3d3+||
+K:G
+G2 +GBd+ +G3B3d3+ ez2 dz2|:dzA z2d d2e d2c|dzB BcB e2d e2d|\
+d2A ABA d2e d2c|1 Bcd Bcd e2d e2d:|2 +G3B3d3+ BcB A2c Bzc|\
+ded BcB Aze d2c|BcB dcB A2c B2c|ded BcB Aze d2c|B2d ded d2c B2c|\
+ded ded d2c B2c|ded ded d2c B2c|d6 +c3e3+ +d3f3+|+d6g6+ +d3f3+ +c3e3+|\
++b3d3+ ded d2c B2c|ded ded d2c B2A|G2z z2 +G6B6d6+||
+
+
+X:16319
+T:Tarbolton
+R:Reel
+H:This set comes from the playing of Michael Coleman.
+N:Often played as a set: Tarbolton/The Longford Collector/The
+N:Sailor's Bonnet.
+Z:id:hn-reel-21
+M:4/4
+L:1/8
+Q:1/4=200
+K:Edor
+|:Beed e2BA|GBAF GFEF|Dddc d2AG|FAGE FEDF|
+Eeed efge|fedf e2BA|GABG FGAF|BGAF GEE2:|
+|:gfef gebe|gebe gfec|d2fd Adfd|cdAG FDEF|
+GABG FGAF|E2ef gfed|BcdB A2FA|BGAF GEE2:|
+
+
+X:16320
+T:Tarbolton
+M:C
+L:1/8
+K:E Dorian
+D|Eeed e2AF|GBAF GEEF|Dddc d2AF|GBAG FDDF|!
+Eeed efge|fedf edBA|GABG F2Ac|BGAF GEE:|!
+f|gfef gebe|gebe gfec|defg a2AF|GBAG FDDF|!
+G2BG F2AF|Eeef gfed|BcdB AGFA|BGAF GEE:|!
+
+
+X:16321
+T:Tarbolton
+Z: id:dc-reel-329
+M:C
+L:1/8
+K:E Minor
+D|Eeed e2AF|GBAF GEEF|Ddd^c d2AF|GBAG FDDF|!
+Eeed efge|fedf edBA|GABG F2Ac|BGAF GEE:|!
+f|gfef gebe|gebe gfe^c|defg a2AF|GBAG FDDF|!
+G2BG F2AF|Eeef gfed|BcdB AGFA|BGAF GEE:|!
+
+
+X:16322
+T:Tarbolton Lodge
+Z:Footnote: 16 July 1996
+M:4/4
+L:1/8
+Q:212
+K:E
+Eee^d e2BA|GBAF GEEF|Ddd^c d2AF|GBAG FDDF|Eee^d efge|fedf B2BA|GABG FGAF
+|BGAF GEEF|
+W: Em Em B Em D A D D7 Em Bm Em Em D B7 Em
+Eee^d e2BA|GBAF GEEF|Ddd^c d2AF|GBAG FDDF|Eee^d efge|fedf B2BA|GABG FGAF
+|BGAF GEEf|
+W: Em Em B Em D A D D7 Em Bm Em Em D B7 Em
+gfef gebe|gebe geef|defg adfd|ABAG FDDF|G2BG F2AF|E2ef geBA|GABG FGAF|BG
+AF GEEf|
+W: Em Em Em D A D D7 Em B Am Em Em Dm B Em
+gfef gebe|gebe geef|defg adfd|ABAG FDDF|G2BG F2AF|E2ef geBA|GABG FGAF|BG
+AF GEE
+W: Em Em D A D D7 Em B Am Em Em Dm B Em
+
+
+X:16323
+T:Tarbolton reel, The
+R:Reel
+O:Ireland
+M:4/4
+K:EDor
+E2eB e2BA|GBAF AGEF|D2dc d2AG|FDAG FDDF|\
+EBed efge|fedf edBA|GABG FGA=c|BGAF GEE2::\
+g/a/g/f/ ef (3gfe be|(3gfe be gfec|\
+(3ddd fd adfd|(3Bcd AG FDDF|\
+(3GGG BG (3FFF AF|EG ef gfed|\
+B2 (3dcB AFA=c|BGAF GEE2:|
+
+
+X:16324
+T:Tarbolton, The
+R:reel
+H:Originally Scottish: "Tarbolton Lodge"
+N:Often played as a set: The Tarbolton/The Longford Collector/The Sailor's Bonnet.
+N:This set comes from the playing of Michael Coleman.
+Z:id:hn-reel-21
+M:C|
+K:Edor
+Beed e2BA|GBAF GFEF|Dddc d2AG|FAGE FEDF|
+Eeed efge|fedf e2BA|GABG FGAF|BGAF GEE2:|
+|:gfef gebe|gebe gfec|d2fd Adfd|cdAG FDEF|
+GABG FGAF|E2ef gfed|BcdB A2FA|BGAF GEE2:|
+"Variations:"
+|:e2~e2 eBBA|GBAF GFEF|Dddc d2AG|FAGE FEDF|
+~B3d efge|fedf eBBA|GBAG FGA=c|BGAF GEE2:|
+|:~e3f gfef|gebe gfef|d2fd Adfd|cdAG FDEF|
+~G3B ~F3A|E2ef gfed|ed=cB ABGA|(3Bcd AF GEE2:|
+
+
+X:16325
+T:Tarbolton, The
+T:Cooleen Bridge, The
+T:Hatton Burn
+S:Johnny Cronin, Paddy Cronin, James Kelly \& Johnny McGreevy
+N:transcribed by Alan Ng
+H:Made popular by Michael Coleman's recording
+D:on {\it My Love Is In America}, Green Linnet 1110
+Z: id:ng-reels-6 transcribed by Alan Ng agng@students.wisc.edu 1995
+E:13
+M:C|
+R:reel
+K:EDor
+GB|:Eeed eBBA|GBAF GFEF|Dddc dAAG|FDAG FDDF|\
+Eeed efge|fedf edBA|GABG FGAF|BGAF GE E2:|*
+|:gfef gebe|gebe gfec|d2 fd Adfd|GBAG FDDF|\
+GABG FGAF|E2 ef gfed|B2 =cB AGFG|BGAF GE E2:|**
+\bigskip
+
+
+X:16326
+T:Tarbolton, The
+T:Cooleen Bridge, The
+T:Hatton Burn
+S:Johnny Cronin, Paddy Cronin, James Kelly \& Johnny McGreevy
+N:transcribed by Alan Ng
+H:Made popular by Michael Coleman's recording
+D:on {\it My Love Is In America}, Green Linnet 1110
+Z: id:ng-reels-6 transcribed by Alan Ng agng@students.wisc.edu 1995
+E:13
+M:C|
+R:reel
+K:EDor
+GB|:Eeed eBBA|GBAF GFEF|Dddc dAAG|FDAG FDDF|\
+Eeed efge|fedf edBA|GABG FGAF|BGAF GE E2:|*
+|:gfef gebe|gebe gfec|d2 fd Adfd|GBAG FDDF|\
+GABG FGAF|E2 ef gfed|B2 =cB AGFG|BGAF GE E2:|**
+\bigskip
+
+
+X:16327
+T:Tarbolton, The
+R:reel
+H:This set comes from the playing of Michael Coleman.
+N:Often played as a set: The Tarbolton/The Longford Collector/The Sailor's Bonnet.
+Z:id:hn-reel-21
+M:C|
+K:Edor
+Beed e2BA|GBAF GFEF|Dddc d2AG|FAGE FEDF|
+Eeed efge|fedf e2BA|GABG FGAF|BGAF GEE2:|
+|:gfef gebe|gebe gfec|d2fd Adfd|cdAG FDEF|
+GABG FGAF|E2ef gfed|BcdB A2FA|BGAF GEE2:|
+"Variations:"
+|:e2~e2 eBBA|GBAF GFEF|Dddc d2AG|FAGE FEDF|
+~B3d efge|fedf eBBA|GBAG FGA=c|BGAF GEE2:|
+|:~e3f gfef|gebe gfef|d2fd Adfd|cdAG FDEF|
+~G3B ~F3A|E2ef gfed|ed=cB ABGA|(3Bcd AF GEE2:|
+
+
+X:16328
+T:Tarnbrook rant
+R:Hornpipe
+O:England
+M:3/2
+N:A hamlet on the edge of the Forest of Bowland
+A:Lancashire
+B:Winder
+K:Dm
+FEA2 Bcd2 gfed | e2E4 c2cBAG |\
+FEA2 Bcd2 gfef | d2D4 c2cBAG :|*
+|:gfed gfa2 gfed | e2E4 c2cBAG |\
+gfed gfa2 gfed | e2E4 c2cBAG :|*
+|:BGA2 Bcd2 G2FG | c2E4 c2 cBAG |\
+GFA2 Bcd2 GFA2 | d2D4 c2cBAG:|**
+
+
+X:16329
+T:Tartar's Plaid. WM.040
+M:C
+L:1/8
+Q:180
+S:Wm.Mittell's MS,New Romney,Kent,1799
+R:Reel
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:D
+f/g/|adfd adfd|ad fg/a/ be ef/g/|adfd adfd|gbag fdd:|!
+|:d|AdFd Adfd|AdFd eEEd|AdFd Acfa|gbag fddd|!
+AdFd Adfd|AdFd eEEg/a/|bgaf gefd|gbag fdd2:|] 
+
+
+X:16330
+T:Tartar's Plaid. WM040
+M:C
+L:1/8
+Q:180
+S:Wm.Mittell,1799
+R:Reel
+O:England
+A:Kent
+Z:C.G.P
+K:D
+f/g/|adfd adfd|ad fg/a/ be ef/g/|adfd adfd|gbag fdd:|!
+|:d|AdFd Adfd|AdFd eEEd|AdFd Acfa|gbag fddd|!
+AdFd Adfd|AdFd eEEg/a/|bgaf gefd|gbag fdd2:|] 
+
+
+X:16331
+T:Tatter Jack Walsh
+R:jig
+I:speed 350
+E:10
+M:6/8
+K:DMix
+de|~f3 ded|cAB c2d|cAF GFG|Ad^c d2e|\
+fef ded|cAB c2d|cAF GFG|Ad^c d2:|*
+A|dfa afd|dfa afd|ceg gfg|ceg gag|\
+fef ded|cAB c2d|cAF GFG|Ad^c d2:|**
+
+
+X:16332
+T:Tatter Jack Walsh
+R:jig
+D:Gerry O'Connor
+Z:id:hn-jig-153
+M:6/8
+K:Dmix
+~f3 ded|cAB c2A|dcA GFG|Add efg|
+fef ded|cAB c2A|dcA GFG|1 Ad^c d2e:|2 Ad^c d2A||
+|:dfa afd|dfa a2f|~g3 gag|e^cd efg|
+fgf ded|cAB c2A|dcA GFG|1 Ad^c d2A:|2 Ad^c d2e||
+"Variations:"
+|:faf ded|cAB cde|dcA GFG|Add efg|
+fdd ded|cAB c2e|dcA GFG|1 Ad^c d2e:|2 Ad^c d2A||
+dfa dfa|dfa agf|~g3 gag|e^cd e2g|f/g/af ded|cAB cde|dcA GFG|Ad^c d2A||
+dfa afa|dfa afa|~g3 gag|gef gfg|afd fed|cAB cde|dcA GFG|Ad^c d2e||
+
+
+X:16333
+T:Tatter Jack Walsh
+R:Jig
+E:10
+M:6/8
+L:1/8
+K:Dmix
+de|~f3 ded|cAB c2d|cAF GFG|Ad^c d2e|
+fef ded|cAB c2d|cAF GFG|Ad^c d2:|
+A|dfa afd|dfa afd|ceg gfg|ceg gag|
+fef ded|cAB c2d|cAF GFG|Ad^c d2:|
+
+
+X:16334
+T:Taur Polka, The
+R:polka
+S:Session at Fleadh Ceol in Sligo, 1990
+Z:id:hn-polka-24
+M:2/4
+L:1/8
+K:Dmix
+AD FA|d^c AB|=c>B cE|EF GE|AD FA|d^c AB|=c>B cE|ED D2:|
+|:fg/f/ ed|^cA Ae|fg/f/ ef|ag e=f|fg/f/ ed|^cA AB|=c>B cE|ED D2:|
+
+
+X:16335
+T:Taur Polka, The
+S:Denis Brooks
+R:polka
+E:9
+I:speed 450
+M:2/4
+K:D
+B|{AB}A2D2 .F.GA2|d2c2 A2B2|=c3 z {d}c2G2|{EG}D2F2 {c}G2B2|{AB}A2D2 .F.GA2|d2c2 A2B2|=c3 z {d}c2E2|{GEF}E2.D2 D3:|
+e|{a}f2gf e2.d2|c2.A2 A2d2|f2d2 e2f2|{a}g4 a2.g2|{a}f2gf e2.d2c2.A2 A2B2|=c3 z {d}c2E2|{GEF}F2.D2 D3:|
+
+
+X:16336
+T:Tavol Turkey
+M:3/4
+L:1/8
+R:waltz
+Z:bil@blueskiesink.com
+K:A
+cc c2 A2|cc c2 A2|cc c2 d2|c2 B4|
+BB B2 G2|BB B2 G2|BB B2 c2|B2 A4:|!
+cB A2 c2|e2 a4|aa a2 e2|c B4|
+BA G2 B2|d2 g4|ff e2 f2|1d2 c4:|2 g2 a4||
+
+
+X:16337
+T:Tawny Gate Corner. BF11.08
+M:6/8
+L:1/8
+C:Browne A hand
+S:MS11,c1800?.,Browne Coll.,Lakes
+R:Jig
+O:England
+A:Lakes
+N:See 'Fill the Tankard"
+Z:vmp.Cherri Graebe.
+K:A major
+g|a2ag2e|fga g2e|a2f ecA|B3B2g|!a2ag2e|fga g2e|a2f edc|A3A2:|!
+|:d|c2Ac2e|fgag2e|a2f ecA|B3B2d|!c2Ac2e|fga g2e|a2f edc|A3A2:||
+
+
+X:16338
+T:TawnyGate Corner
+M:6/8
+L:1/8
+S:Armitt MS
+N:See 'Fill the Tankard"
+K:A major
+g|a2ag2e|fga g2e|a2f ecA|B3B2g|a2ag2e|fga g2e|a2f edc|A3A2:||:d|c2Ac2e|
+fgag2e|a2f ecA|B3B2d|c2Ac2e|fga g2e fa f edc|A3A2:||
+
+
+X:16339
+T:Tay In The Bog
+R:Jig
+C:Seamus Quinn
+S:(Sharon Shannon)
+H:
+N:See also Dog Big and Dog Little/Seamus Quinn
+D:Galway Arts Festival Concert
+Z:Adrian Scahill
+M:6/8
+L:1/8
+K:D
+A,DD DED|FAA A2B|AFB AFD|B,EE EDB,|\
+A,DD DED|FAA A2B|AFB AFD|B,EC D3:||\
+ABc dAF|B3 AFD|D2d dAF|EBB B2F|\
+ABc dAF|B3 AFE|D2F AFD|B,EC D3:||
+
+
+X:16340
+T:Teague's Ramble
+S:WB Olson, irtrad-l, 11/97
+N:A New Selection of the most Admired Original Irish Airs,
+N:Hime:Dublin, n.d. (c 1800). one of 22 tunes.
+N:Copy at Lib. of Congress
+H:From a Scots MS of the 1740's. Rebinding narrowed margins and
+H:obscured some text. There are broadside copies extant, but I
+H:haven't seen one. A shorter copy of the song is in the later
+H:Scots Mansfield/ St. Clair MS. The similar American song
+H:"Nottamun/Nottingham town" is probably to some extent derived
+H:from this.]
+Q:56
+L:1/8
+M:6/8
+K:Dm
+A|d3/2e/2d/2e/2 f3/2a/2g/2f/2|ecc c2A|\
+d3/2e/2d/2e/2 f3/2a/2g/2f/2|eAA A2f/2g/2|\
+a3/2b/2a/2b/2 g3/2a/2g/2a/2|\
+f/2e/2f/2a/2g/2f/2 {f}e2e|\
+f/2e/2f/2g/2a/2f/2 g/2f/2g/2a/2b/2g/2|add d2|]
+W:Dear Catholick sister thou son of great M[ars
+W:I've been at the fighting where there was no w[ars
+W:no guns or no swords, but a great deal of arm[s
+W:to kill our poor friends that wou'd do us no ha[rms
+W:I set out for Dublin, next michael mass pas[t
+W:and Gallop't to Chester in a Damnable has[te
+W:but the seas blow'd a storm, & the winds they di[--
+W:which cast me away on the shore by my sho[--
+W:I having no haste did ride post to the mar[--
+W:Dear sister pray hear my poor sorrowful [--
+W:My] horse standing still, She threw me in the dirt |f.187.
+W:I] doubed all my flesh & sore bruised my shirt
+W:I] being of Courage I mounted again
+W:And] on my ten toes I tript over the main
+W:The]re taking a nap for six days on the ground
+W:In th]ree I arrived in fair London Town
+W:And] when I came there not a shoul cou'd I see
+W:The] Crowd was so thick they stood staring at me
+W:Not] one word did thee speak but made damnable pime?  [pain?
+W:--] my feet were worn out & my Brogues grown so thin
+W:Then] nevertheles standing still I did go
+W:--]e for hide peark & enquire for the shew?          [Hyde Park
+W:By] my shoul Cry'd the people but nothing did say
+W:The] army is here tho the Camp's march'd away
+W:To f]ind out new pleasures I was at a loss
+W:So] shuting my eyes, I perceiv'd Charing Cross
+W:The]re a man sat on horse back upon a cold stone
+W:Wi]th thousands about him good fait all alone
+W:--]ult'd off my head to his majesties Graces
+W:I ask'd him the way to, I do not know what pl[aces |f. 187v
+W:but he was so Brazen, he wou'd not come do[wn
+W:Nor shew me the way for an Irish half Cro[wn
+W:So by my own self I went stumbling on
+W:Quite tired to death, with the Damnable C[?]h[--
+W:at last to hide Park good fait I die Con[--
+W:by the beat of a Trumpet & Sound of a Dru[m
+W:Heat[?] soldiers on horseback stood here & lay cher[e?-
+W:With their left wing in the front & their right in the [rear
+W:and horse men on foot in an open Defence
+W:broke open open [sic] their files with a brave allie[nce?
+W:Then by my fait they began to retire
+W:when the Conel cry'd march, present they gave [fire
+W:Without powder or Ball such a noise the[y] did mak[e
+W:as made the earth tremble & Clouds for to quake
+W:The noise being over, tho' none did I hear
+W:I went to the Baker to Buy me some Bee[r
+W:and having no trust I paydo trust I payd

@@ -1,0 +1,1455 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%   ColecciÃ³n de ABCs de  la Taberna   %%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   N I L   %%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+X:7438
+T:I am waiting for you
+M:4/4
+L:1/8
+K:G
+D|G2BG dGBG|AGFG ABcA|BAGF GBAc|defd caFA|!
+G2BG dGBG|AGFG ABcA|(3Bcd) GB cBAG|FGAF G3:|!
+d|g2fg ecAG|(3fed) AD BDAD|E3F G3A|(3BAd) ^ce d2fe|!
+gfed ecAG|(3fed) AD BDAD|G2fe DGBd|cAFA G3:|!
+
+
+X:7439
+T:I am waiting for you
+M:4/4
+L:1/8
+K:G
+D|G2BG dGBG|AGFG ABcA|BAGF GBAc|defd caFA|
+G2BG dGBG|AGFG ABcA|(3Bcd) GB cBAG|FGAF G3:|
+d|g2fg ecAG|(3fed) AD BDAD|E3F G3A|(3BAd) ^ce d2fe|
+gfed ecAG|(3fed) AD BDAD|G2fe DGBd|cAFA G3:|
+
+
+X:7440
+T:I Belong to Glasgow
+% Nottingham Music Database
+S:Kevin Briggs
+M:3/4
+L:1/4
+K:G
+d|"G"G2A|"G"B2c|"G"dg2-|"G"g3|"C"g2a|"C"g2e|"G"d3|"D7"cBA|
+"G"GGA|"G"BBc|"G"d2e|"G"f2g|"A7"a2^g|"A7"a2b|"D7"a3|"D7"def|
+"G"gga|"G"bag|"C"a2g|"C"e2d|"C"efg|"G"d2B|"Am"A3-|"D7"Agg|
+"G"ggg|"C"gfe|"G"ded|"E7"Bcd|"Am"efg|"D7"a2f|"G"gdB|"G"G2:|
+
+
+X:7441
+T:I Belong to Glasgow
+S:Nottingham Music Database
+C:Kevin Briggs
+M:3/4
+R:Waltz
+L:1/4
+K:G
+d|"G"G2A|B2c|dg2 -|g3|
+"C"g2a|g2e|"G"d3|"D7"cBA|
+"G"GGA|BBc|d2e|f2g|
+"A7"a2^g|a2b|"D7"a3|def|
+"G"gga|bag|"C"a2g|e2d|
+efg|"G"d2B|"Am"A3 -|"D7"Agg|
+"G"ggg|"C"gfe|"G"ded|"E7"Bcd|
+"Am"efg|"D7"a2f|"G"gdB|G2:|
+
+
+X:7442
+T:I Buried My Wife and Danced on Top of Her
+M:6/8
+L:1/8
+R:jig
+Z:id:hn-jig-88
+K:Dmix
+DED F2G|AdB cAF|~G3 cAG|~F3 GEA|DED F2G|AdB cAF|~G3 cAG|AFD D3:|
+|:d2e fed|faf gfe|d2e fed|dcA dcA|d2e fed|faf gfe|dcA BAG|AFD D3:|
+
+
+X:7443
+T:I Buried My Wife and Danced on Top of Her
+R:jig
+Z:id:hn-jig-88
+M:6/8
+K:Dmix
+DED F2G|AdB cAF|~G3 cAG|~F3 GEA|DED F2G|AdB cAF|~G3 cAG|AFD D3:|
+|:d2e fed|faf gfe|d2e fed|dcA dcA|d2e fed|faf gfe|dcA BAG|AFD D3:|
+
+
+X:7444
+T:I Didn't Drink the Rum
+M:4/4
+L:1/8
+Q:80
+R:polka
+Z:Gerry Strong, 13/4/2000
+K:G
+B>c|:ddcA B2 AG|FDGG FD B>c|ddcA B2 AG|
+M:3/4
+L:1/8
+|1FD G2 B>c:|2FD G2 g>g|
+M:4/4
+L:1/8
+|fd g>g fd f>g|agfe d2 G2|B>cdd cA B2|AGFD G2 g>g|fd g>g fd f>g|agfe d2
+G2|B>cdd cA B2|AGFD GGFD|B>c ddcA B2|AGFD G2|
+
+
+X:7445
+T:I Disertori
+C:Valla/Guglielmetti
+M:3/4
+L:1/4
+K:C
+e e/e/ e/e/|edc|B3-|B2A/G/|d d/d/ d/d/|dcB|A>B c/B/|
+A2A/B/|ccc|cBA|eB>c|dcB|A3-|A3:|
+|:A>B c/d/|e3|dcB|A2-A/B/|cBA|e3|f/e/da|e3|
+egf|efe|dcB|A2 A/B/|cBA|Bcd|BAG|A3-|A3:|
+
+
+X:7446
+T:I Disertori - Valzer
+C:Valla/Guglielmetti
+M:3/4
+L:1/4
+K:C
+e e/e/ e/e/|edc|B3-|B2A/G/|d d/d/ d/d/|dcB|A>B c/B/|
+A2A/B/|ccc|cBA|eB>c|dcB|A3-|A3:|
+|:A>B c/d/|e3|dcB|A2-A/B/|cBA|e3|f/e/da|e3|
+egf|efe|dcB|A2 A/B/|cBA|Bcd|BAG|A3-|A3:|
+
+
+X:7447
+T:I Do Like To Be Beside The Seaside
+% Nottingham Music Database
+S:Toby Bennett, via EF
+M:6/8
+K:C
+g2^g |"C"a3 g2e|"C"d2c B2c|"G7"g3 g3|"G7"g3 g2^g|"C"a3 g2e|"C"d2c B2c|"F"a3 a3\
+|
+"F"a3 a2^a|"G7"b3 a2f|"G7"e2d ^c2d|"C"a3 g3|"C"f3 e2^d|"D7"e3 d3|"D7"e3 d^cd|\
+"G7"e3 d3|"G7"B3 g2^g|
+"C"a3 g2e|"C"d2c B2c|"G7"g3 g3|"G7"g3 g2^g|"C"a3 g2e|"C"d2c B2c|"F"a3 a3|\
+"F"a3 a2^a|
+"F#7"b2^a b2a|"B7"b3 a2f|"Em"a2g a2g|"A7"a2g f2e|"D7"d3 a3|"G7"a2e d2e|\
+"C"c3 c3|c3 ||
+
+
+X:7448
+T:I Don't Want to Join the Army
+S:Digital Tradition, joinarmy
+Z:dt:joinarmy
+M:6/8
+L:1/8
+Q:3/8=100
+W:I don't want to join the army
+W:I don't want to go to war.
+W:I would rather hang around
+W:Picadilly's underground
+W:A'livin off the earnings of a 'igh born lady
+W:
+W:I don't want a bullet in me backside,
+W:I don't want me buttocks (or arsehole) shot away.
+W:I would rather stay in Lunnon,
+W:Jolly, jolly Lunnon
+W:And fornicate me bloomin' life away, Gor Blimey
+W:
+W:Call out the Army and the Navy
+W:Call out the rank and file.
+W:Call out the brave Territorials
+W:They face danger with a smile!
+W:Call out the King's Militia
+W:They kept England free!
+W:Call out me brother
+W:Me father or me mother
+W:But for Gawd's sake don't call me.
+K:C
+G3 G2-A|G2F E2F|G3 c3-|c6|\
+c3- c2d|c2B A2c|G6-|G3 d2e|
+f2A A2A|A3 f2f|e2G G2G|G6|\
+d2^c d2e|d2c B2A|B3 c3|^c3 d3|
+G2^F G2A|G2F E2F|G3 c3-|c6|\
+c2B c2d|c2d c2d|e6-|e3 e2e|
+f2A A2A|AA2- A3|e2^d e2=d|c2G3e|\
+d2e d2c|B2A B2c|d3 B3|A3 ^G3|
+G3 G2A|G2F E2F|G3 c3-|c6|\
+c3 c2d|c3 A3|G6-|G6|
+A2c3d|c3 B2A|G3 e3|B3 c3|\
+d3 A3|B3 c3|d6-|d4z2|
+G3 G2A|G2-F E2-F|G3 c3-|c6|\
+c3 B3|c3 d3|e6-|e6|
+f3 f2e|fA4f|e2^d e2d|eG2 ^F2G|\
+A3 c3|c3 B3|c6-|c4z2||
+
+
+X:7449
+T:I Dreamed There Were Unicorns
+S:Digital Tradition, unicorn2
+N:Author: Bill Caddick
+D:Sung by Chris Foster on All Things in Common
+Z:dt:unicorn2
+M:4/4
+L:1/8
+Q:2/4=100
+W:We were traveling north to sing and play
+W:For friends that we had never met
+W:Been working hard and didn't speak
+W:The sky was grey and threatened wet
+W:And I dreamed that I saw unicorns
+W:Dreamed I saw them wild and white
+W:their sudden beauty lit the world
+W:Like a star will light a winter's night
+W:
+W:Pure as love with manes of milk
+W:They danced and pranced and cried aloud
+W:Bright as rainbows round the stars
+W:Their eyes were soft and sad and proud
+W:
+W:And I wept for the wild and dirty world
+W:To which this beauty now was lost
+W:And cursed the hungry mind of man
+W:That feeds the future at such cost
+W:My head was bowed, my eyes were closed
+W:When in my ears their voices rang
+W:And these few words lodged deep inside
+W:And in my very soul they sang
+W:
+W:We never went away
+W:You always knew that we were near
+W:Remember how to look for us
+W:You'll see we were always here
+W:
+W:I raised my eyes to seek them out
+W:The world was empty all around
+W:The rain came tumbling from the sky
+W:It drowned all dreams upon the ground
+W:And when they asked me why I wept
+W:Like one who for his dead love mourns
+W:The only answer I could give
+W:I dreamed that there were unicorns
+W:
+W:We never went away
+W:You always knew that we were near
+W:Remember how to look for us
+W:You'll see we were always here
+K:G
+B,B,|EF2G- G3G|F2G2 F-E2E|D3E D2C2|B,EE4zB,|
+E2F2 G3G|FG2F- E3z|zDDE D3C|B,E2E3z2|
+zD/D/GG G2B2|A2BA3z2|z2AB A2E2|G2G2 F-E3|
+zDGG G2B2|ABA4AA|A2B2 A3A|GG2F- E3z||
+zB2A ^G-F2E|A3B ^G2B2|B3A ^G-F2E|A3B F4|
+z2BA ^G-FE2|A3B ^G4|z=GFD F-EE-F|E6E-F|E8||
+
+
+X:7450
+T:I Have a Bonnet Trimmed with Blue
+R:polka
+H:See also #67, #70
+Z:id:hn-polka-75
+M:2/4
+L:1/8
+K:D
+DE/F/ GB|AD F2|AB/A/ GE|DE FA|DE/F/ GB|AD F2|AB/A/ GE|ED D2:|
+|:AB/c/ dc|BA F2|AB/A/ GE|DE FA|AB/c/ dc|BA F2|AB/A/ GE|ED D2:|
+
+
+X:7451
+T:I Have a Bonnet Trimmed with Blue
+R:polka
+H:See also #67, #75
+Z:id:hn-polka-70
+M:2/4
+L:1/8
+K:D
+DE/F/ GB|AD F2|AB/A/ GE|DF F>E|DE/F/ GB|AD F2|AB/A/ GE|ED D2:|
+|:G>B dB|AD F2|AB/A/ GE|DF F2|G>B dB|AD F2|AB/A/ GE|ED D2:|
+
+
+X:7452
+T:I have a bonnet trimmed with blue
+S:Sonya
+R:Polka
+P:ABACDA
+O:Scotland
+N:Felicity has an Irish 2-part of this (look up sometime)
+M:2/4
+L:1/8
+K:D
+P:A
+AB/A/ FA|dA f2|fe/f/ ge|d/c/d/e/ fd|\
+AB/A/ FA|dA f2|fe/f/ gc|ed d2::
+P:B
+ef/e/ ce|ac e2|ef/e/ dB|fe c2|\
+ef/e/ ce|ac e2|ef/e/ dB|BA A2::
+P:C
+K:G
+GB Bd|de/d/ B2|de/d/ cA|ed B2|\
+GB Bd|de/d/ B2|de/d/ cF|AG G2::
+P:D
+ge eg|de/d/ B2|de/d/ cA|ed B2|\
+ge eg|de/d/ B2|de/d/ cF|AG G2::
+
+
+X:7453
+T:I Have a Bonnet Trimmed with Blue
+R:polka
+H:See also #70, #75
+Z:id:hn-polka-67
+M:2/4
+L:1/8
+K:A
+AB/c/ df|eA c2|ef/e/ dB|BA c>B|AB/c/ df|eA c2|ef/e/ dB|BA A2:|
+|:ef/g/ ag/f/|eA c2|ef/e/ dB|BA c2|ef/g/ ag/f/|eA c2|ef/e/ dB|BA A2:|
+
+
+X:7454
+T:I Have a Wife of My Ain
+M:9/8
+L:1/8
+K:EDor
+EFE GGA B3|E2E G2A BGE |
+E2E GGA B3|D2D dcB AFD||
+gag fgf e3|E2E G2A BGE |
+g2g fgf e3|D2D dcB AFD|]
+
+
+X:7455
+T:I Have No Money
+T:N\'il Aon Airgead Agam
+R:reel
+D:Terry Bingham
+Z:id:hn-reel-343
+M:C|
+K:D
+FAdB ~A3G|(3FGA dA FEEG|FAdB ABdf|1 afeg fedB:|2 afeg fddf||
+|:afef dcdf|afea fb~b2|1 afef dcdB|ABAG FDDf:|2 af (3gfe fdBd|ABAG FDDE||
+"Variations"
+|:FAdB ABAG|FADA FE~E2|FAdB A2Af|1 afeg fddB:|2 afeg fedf||
+|:afef d2df|afea fb~b2|1 afef dedB|ABAG FADf:|2 af (3gfe dedB|ABAG (3FGA D2||
+
+
+X:7456
+T:I Himmelen
+C:Triakel
+M:3/4
+L:1/4
+K:G
+D|G2B|D>F A/G/|ECE|D2c|B2G|A2F|G3-|G2D|\
+G2B|D>F A/G/|ECE|D2c|B>d B/G/|A>G F/A/|
+G3-|G|]FG|A>G F/E/|D2c|BGB|A2 F/G/|\
+A>G F/E/|D2c|BGB|A2D|E2G|F2A|G3-|G2|]
+
+
+X:7457
+T:I Know What You Like Jig
+M:6/8
+L:1/8
+K:G
+D/ z/2|DGG GFG|BAA A3/2c3/2|Bdg ecA|BGB AFD|!
+DGG GFG|BAA A3/2c3/2|Bdg ecA|BGG G2:|!
+|:c|Bdg edc|BGG GAG|FGA BAG|FDD D2 c|!
+Bdg edc|BGB dcA|Bdg ecA|BGG G2:|!
+
+
+X:7458
+T:I Lie With My Mammy Nae Mare. JMT.021
+M:6/8
+L:1/8
+S:J.Moore,Tyneside,1841.(14b)
+R:Jig
+O:England
+A:Northumbria
+H:184
+Z:vmp.Chris Partington
+K:Bb
+F/E/|DFFF2E|DFFF2F|GAGG2F|Bcd dcB|def gab|!fdfB2c|dgfd2c|BGGG2:|
+|:e|dfff2e|dfff2e|!dff fdB|Bgg gfe|def fab|fdfB2c|dgf edc|BGGG2:|]
+
+
+X:7459
+T:I Lie With My Mammy Nae Mare. JMT021
+M:6/8
+L:1/8
+S:J.Moore,Tyneside,1841.(14b)
+R:Jig
+O:England
+A:Northumbria
+H:184
+Z:C.G.P
+K:Bb
+F/E/|DFFF2E|DFFF2F|GAGG2F|Bcd dcB|def gab|!fdfB2c|dgfd2c|BGGG2:|
+|:e|dfff2e|dfff2e|!dff fdB|Bgg gfe|def fab|fdfB2c|dgf edc|BGGG2:|]
+
+
+X:7460
+T:I Lost My Love
+A:Cape Breton
+S:Sandy MacIntyre
+R:Jig
+M:6/8
+L:1/8
+K:Am
+uE|ABA AGE | c3 uc2 ud | ege edB | g3 ue2ua| 
+gec cge | dBG GAB | vc2 (uA B) GE | A3 A2 :|
+ug | aba age | gag geg | aba age | g3 ue2 ua |
+gec cge | dBG Ged | c2 (uA B)GE | A3 A2 :|
+ 
+
+
+X:7461
+T:I Lost My Love
+A:Cape Breton
+S:Sandy MacIntyre
+R:Jig
+M:6/8
+L:1/8
+K:Am
+uE|ABA AGE | c3 uc2 ud | ege edB | g3 ue2ua| 
+gec cge | dBG GAB | vc2 (uA B) GE | A3 A2 :|
+ug | aba age | gag geg | aba age | g3 ue2 ua |
+gec cge | dBG Ged | c2 (uA B)GE | A3 A2 :|
+ 
+
+
+X:7462
+T:I Ne'er Shall Wean Her
+M:6/8
+L:1/8
+R:jig
+D:Dervish: Midsummer's Night
+Z:Devin McCabe
+K:AMin
+EGG GED|EGG GcB|AcA AGA|cde ecd|
+!cde g2a|ged c/2c/2c d|eaa e2d|1cAG A2G:|2cAG A/2A/2A A|
+!:egg ged|egg ged|eaa aga|bag a2g|
+!cde gc'a|ged c/2c/2c d|eaa (3efe d|1cAG A/2A/2A A:|2cAG A2G||
+
+
+X:7463
+T:I Saw My Love Come Passing By Me
+C:Trad
+S:Northumbrian Minstrelsy
+M:Cl
+K:G
+ef| g2G2 BcdB g4 d2ef| g2G2 BcdB f4 A2ef| g2G2 BcdB B2G2  BcdB |\
+cAA Ac:: d| efg gfe |\
+L:1/16 
+dg3B2 G2B2d2 |e2f2g2 g2f2e2 |ea3A2 A2c2d2 |\
+L:1/8  
+efg gfe |def gdB |cac BgB |\
+cdec BcdB ABcA efge:: g2d2g2B2 g2d2 efge|g2d2g2B2 g2A2 efge|\
+g2d2g2G2 g2G2 BcdB| cdec BcdB ABcA efge:|
+
+
+X:7464
+T:I stood amid the glitt'ring throng. CJF.207
+M:C
+L:1/8
+Q:120
+S: C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+R:Air
+O:England
+A:East Yorkshire
+B:Kidson Coll.Mitchell Lib.M1805
+Z:P J Headford 2000
+K:A
+E|c2c2c3e|(B>^A) (B>c)=A2zA|{e/}d3c{c}B3A|(G>A) (B>c)B2zE|!\
+c3cc3e|(B>^A) (B>c)=A2zA|
+A2G2(F^d/c/ B/A/) (G/F/)|(EcB) ^DE2z|!G2G> A{c}B3c|{e}d3B{A}G2zE|\
+(c>B) (A>G){G}F3F|(Fd2)chc2hB(3E/F/G/|!
+(A>E) (C/E/A/c/)B2zB|(B>G) (E/G/B/d/){^B}c2zA|\
+d2(e>f)e2(A>B)|(c3d/c/) hB> AA2z2||
+
+
+X:7465
+T:I Wanted Wings
+S:Digital Tradition, wantwing
+B:From There I Was, Flat on my back..., Bob Stevens
+Z:dt:wantwing
+M:4/4
+L:1/8
+Q:2/4=100
+W:I wanted wings 'til I got the God damn things
+W:Now l don't want them any more
+W:They taught me how to fly, then they sent me here to die
+W:I've got a belly full of war.
+W:You can save those Zeros for the other God damn heroes
+W:For distinguished flying crosses do not compensate for losses.
+W:
+W:  Chorus:
+W:  I wanted wings 'til I got the God damn things
+W:  Now I don't want them any more.
+W:
+W:I'll take the dames while the rest go down in flames
+W:I've no desire to be burned;
+W:Air combat's no romance and it made me wet my pants
+W:I'm not a fighter, I have learned.
+W:You can leave the Mitsubishes for the crazy sons-a-bitches
+W:'Cause I'd rather lay a woman than be picked up by a Grumman.
+W:
+W:I'm too young to die in a Goddamn PBY
+W:That's for the eager, not for me.
+W:l won't trust to luck to be picked up in a "Duck"
+W:After I've crashed into the sea
+W:I would rather be a bellhop than a flier on a flattop
+W:With my hand around a bottle not a God damn throttle.
+W:
+W:I don't want to tour over Berlin or the Ruhr
+W:Ack Ack always makes me lose my lunch;
+W:For me there's no Hey Hey when they holler "Bombs Away''!
+W:I'd rather be at home with the bunch.
+W:For there's one thing you can't laugh off
+W:And that's when they shoot your ass off
+W:And I'd rather be home, Buster, with my ass than with a cluster,
+W:
+W:They feed us lousy chow. but we stay alive somehow
+W:On dehydrated eggs and milk and stew
+W:The rumor has it next they'll be dehydrating sex
+W:And that's the day I'll tell the coach I'm through.
+W:For I've managed all the dangers, the shooting back of strangers
+W:But when l get home late l want my woman straight, Buster.
+K:C
+G4 E3F|G6cc|d2c2 B2A2|G8|\
+G4 G2A2|G2F2 E2F2|G8-|G4 z2G2|
+G2G2 E2G2|c4 c3c|d2c2 B2A2|G8|\
+G2c4A2|B2c2 d2B2|c8-|c2c2 B3c|
+d2d2 d2c2|BG3- G2GG|e2e2 e2d2|cG3- G2Bc|\
+d2d2 d2c2|BG3- G2GG|G2A2 G2F2|E2D2 E2F2|
+G4 E3F|G6cc|d2c2 B2A2|G8|\
+G4 c2A2|B2c2 d2B2|c8-|c4 z4||
+
+
+X:7466
+T:I Went to Pick Some Blaeberries
+% Nottingham Music Database
+S:Joy
+M:3/4
+L:1/4
+K:A
+E|"A"A2A|"F#m"c2c|"C#m"e2e|"A"c3|"C#m"e2e|"F#m"c3|"A"e3/2d/2c|"E7"B2E|
+"A"A2A|"F#m"c2c|"C#m"e2e|"A"c2E|"A"A2A|"D"B2c|"E7"B2B|"A"A2||
+
+
+X:7467
+T:I Will If I Can
+M:6/8
+L:1/8
+K:G Major
+D|GBd gdB|ded d2B|GBd gdB|ABA A2D|!
+GBd gdB|def gfg|edB cBA|BGG G2:|!
+d|g2d edB|ded def|g2d edB|ABA A2d|!
+g2d edB|def gfg|edB cBA|BGG G2:|!
+
+
+X:7468
+T:I Will If I Can
+R:jig
+Z:id:hn-jig-195
+M:6/8
+K:G
+D|GBd gdB|ded d2c|~B3 BAG|FAA AFD|GBd gdB|def g2f|edc BcA|BGG G2:|
+|:d|g2d edB|ded def|g2d edB|ABA ABd|g2d edB|def g2f|edc BcA|BGF G2:|
+
+
+X:7469
+T:I Will If I Can
+Z: id:dc-jig-56
+M:6/8
+L:1/8
+K:G Major
+D|GBd gdB|ded d2B|GBd gdB|ABA A2D|!
+GBd gdB|def gfg|edB cBA|BGF G2:|!
+d|g2d edB|ded def|g2d edB|ABA A2d|!
+g2d edB|def gfg|edB cBA|BGF G2:|!
+
+
+X:7470
+T:I wish I may die if I do
+M:6/8
+K:D
+A|\
+F2A d2f| ede d2A| F2A d2f| d4 zA|\
+F2A d2e| fed agf| edc B2e| A4 z||
+f|\
+gag g2e| fgf f2d| efg Bcd| d3 c2A|\
+afa geg| fdf e2A| 
+dcd ede| fef g2e|\
+fga efg| fga efg| fgf ede| (d3 d2)||
+A|\
+FGA EFG| FGA E2g| fgf ede| d2A F2A| \
+FGA EFG| FGA E2g| fgf ede| (d3 d2)|]
+
+
+X:7471
+T:I Wish I May Die If I Do. HSJJ.167
+M:6/8
+L:1/8
+Q:115
+S:HSJ Jackson,Wyresdale,Lancs.1823
+R:Quadrille
+O:England
+A:Lancashire
+H:1823
+Z:Chris Partington.
+K:D
+A|F2Ad2f|eded2A|F2Ad2f|d3-dzA|F2Ad2e|fed agf|!
+edcB2e|A3-Az:||:f|gagg2e|fgff2d|efg Bcd|d3c2B|!
+afa geg|fdfe2A|dcd ede|fefg2e|fga efg|!
+fga efg|fgf ede|f3-f2||A|FGA EFG|FGAE2g|fgf e>de|!
+d2AF2A|FGA EFG|FGAE2g|fgf|ede|d3-d2|]
+
+
+X:7472
+T:I Wish I May Die If I Do. HSJJ.167
+M:6/8
+L:1/8
+Q:115
+S:HSJ Jackson,Wyresdale,Lancs.1823
+R:Quadrille
+O:England
+A:Lancashire
+H:1823
+Z:vmp.Chris Partington.
+K:D
+A|F2Ad2f|eded2A|F2Ad2f|d3-dzA|F2Ad2e|fed agf|!
+edcB2e|A3-Az:||:f|gagg2e|fgff2d|efg Bcd|d3c2B|!
+afa geg|fdfe2A|dcd ede|fefg2e|fga efg|!
+fga efg|fgf ede|f3-f2||A|FGA EFG|FGAE2g|fgf e>de|!
+d2AF2A|FGA EFG|FGAE2g|fgf|ede|d3-d2|]
+
+
+X:7473
+T:I Wish I Never Saw You
+R:reel
+D:Mary Bergin: Feadoga Stain
+Z:id:hn-reel-184
+M:C|
+K:G
+edBA ~G3A|B2Ad BE~E2|1 ~G3E DEGA|AGdB A2Bd:|2 ~G3E DEGB|dBAd BG~G2||
+|:dedc BG (3Bcd|e2af gfef|1 dedc BG (3Bcd|egfa ~g3e:|2 d2df ~e3g|fgaf ~g3e||
+
+
+X:7474
+T:I wish you a merry new year
+R:Jig
+O:England
+M:6/8
+A:Lancashire
+B:Winder
+K:D
+A | A2d dcd | efe efg | fed g2f | f3 e2A | \
+A2d dcd | efe efg | fed edc | c3 d2 :|*
+|:g | fga agf | efg gag | fed dgf | f3 e2 A | \
+A2d dcd | efe efg | fed edc | c3 d2 :|**
+
+
+X:7475
+T:I wish you a merry new Year
+M:6/8
+K:D
+A|\
+A2d dcd| efe efg| fed g2f| "tr"f3 e2A|\
+A2d dcd| efe efg| fed edc| (c3 d2)||
+g|\
+fga agf| efg gag| fed d<gf| f3 e2A|\
+A2d dcd| efe efg| fed edc| c3 d2|]
+
+
+X:7476
+T:I Wish You A Merry New Year. HSJJ.156
+M:6/8
+L:1/8
+S:HSJ Jackson,Wyresdale,Lancs.1823
+R:Jig
+O:England
+A:Lancashire
+H:1823
+Z:Chris Partington.
+K:D
+A|A2d dcd|efe efg|fedg2f|~f3e2A|A2d dcd|efe efg|!fed edc|c3-d2:|
+|:g|fga agf|efg gag|fed d<gf|!f3e2A|A2d dcd|efe efg|fed edc|c3-d2:|]
+
+
+X:7477
+T:I Wish You A Merry New Year. HSJJ.156
+M:6/8
+L:1/8
+S:HSJ Jackson,Wyresdale,Lancs.1823
+R:Jig
+O:England
+A:Lancashire
+H:1823
+Z:vmp.Chris Partington.
+K:D
+A|A2d dcd|efe efg|fedg2f|~f3e2A|A2d dcd|efe efg|!fed edc|c3-d2:|
+|:g|fga agf|efg gag|fed d<gf|!f3e2A|A2d dcd|efe efg|fed edc|c3-d2:|]
+
+
+X:7478
+T:I Wish You A Merry New Year. WM.052
+M:6/8
+L:1/8
+Q:120
+S:Wm.Mittell's MS,New Romney,Kent,1799
+R:Jig
+O:England
+A:Kent
+N:D
+Z:vmp.Chris Partington
+K:D
+A|A2d dcd|efe efg|fed g2f|f3e2A|]
+
+
+X:7479
+T:I Wish You A Merry New Year. WM052
+M:6/8
+L:1/8
+S:Wm.Mittell,1799
+R:Jig
+O:England
+A:Kent
+N:D
+Z:C.G.P
+K:D
+A|A2d dcd|efe efg|fed g2f|f3e2A|]
+
+
+X:7480
+T:I Wish You All Good Night. WM.093
+M:9/8
+L:1/8
+Q:144
+S:Wm.Mittell's MS,New Romney,Kent,1799
+R:Slip Jig
+O:England
+A:Kent
+N:
+N:D
+D:
+H:
+Z:vmp.Chris Partington
+W:Set & cast off 2couples up again down the middle,up again,set to your
+W:partner and turn(?
+K:FMaj
+ABc cBA f3|g2G G2G BAG|]
+
+
+X:7481
+T:I Wish You All Good Night. WM093
+M:9/8
+L:1/8
+Q:144
+C:*
+S:Wm.Mittell,1799
+R:Slip Jig
+O:England
+A:Kent
+N:
+N:D
+D:
+H:
+Z:C.G.P
+W:Set & cast off 2couples up again down the middle,up again,set to your
+W:partner and turn(?
+K:FMaj
+ABc cBA f3|g2G G2G BAG|]
+
+
+X:7482
+T:I Would if I Could (not available here)
+R:Jig
+O:England
+M:6/8
+L:1/8
+B:"The Fiddler of Helperby", Dragonfly Music, ISBN 1-872277-18-7, 1994.
+A:Yorkshire
+H:Dance Music, 1820-1850
+K:D
+
+
+X:7483
+T:I'd be a butterfly
+M:6/8
+L:1/8
+S:Armitt MS
+N:'DC' is written on the stave after the double bar
+K:G major
+B3 {d} cBc|d3B2G|g3gfe|d3{d}cBc|B3{d}cBc|d3 efg|d2 B cBA|G3G3||G|A3A2A|B
+2AA2z|A3A2A|B2AA2z|A3A2A|B2AA2A|B2B^c2c|d3dc"DC"B||
+
+
+X:7484
+T:I'd Be A Butterfly. BF12.14
+M:6/8
+L:1/8
+Q:100
+S:MS12,J.Wilson,1833,Browne Coll.,Lakes
+R:Air
+O:England
+A:Lakes
+N:'DC' is written on the stave after the double bar
+Z:vmp.Cherri Graebe.
+K:G major
+B3 {d} cBc|d3B2G|g3gfe|d3{d}cBc|!
+B3{d}cBc|d3 efg|d2 B cBA|G3G3|!
+|A3A2A|B2AA2z|A3A2A|B2AA2z|!
+A3A2A|B2AA2A|B2B^c2c|d3dc"DC"B||
+
+
+X:7485
+T:I'd be a Butterfly. CJF.034
+T:No. 2. CJF.034
+M:2/4
+L:1/16
+Q:100
+C:T H Bayley Esq.
+S: C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+R:Air
+O:England
+A:East Yorkshire
+B:Kidson Coll.Mitchell Lib.M1805
+N:On the stave at the end is "D. Capo" - PJH.
+Z:P J Headford 2000
+K:D
+"$ ff"f4g2g2|a2a2d4|d'4c'2b2|(b4a3)g|f4g2g2|a6b2|\
+(a2f2)(f2e2)|d2(fa) d'2z2h||!"p"e4e2e2|^g2f2e4|d'3b 
+a^gfg|{b}a^gac'e4|e4e2e2|^g2f2e4|bc'd'b ^gabg|\
+a^gba =gfge|!f4agfg|a2a2d4|d'2c'd' e'd'c'b|
+(b4a3)g|f4agfg|a4b2c'd'|(ba) f2 (ag) e2|dA"f"^GA Bcd"$"e||
+
+
+X:7486
+T:I'll Be Married On Sunday. JC.141
+M:6/8
+L:1/8
+Q:60
+S:John Clare,Poet,Helpstone (1793-1864)
+R:Air
+O:England
+A:Northamptonshire
+N:Timing in MS is irregular
+Z:P Headford
+K:C
+"As Writ"G2GD dBG|gge a2fe|gge cBG|F2D2GG|B/c/d/B2G2:|!
+|:ggeg|a2f2dd|ggeg2|f2d2|ggec2|BGGF2|D2GG|(B/c/d/)B2G2:|]
+W:Song text exists. See Deacon.
+
+
+X:7487
+T:I'll Buy Boots for Maggie
+R:polka
+Z:id:hn-polka-73
+M:2/4
+L:1/8
+K:Am
+EA AB|cB AB|EA AB|cB A2|EA AB|cB AB|ef/e/ dB|BA AG:|
+|:A>B cd|eg a2|ef/e/ dB|BA AG|A>B cd|eg a2|ef/e/ dB|BA AG:|
+"Cool version:"
+EA AB|cB AB|FA AB|cB A2|^FA AB|cB AB|ef/e/ dB|BA AG:|
+|:A>B cd|eg a2|ef/e/ dB|BA AG|A>B cd|eg a2|ef/e/ dB|BA AG:|
+
+
+X:7488
+T:I'll Buy Boots for Maggie
+M:2/4
+L:1/8
+R:polka
+K:Am
+EA AB|cB AB|EA AB|cB A2|EA AB|cB AB|ef/e/ dB|BA AG:|
+|:A>B cd|eg a2|ef/e/ dB|BA AG|A>B cd|eg a2|ef/e/ dB|BA AG:|
+"Another version:"
+EA AB|cB AB|FA AB|cB A2|^FA AB|cB AB|ef/e/ dB|BA AG:|
+|:A>B cd|eg a2|ef/e/ dB|BA AG|A>B cd|eg a2|ef/e/ dB|BA AG:|
+
+
+X:7489
+T:I'll buy boots for Maggie
+R:Polka
+O:Ireland
+M:2/4
+L:1/8
+K:Am
+A>B cd|eg ga|eg/e/ dB|AB G2|\
+A>B cd|eg ga|eg/e/ dB|BA A2:|*
+|:ea ab|c'b ag|ea ab|c'b a2|\
+ea ab|c'b ag|eg/e/ dB|BA A2:|
+
+
+X:7490
+T:I'll gang nae mair to yon town. CJF.004
+M:C|
+L:1/8
+Q:120
+S: C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+R:Reel
+O:England
+A:East Yorkshire
+B:Kidson Coll.Mitchell Lib.M1805
+Z:P J Headford 2000
+K:G
+g|b/a/g/f/ gd(B2G)d|B(GdG F.A.Ag|b/a/g/f/ .g.d(B2G)d|(c/d/e) (Ac) (BG)G:
+|!
+d|(cG)(dG) (eG)(dG)|(BG)(dG) (e/d/)(c/B/) .A.c|(BG)(dG) (cG)(dG)|(c/d/e)
+ (Ac) (BG)G:|
+
+
+X:7491
+T:I'll gang nae mair to yon town. JMT.037
+M:4/4
+L:1/8
+Q:180
+S:J,Moore,Tyneside,1841.(27b)
+R:Reel
+O:England
+A:Northumbria
+H:184
+Z:vmp.Chris Partington
+K:F
+G|Fffc A2.F.c|A/-B/.c FA BGGf|  (a/g/f/e/) fc A2 .F.c| A/-B/.c GB AFF:|!
+c| AFcF dFcB| AF (d/c/B/A/) BGGc| AFcF dFcB|A/-B/.c GB AFFc|!
+AFcF dFcB| AF (d/c/B/A/) BGGe| fafd gbge| fdcB AFF|]
+
+
+X:7492
+T:I'll gang nae mair to yon town. JMT037
+M:4/4
+L:1/8
+Q:180
+S:J,Moore,Tyneside,1841.(27b)
+R:Reel
+O:England
+A:Northumbria
+H:184
+Z:C.G.P
+K:F
+G|Fffc A2.F.c|A/-B/.c FA BGGf|  (a/g/f/e/) fc A2 .F.c| A/-B/.c GB AFF:|!
+c| AFcF dFcB| AF (d/c/B/A/) BGGc| AFcF dFcB|A/-B/.c GB AFFc|!
+AFcF dFcB| AF (d/c/B/A/) BGGe| fafd gbge| fdcB AFF|]
+
+
+X:7493
+T:I'll get wedded in my auld claes
+R:Jig
+A:Northumbria
+O:England
+M:6/8
+K:D
+A |\
+dcd AFD | FED B,2A, | DEF FED | DFB ABc |\
+dcd AFD | FED B,2A, | DFA A,CE | FDD D :|
+|: FA |\
+G2E C2A, | D2F A2F | GBG ECA, | DFA dce |\
+dAF DFA | BGE B,DF | GEC A,CE | FDD D2:|
+|:A|\
+AFA dfd | BGB e2d | c2A ABc | dfe dcB |\
+AFA dfd | BGB e2d | c2A GFE | FDD D2 :|
+
+
+X:7494
+T:I'll Have Her In Spite Of Her Minnie
+C:Trad
+S:Northumbrian Minstrelsy
+M:6/8
+K:G
+GAB GAG| BAG BgB|GAB GAG| cAF AfA| GAB cAB| BAB BGG| \
+M:6/8l
+c2ABcA d2BcdB|\
+M:6/8 
+cAF AfA::g2 d f2 d| dcB BgB| g2 d f2 d| cAF AfA| g2 d f2 d |\
+M:6/8l
+G2BcdB d2BcdB|c2ABcA d2BcdB|\
+M:6/8 
+cAF AfA:|
+
+
+X:7495
+T:I'll Make You Fain To Follow Me. HSJJ.094
+M:6/8
+L:1/8
+Q:110
+S:HSJ Jackson,Wyresdale,Lancs.1823
+R:Jig
+O:England
+A:Lancashire
+H:1823
+Z:Chris Partington.
+K:C
+C|EGA c2e|dDD D2C|EGA c>dc|BAB cAE|FdF EcE|!dDD D2C|E>GAc2G|ECCC2:|
+|:g|ega gec|f>ged2c|!ega gec|faf gec|fea gec|e/-f/ged2D|EGAc2G|ECCC2:|]!
+"Then this fragment"e dgf|e2c e/f/gd|eccc2|]
+
+
+X:7496
+T:I'll Make You Fain To Follow Me. HSJJ.094
+M:6/8
+L:1/8
+Q:110
+S:HSJ Jackson,Wyresdale,Lancs.1823
+R:Jig
+O:England
+A:Lancashire
+H:1823
+Z:vmp.Chris Partington.
+K:C
+C|EGA c2e|dDD D2C|EGA c>dc|BAB cAE|FdF EcE|!dDD D2C|E>GAc2G|ECCC2:|
+|:g|ega gec|f>ged2c|!ega gec|faf gec|fea gec|e/-f/ged2D|EGAc2G|ECCC2:|]!
+"Then this fragment"e dgf|e2c e/f/gd|eccc2|]
+
+
+X:7497
+T:I'll Touzle your Kurchy.
+M:6/8
+L:1/8
+K:EMin
+B   |E>GE GEG|B>AB e2f|g>fe dgB|A>GA BG
+E   |E>GE GEG|B>AB e2f|g>fe dcB|AGF  E2:|
+B   |E>GE B2B|GEG  B2B|E>GE A2G|FDF  A2
+G/F/|E>GE B2B|GEG  e2f|gfe  dcB|AGF  E2:|
+
+
+X:7498
+T:I'm Waiting for You
+Z: id:dc-reel-360
+M:C
+L:1/8
+K:G Major
+DF|G2dG BGdG|AGFG ABcA|BAGF GABc|defd cAFA|!
+BGG2 BGAG|FGAB cBcA|BGBd cBAG|FDEF G2:|!
+Bd|g2fg edBG|FDAD BDAD|EDEF GFGA|Bd^ce d2ef|!
+g2fg edBG|FDAD BDAD|G2FE DGBd|cAFA G2:|!
+
+
+X:7499
+T:I's rather have a piece than a Kiss of my Jo.
+M:6/8
+L:1/8
+K:AMix
+f   |gfe edB|gfg GAB|gfe edB|dBA A2
+f   |gfe edB|gfg a2b|gfe efg|dBA A2::
+B/c/|d2B d2B|gfg GAB|d2B d2g|ecA AB
+c   |d2B d2B|gfg a2b|gfe efg|dBA A2::
+e/f/|gdB gdB|gfg GAB|gdB gdB|ecA A2
+e/f/|gdB gdB|gfg a2b|gfe efg|dBA A2::
+B/c/|dBG dBG|gfg GAB|dBG Bdg|ecA A2
+B/c/|dBG dBG|gfg a2b|gfe efg|dBA A2:|
+
+
+X:7500
+T:I've been roaming. CJF.158
+M:C
+L:1/8
+Q:80
+S: C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+R:Air
+O:England
+A:East Yorkshire
+B:Kidson Coll.Mitchell Lib.M1805
+Z:P J Headford 2000
+K:G
+(gf)|(g3/2 d/)z/(cB) (AG) (gf)|(gd)(cB) (BA)(cB)|(ed)(gf) (fe)(ed)|dccBA
+2gf|!gd cB AG gf|
+gdcBc2cB|edfg a/ d/hz cB|BAGFG2BA|!Add>^c cBed|cAagf2ed|^cdfd 
+ Befg|fed^cd2gf|!gd cB AG gf|gdcBc2cB|edef adcB|BAGFG2B>B|!Befg gffe|
+e^defB2cB|Befg gecc|Bbafe2gf|!gd cB AG gf|gdcBc2cB|edfg adcB|
+BAGFG2gf|!gGBd dccc|de^fge2ag|g^fed gdec|BdcAG2Bc|!d=fedc2cd|
+egfe^d2de|fagf agfe|dBcAg2fe|!dBcA bhgfe|hd2f/e/d/c/ B/A/G2||
+
+
+X:7501
+T:I've Lost My Love And I Care Not. JB.70
+M:6/8
+L:1/8
+Q:80
+S:James Biggins MS, Leeds, 1779.
+R:Air
+O:England
+A:Yorkshire
+Z:
+Z:vmp.Nick Barber & Chris Partingto
+K:G
+e|c2A cde|d2BG2B|c2A cde|g3e2:|!
+|:a|g2e cde|d2BG2B|g2ec2e|g3e2a|!
+g2e cde|d2BG2B|c2A cde|g3e2:|]
+W:Version?This one Vickers.
+
+
+X:7502
+T:Ian Duncan
+% Nottingham Music Database
+S:Ronald Cooper via Rosa M, via EF
+M:4/4
+L:1/4
+K:D
+P:A
+A/2G/2|"D"G/2F/2E/2D/2 "A7"D/2E/2F/2G/2|"D"A/2D/2F/2A/2 "G"d/2c/2d/2e/2|\
+"D"f/2e/2d/2A/2 B/2d/2A/2F/2|
+"Em"BE "A7"EA/2G/2|"D"G/2F/2E/2D/2 "A7"D/2E/2F/2G/2|\
+"D"A/2D/2F/2A/2 "G"d/2c/2d/2e/2|1
+"D"f/2e/2d/2A/2 "A7"B/2d/2A/2G/2|"D"F"G"D "D"D:|2"D"fe/2f/2 "A7"g/2e/2c/2e/2|\
+"D"df d||
+P:B
+F/2G/2|"D"A/2B/2A/2F/2 "A7"dA/2d/2|"D7"f/2d/2f/2a/2 "G"g/2f/2e/2g/2|\
+"D"f/2e/2d/2A/2 B/2d/2A/2F/2|"Em"BE "A7"EF/2G/2|
+"D"A/2B/2A/2F/2 "A7"dA/2d/2|"D7"f/2d/2f/2a/2 "G"g/2f/2e/2g/2|\
+"D"f/2e/2d/2A/2 "A7"B/2d/2A/2G/2|"D"F"G"D "D"DF/2G/2|
+"D"A/2B/2A/2F/2 "A7"dA/2d/2|"D7"f/2d/2f/2a/2 "G"g/2f/2e/2g/2|\
+"D"f/2e/2d/2A/2 B/2d/2A/2F/2|"Em"BE "A7"EA/2G/2|
+"D"G/2F/2E/2D/2 "A7"D/2E/2F/2G/2|"D"A/2D/2F/2A/2 "G"d/2c/2d/2e/2|\
+"D"fe/2f/2 "A7"g/2e/2c/2e/2|"D"df d||
+
+
+X:7503
+T:Ian James Wilson
+% Nottingham Music Database
+S:Chris Dewhurst (1985), via PR
+M:4/4
+L:1/4
+K:G
+D|"G"G/2F/2G/2A/2 Bd|"C"cE "Am"A3/2G/2|"D"FA Dc|\
+"G"B/2A/2G/2B/2 "D"A/2D/2E/2F/2|
+"G"G/2F/2G/2A/2 Bd|"C"cE "Am"A3/2G/2|"D"F/2G/2A/2B/2 cF|"G"G2 G::
+B|"C"c/2B/2c/2d/2 ec|"G"Bd G3/2B/2|"D"Ac F3/2A/2|"G"G/2A/2B/2c/2 d/2B/2A/2G/2|
+"C"c/2B/2c/2d/2 ec|"G"Bd D3/2G/2|"D"F/2G/2A/2B/2 cF|"G"G2 G:|
+
+
+X:7504
+T:Ian Powrie
+R:Reel
+O:Shetland
+O:Scotland
+M:4/4
+K:D
+D2DF AFF2|d2Ad fdd2|dBBd dAAd\
+|1 ceAc dBAF :|ceAc d4 ::
+f2gf feef|d2Bd dAAd|dBBd dAAd\
+|1 ceAc egfe :|2 ceAc d4 :|
+
+
+X:7505
+T:Ice Fisherman's Clog
+R:Clog
+C:Bruce Osborne  --  July 23 1991
+M:4/4
+L:1/8
+K:A
+e>d|c>Ac>e f>df>a|g>eg>b a2e>d|c>AE>A D>FA>d|(3EFG (3Bcd c2e>d|
+c>Ac>e f>df>a|g>eg>b a2e>d|c>AE>A D>FA>d|(3EFG B>e A2:|
+|:(3efg|a>ec>A D>FA>d|(3EFG (3Bcd c2e>d|c>Ac>e f>df>a|g>eg>b a2 (3efg|
+a>ec>A D>FA>d|(3EFG (3Bcd c2e>d|c>Ac>e f>dA>F|(3EFG B>e A2:|
+
+
+X:7506
+T:Ice House Schottische No. 1
+M:4/4
+L:1/16
+C:Nigel Eaton
+R:Schottische
+Z:Steve Mansfield
+K:C
+efg2 efg2|gcde fedc|e4 f3d|dcd2 e2c2:|:cgfd c2c_B|c2c_B cd_ef|ggfd c2cg|
+fdc_B c2c2:|
+
+
+X:7507
+T:Ice House Schottische No. 2
+M:4/4
+L:1/8
+C:Nigel Eaton
+R:Schottische
+Z:Steve Mansfield
+K:C
+ef|g3f edcB|A2f2 d3c|d2dc defg|a2ag f2e2|d2de dcBA|G2f2 d3c|d2dc defg|d6
+:|:g2|c'3c' b2g2|c'2a2 f2a2|g2e2 d2de|fedc d2g2|c'3c' b2g2|c'2a2 f3a|g2e
+2 d2de|fede c2:|
+
+
+X:7508
+T:Icey Blue Days
+R:pipe reel
+C:Jerry Holland, SOCAN
+O:20th Century Cape Breton
+S:Tune ofthe Month, Nov. 2000
+B:Jerry Holland: The Second Collection
+D:Crystal Clear: Jerry Holland, Celtic Colours: Ceilidh 2000
+A:<http://www.jerryholland.com>
+N:Contacts ...
+N:..... Jerry Holland <jerry@cranfordpub.com>
+N:Tune books, related recordings
+N:..... Cranford Publications <http://www.cranfordpub.com>
+H:Copyrights - www.fiddlesticksmusic.com (SOCAN)
+Z:Paul Stewart Cranford <psc@cranfordpub.com>
+L:1/8
+Q:300
+M:C|
+K:Ador
+a|edBd eAAg|dBAB dGGB|AGEG ABdf|egfa gedg|!
+edBd eAAg|dBAB dGGB|AGEG ABde|egGA BAA:|!
+|:a|bagd eaab|aged eggb|agfd e/e/e ge|dege dBAG|!
+bagd eaab|aged eggb|agfd e/e/e ge|dBGA BAA:|]!
+
+
+X:7509
+T:Ich ging an einem...
+R:
+O:
+S:source
+B:Frau Nachtigall (StraÃburg - 1928)
+Z:<anamnese@caramail.com> -- http://anamnese.fr.st
+N:p.95
+M:C
+L:1/4
+Q:1/4=150
+K:G
+D | "G"G DD G/-G/ | "C"(G E/A/) A > G | "D"F d/-d/ d c/d/ | "G"B2 z (G/B/) |
+ "G"d B/-B/ d/ B/ d/ B/ | "D"(A>B) AA | "G"GB"F#x"A"Ex"G | "D"F"A7"A"D"D d/e/ | "G"d/c/ B "D"d/e/ d/c/ | "G"B2 z |] 
+
+
+X:7510
+T:Ich hÃ¶rt' ein Sichelein rauschen...
+R:
+O:
+S:source
+B:Frau Nachtigall (StraÃburg - 1928)
+Z:<anamnese@caramail.com> -- http://anamnese.fr.st
+N:p.74
+M:6/8
+L:1/8
+Q:1/4=150
+K:F
+F/G/ | "F"(AG) A (cB) A | "Gm"G3 D G/A/ | BA B "C"dc B | "F"A3-A z |: A/B/ |
+"F"cd c c f "B"d | "F"c3 A2 F/G/ | "C"AB A "C7"GA G | "F"F3-F z :]
+
+
+X:7511
+T:Ich stand...
+R:Volksweise
+O:
+S:source
+B:Frau Nachtigall (StraÃburg - 1928)
+Z:<anamnese@caramail.com> -- http://anamnese.fr.st
+N:p.7
+M:6/8
+L:1/8
+Q:1/4=150
+K:D
+D | D2D A2A | F3 E2E | F2F GA B | A3 z2A | (d A) d (c B) A |
+B3 A3 | G3 FA d | A>B A/G/ F2 E | D4 z |]
+
+
+X:7512
+T:Ich und mein Hans
+R:
+O:Alsace - Elsass
+A:
+S:
+B:Chansons populaires de l'Alsace
+Z:transcription (partition) : eric.forgeot@caramail.com
+N:Weckerlin II - p. 183
+N:
+M:3/4
+L:1/8
+Q:1/4=130
+K:A
+     E F G | A2A2 e e | c2 z A G F | E2 (GB) (dG) |
+A2 z E F G | A2A2 e e | c2 z A G F | E2 (GB) (dG) |
+A2 z2 c>c | c2 c B A G | F2 z F G A | (Be B) A G F |
+E2 z E F G | (Ac) c B A G | F z E E E | (E2 G) B d G | A2 z ||
+
+
+X:7513
+T:Ich wollt, wenns Rosen schneit...
+R:
+O:
+S:Aus NormÃ¤hren.
+B:Frau Nachtigall (StraÃburg - 1928)
+Z:<anamnese@caramail.com> -- http://anamnese.fr.st
+N:p.75
+M:6/8
+L:1/8
+Q:1/4=130
+K:E
+E | B2 B AF B | G3-G z E | e2EE c>d e/c/ | B2 z e d c |
+c B B c B A | A3/2 G/ G zz E/G/ | B>c B F>G A | G3-G z |]
+W:Ich wollt, wenns Rosen schneit (3x)
+W:daÃ mir mein Herz erfreut (2x)
+
+
+X:7514
+T:Icy Jig
+% Nottingham Music Database
+S:Chris Dewhurst 1979, via Phil Rowe
+M:6/8
+K:Am
+"(E7)"e3 |"Am"a3 e2d|"Am"cBc ABc|"Dm"d3 A2G|FEF DEF|"E"E3 ^G2B|"E7"efe dcB|\
+ [1"Am"A3 -"G"A3|"F"A2:|
+ [2"Am"A3 -"Dm"A3|"Am"A2||"A7"a3 |"Dm"fef a^ga|"G"d^cd fef|"C"g^fg age|c3 e3|
+"B"^dBd ^fdf|"B7"b2b ag^f|"E"e3 -e3|"E7"e3 "A7"a3|"Dm"fef a^ga|"G"d^cd fef|
+"C"g2^d ege|"Am"c3 d2e|"Dm"f3 a2f|"E7"efe dcB|"Am"A3 -"Dm"A3|"Am"A3 ||
+
+
+X:7515
+T:Idbury Hill
+R:Morris
+O:England
+M:4/4
+K:EDor
+B2Bc d2B2|AGFE D2DE|F2B2 BAGF|E4 E4::\
+B2Bc d2B2|edcB A2A2|
+B2Bc d2B2|e3d B4|\
+B2Bc d2B2|AGFE D2DE|F2B2 BAGF|E4 E4:|
+
+
+X:7516
+T:Idle Road, The
+R:jig
+Z:id:hn-jig-199
+M:6/8
+K:G
+DBB Dcc|DBB cde|dBG FGA|BGB AFD|DBB Dcc|DBB cde|dBG FGA|1 BGF G2E:|2 BGF GBd||
+|:gfg efg|fed cAF|GBd ~g3|afd cAF|DBB Dcc|DBB cde|dBG FGA|1 BGF GBd:|2 BGF G2E||
+
+
+X:7517
+T:Ievan polkka
+T:Savitaipaleen polkka
+T:Finnish Polka
+R:polka
+D:Kevin Burke: Up Close
+O:South Karelia
+Z:id:hn-polka-41
+M:2/4
+L:1/8
+K:Bm
+B>B Bc|dB Bd|cA Ac|d/c/B/A/ BF|B>B Bc|dB B2|ef/e/ dc|B2 B2:|
+|:f>d df|ec cd|ef/e/ dc|Bc de|f>d df|ec cd|ef/e/ dc|B2 B2:|
+
+
+X:7518
+T:If all the World were Paper
+M:6/8
+L:1/8
+Q:110
+R:Jig
+K:C
+G|A2G A2B|c3 C3|E2D E2F|G3-G2 E|F2E F2G|A2F D2c|d2G A2B|c3-c2 ||
+
+
+X:7519
+T: If all the World Were Paper
+M:6/8
+L:1/8
+Q:160
+S:Playford
+O:Manuscript
+A:English
+K:D
+A|B2 A B2 c|d3 D3|F2 E F2F G| A3 A2 F| G2 F G2 A|B2 G D2 d|e2 A B2 c|d3 
+d3:|
+
+
+X:7520
+T:If I Had a Wife
+T:Dennis Murphy's
+T:Nellie Mahony's
+R:slide
+D:Chieftains: Live
+Z:id:hn-slide-3
+M:6/8
+W:If I had a wife, the plague of my life, I'll tell you what I would do:
+W:I'd buy her a boat, and put her afloat, and paddle my own canoe.
+K:G
+A|:BAA A2d|edd d2B|AGA B2A|G3 G2A|
+BAA A2d|edd d2B|AGA B2A|1 G3 G2A:|2 G3 gfe||
+|:d2g geg|age dBd|e2a aba|g2a bge|
+d2g geg|age dBd|efg aba|1 g3 gfe:|2 g3 g2||
+"Version of 1st part"
+A|:B2A ABd|e2d d2B|AGA B2A|G3 G2A|
+~B3 ABd|e2d d2B|AGA B2A|1 G3 G2A:|2 G3 gfe||
+
+
+X:7521
+T:If I Had a Wife
+T:Dennis Murphy's
+T:Nellie Mahony's
+T:Art O'Keeffe's
+R:slide
+D:Chieftains: Live
+Z:id:hn-slide-3
+M:6/8
+W:If I had a wife, the plague of my life, I'll tell you what I would do:
+W:I'd buy her a boat, and put her afloat, and paddle my own canoe.
+K:G
+A|:BAA A2d|edd d2B|AGA B2A|G3 G2A|
+BAA A2d|edd d2B|AGA B2A|1 G3 G2A:|2 G3 gfe||
+|:d2g geg|age dBd|e2a aba|g2a bge|
+d2g geg|age dBd|efg aba|1 g3 gfe:|2 g3 g2||
+"Version of 1st part"
+A|:B2A ABd|e2d d2B|AGA B2A|G3 G2A|
+~B3 ABd|e2d d2B|AGA B2A|1 G3 G2A:|2 G3 gfe||
+
+
+X:7522
+T:If The Life Of A Man..aka. BF13.109
+M:6/8
+Q:100
+S:J.Lishman(?)MS,c1825,Lakes,Browne Coll.
+R:Air
+O:England
+A:Lakes
+N:The MS has Sharp signs on d & Middle G.
+Z:vmp.Chris Partington
+K:D
+F/G/|A>BA A>BA|d2AA2F/G/|A>BA A>BA|e2AA2F/G/|!
+A>BA A>BA|(dcd e2-g|fed ABc|d2DD3||!
+f>ed f>ed|e2AA2d/e/|f>ed f>ed|f2-"NB"aa3|!
+f>ed f>ed|g>fe eag|f>ed A>Bc|d2DD2|]
+W:NB unclear in MS |]
+
+
+X:7523
+T:Ikariotikos
+O:Greece
+M:4/4
+L:1/8
+Q:1/4=180
+K:Cm
+"Cm"C2 GG "Gm"G2 G2| "Bb"FGFE "Gm"D2 G2|\
+"Cm"C2 GG "Gm"G2 G2| "Bb"FGFE "Gm"D2 G2|
+"Cm"C2 GG "Gm"G2 G2| "Bb"FGFE "Gm"D2 G2|\
+"Cm"C2 GG "Gm"G2 G2| "Bb"FGFE "Gm"D2 G2|
+"Gm"B,2 CD "Cm"EDEF|"Gm"D3E "Cm"DE C2|\
+"Gm"B,2 CD "Cm"EDEF|"Gm"D3E "Cm"DE C2|
+"Gm"B,2 CD "Cm"EDEF|"Gm"D3E "Cm"DE C2|\
+"Gm"B,2 CD "Cm"EDEF|"Gm"D3E "Cm"DE C2|
+
+
+X:7524
+T:Il est bien temps
+R:Bourr\'ee
+O:France
+M:2/4
+C:Trad.
+K:Gm
+G4A2B2|A3G ^F2D2\
+|1 G4A2B2|cdcB A2B2 :|2 G2AB A2G^F|G8::\
+G4A2B2|c2B2 A2B2\
+|1d2dd ^c2B2|A2G2 ^F2D2:|2G2AB AG^F2|G8:|
+
+
+X:7525
+T:Il passo del bosco (M.Martinotti) - Mazurca
+C:La Ciapa Rusa: Retanavota 9a
+M:3/4
+L:1/8
+K:G
+~DG BA ~GE|B6|~DG BA ~GE|c4-cc|\
+cA Fc EA|~D4 (3EFE|1 DE FG AG|BA G4:|
+|2 Dc AF (3cAF|G2G2z2\
+|:DE FD (3EFA|BG|:DE FD (3EFA|BG

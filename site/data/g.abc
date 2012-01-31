@@ -1,0 +1,1562 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%   ColecciÃ³n de ABCs de  la Taberna   %%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   N I L   %%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+X:5600
+T:G.F. Rose of Auchernach
+Z:Jack Campin <http://www.purr.demon.co.uk/jack/> version 1.0 September 2001
+C:Geo. S. McLennan
+S:G.S. McLennan, Highland Bagpipe Music book 1, 1929
+B:NLS MH.s.234
+R:March
+M:6/8
+L:1/8
+Q:3/8=88
+N:book doesn't indicate a repeat for parts 1 and 4
+N:upbeats of parts 2 and 3 printed as quavers in the book
+K:Hp
+   e   |  {g}A2{GdGe}A {gcd}c2d     |{gef}efg   {ag}a2g    |\
+        {afg}f2a        {eg}e2f     |{gef}edc  {gBd}B2e    |
+          {g}A2{GdGe}A {gcd}c2d     |{gef}efg   {ag}a2e    |\
+          {g}f2{GdG}f  {gef}e2c     |{gef}edB    {G}A2    :|
+{g}c/d/|{gef}e2f         {g}e2{GdG}e|  {g}faf  {gef}e>{g}cd|\
+          {g}efe       {Gdc}ded     |  {g}c<ec {gBd}B>{g}cd|
+        {gef}e2f         {g}e2{GdG}e|  {g}faf  {gef}e>ce   |\
+          {g}f2{GdG}f  {gef}e2c     |{gef}edB    {G}A2    :|
+{g}e/d/|{gcd}c2{e}A      {g}e2f     |  {g}efg   {ag}a2f    |\
+        {gef}e2f       {gcd}c2e     |{gef}edc  {gBd}B{g}ed |
+        {gcd}c2{e}A      {g}e2f     |  {g}efg   {ag}a2e    |\
+          {g}f2{GdG}f  {gef}e2c     |{gef}edB    {G}A2    :|
+{af}g  | {ag}a2e         {g}fae     |{gfg}f2a   {eg}e2a    |\
+         {fg}fdf       {gef}ece     |{gde}dcd  {gBd}B2{gf}g|
+         {ag}a2e         {g}fae     |{gfg}f2a   {eg}e2a    |\
+         {fg}f2{GdG}f  {gef}e2c     |{gef}edB    {G}A2    :|
+
+
+X:5601
+T:G\aa{}ngl\aa{}t
+R:G\aa{}ngl\aa{}t
+O:Sweden
+M:4/4
+K:G
+D3F G2A2|F6 A2|D3F A2B2|c2A2 d4|\
+e3e d2B2|G4 A3F|D2D2 F2F2|(G4 G4):|
+|:\
+A3F DFA2|(c4 c4)|c3B GBc2|d6 d2|\
+e3e d2B2|G4 A3F|D2D2 F2F2|(G4 G4):|
+
+
+X:5602
+T:G\aa{}ngl\aa{}t
+R:G\aa{}ngl\aa{}t
+O:Sweden
+M:4/4
+D:Bj\"orn St\aa{}bi / Hj\"ort Anders record (Nonesuch)
+A:Dalarna
+K:D
+g|\
+fecA d3e | fede f2d2 | fecA d3e | fede f2d2 |\
+efga b2ag | f2ed cAce | d6-d :|*
+|: f | \
+f2df a4 | f2ed e2eg | f2ed c2Ac | B2BG B2BG | \
+B2A2 A3f | f2df a4 | f2ed e2eg | f2ed c2Ac | \
+B2BG B2BG | B2A2 A3c | e2gf d4 :|**
+
+
+X:5603
+T:G\aa{}ngl\aa{}t fran Mockfj\"ard (Frisells g\aa{}ngl\aa{}t)
+R:G\aa{}ngl\aa{}t
+O:Sweden
+M:4/4
+C:Anders Frisell
+A:Dalarna
+K:D
+F/G/ |\
+A>B AG {FG}F>D FF/G/ | A/B/A/c/ Af f3e/f/ |\
+gb/g/ fa/f/ ef/e/ df/d/ |1 \
+ce/c/ E/^G/B/G/ A3F/G/ :|2 \
+ca A/c/e/c/ d3 :: e/f/ |\
+g>a g/f/g/a/ bg dB | A>g f/e/f/g/ a3 (3g/a/g/ |\
+fe e/^d/e/f/ ge cA | df/d/ ce/c/ Bd/B/ Ae/f/ |\
+g>a g/f/g/a/ bg dB | A>g f/e/f/g/ a3 (3g/a/g/ |\
+fe e/^d/e/f/ ge cA | da A/c/e/c/ d3 :|**
+
+
+X:5604
+T:G\aa{}ngl\aa{}t from Dala J\"arna
+R:G\aa{}ngl\aa{}t
+O:Sweden
+M:C
+L:1/16
+A:Dalarna
+K:D
+D/F/ | \
+A2AG B2AG F2A2 d2f2|e3d c2Bc d2AF D2DF | \
+A2AG B2AG F2A2 d2f2 | e3d c2Bc d6 :|
+M:5/4
+L:1/16
+|:A2 |\
+d3e f2ed e>ge<c (A4 A2)F | \
+G3A B2AG A>dA<F (D4 D2)DF | \
+M:C
+L:1/16
+A2AG B2AG F2A2 d2f2 | e3d c2Bc d6 :|
+|:\
+f>af<d f>af<d e>ge<c A4 | \
+B>dB<G B>dB<G A>cA<F D4 |\
+f>af<d f>af<d e>ge<c A4 |
+B>dB<G B>dB<G A>cA<F D4 | \
+d3c d2e2 f4 a3f | g>ag<e c2b>c d6 :|
+
+
+X:5605
+T:Gabhair\'in Bu\'i, An
+T:Yellow Goat, The
+T:T\'a Dh\'a Ghabhair\'in Bhu\'i Agam
+T:I Have Two Yellow Goats
+R:polka
+D:Begley & Cooney: Meitheal
+D:Michael Tubridy: The Eagle's Whistle
+Z:id:hn-polka-66
+M:2/4
+L:1/8
+K:G
+D>E GA|B2 AG|BA AG/A/|BA Bd|D>E GA|B2 AB/A/|GE ED/E/|1 GE EG:|2 GE Ed||
+|:ed eg|d2 c>B|BA AB|cA Ad|ed eg|d2 c>B|BG G>A|1 BG Gd:|2 BG GE||
+"Version 2:"
+DE GA|B2 AG|BA AG/A/|BA AB|DE GA|B2 AG|BG G>A|1 BG GE:|2 BG GB/d/||
+|:ed e/f/g|d2 c>B|BA AG/A/|BA AB/d/|ed eg|d2 c>B|BG G>A|1 BG GB/d/:|2 BG GE||
+
+
+X:5606
+T:Gaelic Waltz. CJF.228
+M:3/8
+L:1/16
+Q:50
+S: C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+R:Waltz
+O:England
+A:East Yorkshire
+B:Kidson Coll.Mitchell Lib.M1805
+N:Just "Waltz" in MS..my title... CGP
+Z:P J Headford 2000
+K:F
+c2|f3gag|(f2c2)c2|{e/}d2defe|c4ac'|d'b g2g2|\
+ba f2f2|edefge|f4:||:!cB|Acfcf2|efgec2|
+gababg|a2f2f2|Acfcf2|efgec2|fefage|f4:||:!F2|\
+F4F2|Af3e2|{e/}d4c2|A4A2|B4c2|
+d2B2G2|F2E2d2|c2B2G2|!F4G2|Af3e2|e2d2c2|{B/}A4A2|B4c2|\
+{e/}d2{c/}B2{A/}G2|F2{G/F/}E2G2|F4c2|!f4e2|cf3d2|c4f2|
+ec3c2|d4f2|f2e2d2|c4B2|c2B2A2|!F4G2|Af3e2|\
+e2d2c2|{B/}A4A2|B4c2|d2B2G2|F2{G/F/}E2G2|F4||
+
+
+X:5607
+T:Gaida Tune
+S:Ian McArdle
+R:Other
+O:Bulgaria ?
+M:2/4
+K:EMix
+g2Be g2Be|a2Be a2Be|g2Be f2Bf\
+|1 e2GB e2f2 :|2 e8 ||
+|:g2Be f2Bf|e2Be a2Be|g2Be f2Bf \
+|1 e2GB e2f2 :|2 e8 ||
+
+
+X:5608
+T:Gaillarde
+R:pavane
+C:Claude Gervaise
+H:XV eme siecle
+O:France
+Z:S. Piron
+M:3/4
+L:1/4
+Q:1/4=220
+K:G
+BBB|B>dc|BAA|B2 z:|
+|:dcc|B>BA|GFF|E2 z:|
+|:BGA|F3|BGA|F3|BAG|F/2G/2 A/2G/2 F/2E/2|E2D|E2 z:||
+
+
+X:5609
+T:Gairnside
+Z:Jack Campin <http://www.purr.demon.co.uk/jack/> version 1.0 September 2001
+C:Geo. S. McLennan
+S:G.S. McLennan, Highland Bagpipe Music book 1, 1929
+B:NLS MH.s.234
+R:Strathspey
+M:C
+L:1/8
+Q:1/4=120
+K:Hp
+   a/|       A2 {GdGe}A>{d}B {gef}e>A {gBd}B>A|  {g}G2  {dGe}G>{d}A {e}G>A      {gBd}B>{e}G|
+          {g}A2 {GdGe}A>{d}B {gef}e>d {g}(3Bcd|{gef}e>g {Gdc}d>g  {aBd}B>{e}A {gAGAG}A3/  :|
+{d}B/|{gAGAG}Aa    {g}a>g    {g}(3efg  {ag}a>e| {gf}g>a   {f}g>e  {Gdc}d>e       {gf}g>f   |
+   [1     {g}ea    {g}a>g    {a}(3efg  {ag}a>g|{aeg}e>g {Gdc}d>g  {aBd}B>{e}A {gAGAG}A3/  :|
+   [2   {g}(3efg  {ag}a>f     {gf}g>f {gef}e>d|{g}(3efg {Gdc}d>g  {aBd}B>{e}A {gAGAG}A3/  |]
+
+
+X:5610
+T:Gairsay
+R:March
+O:Scotland
+M:4/4
+A:Orkney
+K:D
+D2E2 | \
+F3G F2E2 | E2D2 F2A2 | d3e d2c2 | B4 B2c2 | \
+d3e d2B2 |1 \
+A2F2 F2G2 | A3B A2F2 | E4 :|2\
+A2F2 F2A2 | G2AG F2E2 | D4 :|\
+c2d2 |\
+e3f e2d2 | c2A2 d2e2 | f3g f2e2 | d4 d2c2 |\
+B3^A B2c2 | d3e d2B2 | A3B A2F2 | E4 D2E2 |\
+F3G F2E2 | E2D2 F2A2 | d3e d2c2 | B6 c2 |\
+d3e d2B2 | A2F2 F2A2 | G2AG F2E2 | D4 :|**
+
+
+X:5611
+T:Gala,The. WM.109
+M:6/8
+L:1/8
+Q:120
+S:Wm.Mittell's MS,New Romney,Kent,1799
+R:Jig
+O:England
+A:Kent
+N:See D.Roberts' book for full version..DR has G sharp in bar 9,I believe
+N:ongly.
+D:
+H:
+Z:vmp.Chris Partington
+W:
+K:D
+dcdA2F|dgf gec|]
+
+
+X:5612
+T:Gala,The. WM109
+M:6/8
+L:1/8
+Q:120
+C:*
+S:Wm.Mittell,1799
+R:Jig
+O:England
+A:Kent
+N:DR.DR has G sharp in bar 9,I believe wrongly.
+D:
+H:
+Z:C.G.P
+W:
+K:D
+dcdA2F|dgf gec|]
+
+
+X:5613
+T:Gale Force
+R:strathspey
+C:Paul S. Cranford
+O:20th Century Cape Breton
+D:The Lighthouse, Cranford Publications
+B:The Lighthouse Collection, ISBN 0-9691181-5-5
+N:Contacts ...
+N:..... Cranford Publications <http://www.cranfordpub.com>
+Z:This abc transcription is for personal use only,
+Z:provided this notice remains attached.
+Z:Used by permission of the composer and publisher.
+Z:Paul Stewart Cranford <psc@cranfordpub.com>
+Q:244
+L:1/8
+M:C
+K:Eaeo
+D<EE>D F<E E2|A<BB>A d<BB>d|e<dd>B A<FF>d|F<EE>D F<E E2:|!
+|:e<BB>g e<B g2| a<ff>a e<d B2|e<Bg>e d<Be>d|B>AA<d F<E E2:|!
+
+
+X:5614
+T:Gale Force
+R:strathspey
+C:Paul S. Cranford
+O:20th Century Cape Breton
+D:The Lighthouse, Cranford Publications
+B:The Lighthouse Collection, ISBN 0-9691181-5-5
+N:http://www.cranfordpub.com
+Q:244
+L:1/8
+M:C
+K:Eaeo
+D<EE>D F<E E2|A<BB>A d<BB>d|e<dd>B A<FF>d|F<EE>D F<E E2:|!
+|:e<BB>g e<B g2| a<ff>a e<d B2|e<Bg>e d<Be>d|B>AA<d F<E E2:|!
+
+
+X:5615
+T:Galician Jig
+M:6/8
+L:1/8
+R:Jig
+Z:Steve Mansfield
+K:C
+g gag|e2g gag|d2g g2a|bag fed|e2c gag|e2g gag|d2d GBd|GBd fed|1c2:|2c3 g
+ag|
+|:bag fga|g2e gag|bag fed|c3 gag|bag fga|g2e gag|bag fed|1c3 gag:|2c2|
+|
+
+
+X:5616
+T:Galician Jig
+M:6/8
+L:1/8
+R:Jig
+K:C
+g gag|e2g gag|d2g g2a|bag fed|e2c gag|e2g gag|d2d GBd|GBd fed|1c2:|2c3 g
+ag|
+|:bag fga|g2e gag|bag fed|c3 gag|bag fga|g2e gag|bag fed|1c3 gag:|2c2|
+|
+
+
+X:5617
+T:Gallagher's Frolics
+R:Jig
+Z:Added by Alf Warnock
+M:6/8
+L:1/8
+K:D
+D|:EDE GFE|BAB dBA|BdB BAB|GFG AFD|
+EDE GFE|BAB dBA|BAG FAF|GEE E2:|
+B|:e2f gfe|g2a bge|dcd fed|faf fed|
+e2f gfe|dfe dBA|BAG FAF|GEE E2:|
+
+
+X:5618
+T:Gallagher's Frolics
+M:6/8
+L:1/8
+C:Trad
+R:Jig
+K:D
+EDE GFE | BAB dBA | BdB BAB | GFG AFD | EDE GFE | GAG dBA | BAG FAF | GE
+E E3 :|
+|: e2 f gfe | g2 a bge | dcd fed | faf fed | e2 f gfe | dfe dBA | BAG FA
+F | GEE E3 :| 
+
+
+X:5619
+T:Gallagher's Frolics
+M:6/8
+L:1/8
+R:Jig
+K:D maj
+|:EDE GFE|BAB dBA|BdB BAB|GFG AFD|EDE GFE|BAB dBA|BAG FAF|GEEE3:|:
+e2f gfe|g2a bge|dcd fed|faf fed|e2f gfe|dfe dBA|BAG FAF|GEEE3:|
+
+
+X:5620
+T:Gallagher's Frolics
+R:Jig
+Z:Added by Alf Warnock
+M:6/8
+L:1/8
+K:D
+|:EDE GFE|BAB dBA|BdB BAB|GFG AFD|
+EDE GFE|BAB dBA|BAG FAF|GEE E2z:|
+|:e2f gfe|g2a bge|dcd fed|faf fed|
+e2f gfe|dfe dBA|BAG FAF|GEE E2B:|
+
+
+X:5621
+T:Gallegada Vaqueira
+C:Trad.
+M:6/8
+L:1/8
+Q:3/8=150
+K:Eb
+B2 B|B2 e e2 e|d3 d3-|d6 :|
+|z3 c2 d|e2 e e2 e|d2 d c2 d|e2 e e2 e|d2 d B2 =B|B2 =B _B3|A6-|
+|A3 z3|A2 A A2 _d|_d2 =B B2 _B-|_B6|
+
+
+X:5622
+T:Gallegada Vaqueira
+R:Gallegada
+C:Tradicional
+S:MÃºsica Tradicional Asturiana, (C) Tello & Tito. Asturies, 2001.
+S:http://pagina.de/MusTradAst <telloytito@asturies.org>
+A:Asturies
+Z:Danzas y Bailes I
+M:6/8
+L:1/8
+Q:3/8=150
+K:Eb
+B2 B|B2 e e2 e|d3 d3-|d6 :|
+|z3 c2 d|e2 e e2 e|d2 d c2 d|e2 e e2 e|d2 d B2 =B|B2 =B _B3|A6-|
+|A3 z3|A2 A A2 _d|_d2 =B B2 _B-|_B6|
+
+
+X:5623
+T:Gallop in Benioshy(?). JNu.42
+M:2/4
+Q:50
+S:James Nuttall MS,c1830?,Rossendale,East Lancs.
+R:Gallop
+O:England
+A:East Lancashire
+N:Wrongly numbered 41 in MS.
+Z:Chris Partington
+K:G
+"qus".B/.c/|.d.g .B.c|.d.B .d(e/d/)|.c.A .cc/-d/|.B.G >BB/c/|!
+.d.g .B.c|.d.B de/-d/|cagf|g2z::!
+B/d/|cAa c/e/|dBb B/d/|cAa g/f/|.g.b.d. B/d/|!
+cAa c/e/|dBb B/d/|cagf|g2z::!
+K:C
+G|.e.d.c.B|cG">"e2|dG">"f2|ec gG|!
+.e.d.c.B|cG">"e2|.gGBd|c3:|]
+
+
+X:5624
+T:Gallop on Gaily. GS.111
+M:6/8
+L:1/8
+Q:110
+S:George Spencer m/s, Leeds,1831
+R:Jig
+O:England
+A:Leeds
+N:'George Spencer' written after the end of the music
+H:1831
+Z:vmp.Cherri Graebe
+K:D major
+A | ABA d2 f | gfe fga | ABA d2 f | gec d2 :||: e | efe aec | fdB ecA |
+efe aec | 
+edB A2 e | efe aec | edB ecA | efe aec | edB A3 || (D3F2)G | AAA A2a | a
+ba agf |
+gfe fga | D3 F2 "cr" G | AAA A2a | aba agf | gfe d3 ||
+
+
+X:5625
+T:Gallopade. CJF.151
+M:2/4
+L:1/8
+Q:200
+S: C.J.Fox MS, 1829/33, Beverley,E.Yorks.
+R:Misc.
+O:England
+A:East Yorkshire
+B:Kidson Coll.Mitchell Lib.M1805
+N:The final note should be a quaver to scan properly. - PJH.
+Z:P J Headford 2000
+K:D
+"f"D|GD/G/ BG/B/|dB/d/ gB|d^c=cA|edBD|!\
+GD/G/ BG/B/|dB/d/ gB|d^c=cA|G3:||:!B|
+d^c=cA|edBG|d^c=cA|edBD|!GD/G/ BG/B/|\
+dB/d/ gd|dcAF|G2g2:||
+
+
+X:5626
+T:Galloway hornpipe (Galway hornpipe)
+R:Hornpipe
+O:Scotland
+O:Ireland
+M:4/4
+K:D
+D2FA dAFD|CDEF G2FE|\
+D2FA dcdf|(3efe (3dcB (3ABA (3GFE|\
+D2FA dAFD|CDEF G2FG|
+AdcB (3ABA (3GFE|D2F2 D2::\
+de|\
+f^efg f=edc|B^ABc B2cd|
+e^def e=dcB|(3AAA ce a2A2|\
+dcde fdAF|GFGA BdcB|AdcB (3ABA (3GFE|D2F2 D2:|
+
+
+X:5627
+T:Galloway House
+M:4/4
+L:1/8
+Q:212
+K:G
+G|:B2B2B2A|GE4G3|ED2D2E2G2B2A2A2G|A
+zD2 D2D2|CB,C4E3CB,2 B,2C2|C2G2 F2F2|B,C
+W: G C G C D7
+B2 B2B2|AGE4G3ED2 D2E2|F2G6|GA
+D2 D2D2|CB,C4E3CB,2 B,2C2|A,2B,6|z2
+W: G C G C D7 G
+B2 B2B2|AGc4e2|c2B2 d2B2|G2B2 A2A2|GA
+z8z8z8G2 F2F2|B,C
+W: G C G C D7
+B2 B2B2|AGE4G3ED2 D2E2|F2G6:|
+D2D2 D2CB,|C4 E3C|B,2B,2 C2A,2|B,6
+W: G C G C D7 G
+
+
+X:5628
+T:Gallowglass, The
+R:jig
+C:Traditional
+S:Dan Beimborn
+H:submitted by Dan Beimborn to '94 Great IRTRAD Milwaukee Tune Swap
+N:The mode of this tune is difficult to decide. I ended up going with A Dorian because the first 2 chords seem to be Amin and G.
+Z: id:ng-jigs-3 contact Alan Ng agng@students.wisc.edu
+E:9
+I:speed 350
+M:6/8
+K:ADor
+AB|cBA eBd|cAA ABc|BAG efg|BGG GAB|cBA eBd|cea e2 d|cBA ^GAB|cAA A:|\
+ea|aga e=fd|cAA ABc|BAG efg|BGG G2 e|aga e=fd|cAA e2 d|cBA ^GAB|cAA A2 e|\
+aga e=fd|cAA ABc|BAG e^fg|BGG G2 e|aeg fdB|ecA BGE|ABc dBe|cAA A2||**
+
+
+X:5629
+T:Gallowglass, The
+C:Niel Gow
+R:jig
+H:Also in Edor, #354
+H:Original title "Niel Gow's Lament for his Brother"
+Z:id:hn-jig-355
+M:6/8
+K:Ador
+B|cBA eBd|cAA A2B|cBA efg|dBG GAB|
+cBA eBd|cAA e2d|cBA GAB|cAA A2:|
+|:e|aga e2d|cAA A2B|cBA efg|dBG G2e|
+[1 aga e2d|cAA e2d|cBA GAB|cAA A2:|
+[2 aeg fdB|ecA BGE|ABc eBd|cAA A2||
+
+
+X:5630
+T:Gallway Girls
+M:2/4
+L:1/8
+K:EM
+efge| dBBd| cAAc| dBBd| efge| dBBd| cABG| E2E2::\
+BcBA| Bcd2| ABAG| FGA2|
+BcBA| Bcde| dBdF| E2E2|\
+BcBA| BcdB| ABAG| FGA>d| BcBA | Bcde| dBdF| E2E2
+
+
+X:5631
+T:Gallway Girls. HSJJ.051
+T:All The Way To Galway,aka. HSJJ.051
+T:High Road To Gallaway,aka. HSJJ.051
+M:2/4
+L:1/8
+Q:350
+S:HSJ Jackson,Wyresdale,Lancs.1823
+R:Misc.
+O:England
+A:Lancashire
+N:Or Galloway?.
+H:1823
+Z:vmp.Chris Partington.
+K:G
+e>fge|dBBd|cAAc|dBBd|efge|dBBd|cABG|E2E2:|!
+|:BcBA|Bcd2|ABAG|FGA2|BcBA|Bcde|dBdF|E2E2|!
+BcBA|BcdB|ABAG|FGAd|BcBA|Bcde|dBdF|E2E2:|]
+
+
+X:5632
+T:Gallway Girls. HSJJ.051
+T:All The Way To Galway. HSJJ.051
+M:2/4
+L:1/8
+Q:350
+S:HSJ Jackson,Wyresdale,Lancs.1823
+R:Misc.
+O:England
+A:Lancashire
+N:Or Galloway?.
+H:1823
+Z:Chris Partington.
+K:G
+e>fge|dBBd|cAAc|dBBd|efge|dBBd|cABG|E2E2:|!
+|:BcBA|Bcd2|ABAG|FGA2|BcBA|Bcde|dBdF|E2E2|!
+BcBA|BcdB|ABAG|FGAd|BcBA|Bcde|dBdF|E2E2:|]
+
+
+X:5633
+T:GALOP NANTAIS
+Z: Yves BELOTTEAU
+M:4/4
+L:1/8
+Q:1/4=120
+K:C 
+|G/2A z2 A/2 B z2 B/2|c z/2 c/2cd/2c/2 B3/2 z/2 G/2|A z2 A/2B z2 B/2c z/
+2 |c/2cB/2c/2d3/2 z/2 d/2d/2B/2G/2dd/2|
+d/2B/2G/2dG/2A A/2dd/2B3/2|G3/2d/2d/2B/2G/2dd/2d/2B/2G/2dG/2|AA/2dd/2G3/
+2 z/2 G3/2 z/2 e3/2 z/2 |c3/2 z/2 cB cdc3/2 z/2 |
+B3/2 z/2 B7/2 z/2 c3/2 z/2 |A3/2 z/2 AG ABA3/2 z/2 |G3/2 z/2 G7/2 z/2 e3
+/2 z/2 |c3/2 z/2 cB cdc3/2 z/2 |
+B3/2 z/2 B3/2 z/2 G3/2 z/2 A3/2 z/2 |A3/2 z/2 B3/2 z/2 B3/2 z/2 c3/2 z/2
+ |e3/2 z/2 c3/2|
+
+
+X:5634
+T:Galop. GHW.033
+M:2/4
+L:1/8
+Q:250
+S:George H.Watson,MS,Swanton Abbott,Norfolk,1850-1880
+R:Galop
+O:England
+A:Norfolk
+N:'Signo' at start and end, DC at end. Ccnfused notes in second beat of
+N:23. Could be either cg or gc. I've gone for  cg, but it could be
+N:either.
+Z:vmp.Taz Tarry
+K:F
+cc/c/ cd|c3 d|cAcf|e2 z2|cc/c/ cd|c3 a|gfdg|c.c.d.e||!
+f3e|d2 zc|dc cd|d2 B2|f3e|d2 z d|dd cB|(d2c) z|!
+f3e|d2 zc|dc cf|g2 d2|f2ed|c2 zd|ca cg|(f2f2):|!
+K:Bb
+d2c>B|d3 d|ff e>d|f2 zb|a3 g|d3 e|dd c>B|c3 ^c|!
+d3 c>B|d3 f| ff e>d|(g2g2)|=e3 e|f3 g|fe d>c|(B2B2):|
+
+
+X:5635
+T:Galopede
+% Nottingham Music Database
+P:AAB
+S:Eric Foxley
+M:4/4
+L:1/4
+K:G
+P:A
+d/2c/2|"G"BB/2c/2 "D7"AA/2B/2|"G"GG GA/2B/2|"C"c/2B/2c/2d/2 e/2d/2c/2B/2|\
+"Am"cA "D7"Ad/2c/2|
+"G"BB/2c/2 "D/f+"AA/2B/2|"Em"GG "Em7/d"GA/2B/2|\
+"Am/c"c/2B/2A/2G/2 "D7"F/2G/2A/2F/2|"G"GG G:|
+P:B
+d/2c/2|"G"Bg/2f/2 "C"ee/2d/2|"Am"d/2c/2B/2c/2 "D7"Ad/2c/2|\
+"G"Bg/2f/2 "C"e/2d/2c/2B/2|
+"Am"cA "D7"Ad/2c/2|"G"Bg/2f/2 "C"ee/2d/2|"Am"d/2c/2B/2c/2 "D7"Ad/2c/2|\
+"G"B/2d/2c/2B/2 "D7"A/2c/2B/2A/2|
+"G"GG "D7"GB/2c/2|"G"dd/2d/2 dg|"G"dd/2d/2 dg|"G"dd "C"e/2d/2c/2B/2|\
+"Am"cA "D7"AB/2c/2|
+"G"dd/2d/2 dg|"Em"dd/2d/2 dg|"Am"e/2d/2c/2B/2 "D7"d/2c/2B/2A/2|"G"GG G||
+
+
+X:5636
+T:Galopede
+M:4/4
+L:1/8
+C:Trad
+S:Yarmouth Reel
+R:Reel
+K:G
+|:dc | B2Bc A2AB | G2G2 G2AB | cBcd edcB | A2A2 A2dc |!
+B2Bc A2AB | G2G2 G2AB| cBAG FGAF | G2G2 G2:|!
+dc | B2gf e2ed | dcBc A2dc | B2gf edcB | A2A2 A2dc |! 
+B2gf e2ed | dcBc A2dc | BdcB AcBA | G2G2G2 Bc ||! 
+d2 d2 d2 g2 | d2 d2 d2 g2 | d2 d2 edcB | A2A2A2 Bc |!
+d2 d2 d2 g2 | d2 d2 d2 g2| edcB dcBA | G2G2G2 ||
+
+
+X:5637
+T:Galopede
+M:4/4
+L:1/8
+K:G
+dc|B2Bc A2AB|G2G2G2AB|cBcd edcB|A2A2A2dc|B2Bc A2AB|G2G2G2AB|cBAG FGAF|G2
+B2G2:|:Bc|d2gf e2de|dcBc A2Bc|d2gf edcB|A2A2A2Bc|d2gf e2de|dcBc A2dc|B2c
+B A2BA|G2G2 G2:|:Bc|d2d2dg2|d2d2d2g2|d2d2edcB|A2A2A2Bc|d2d2d2g2|d2d2d2g2
+|edcB AGFA|G2B2G2:| 
+
+
+X:5638
+T:Galopede
+R:Reel
+C:Eric Foxley
+S:Nottingham Music Database
+P:AAB
+M:4/4
+L:1/8
+Q:1/4=200
+K:G
+dc|"G"B2Bc "D7"A2AB|"G"G2G2 G2AB|"C"cBcd edcB|"Am"c2A2 "D7"A2dc|
+"G"B2Bc "D/f+"A2AB|"Em"G2G2 "Em7/d"G2AB|"Am/c"cBAG "D7"FGAF|"G"G2G2 G2:|
+dc|B2gf "C"e2ed|"Am"dcBc "D7"A2dc|"G"B2gf "C"edcB|"Am"c2A2 "D7"A2dc|
+"G"B2gf "C"e2ed|"Am"dcBc "D7"A2dc|"G"BdcB "D7"AcBA|"G"G2G2 "D7"G2Bc|
+"G"d2dd d2g2|d2dd d2g2|d2d2 "C"edcB|"Am"c2A2 "D7"A2Bc|
+"G"d2dd d2g2|"Em"d2dd d2g2|"Am"edcB "D7"dcBA|"G"G2G2 G2|]
+
+
+X:5639
+T:Galopede
+R:Reel
+O:England
+M:4/4
+K:G
+dc|\
+B2Bc A2AB|G2G2 G2AB|cBcd edcB|AGFE D2dc|\
+B2Bc A2AB|G2G2 G2AB|cBAG FDEF|G2G2 G2::\
+Bc|\
+d2gf e2e2|dcBc A2Bc|d2gf edcB|A2D2 D2Bc|\
+d2gf e2e2|dcBc A2Bc|dcBc AcBA|G2G2 G2Bc|\
+d2d2 d2g2|d2d2 d2g2|d2Bd edcB|A2D2 D2Bc|\
+d2d2 d2g2|d2d2 d2Bc|dcBc AcBA|G2G2 G2 ||
+
+
+X:5640
+T:Galopede
+K:G
+M:4/4
+dc| B2 bc A AB| G2 G2 G2 AB|cBcd edcB| A2 A2 A2 dc| B2 bc A AB| G2 G2 G2
+ AB|\
+cBAg fgaf| g2 g2 g2::dc|B2 gf e2 ed|dcBc A2 dc| B2 gf edcB| A2 A2 A2BD|\
+B2gf e2 ed|dcBc A2|dc|BdcB AcBA |G2 G2 G2:|
+
+
+X:5641
+T:Galtee Ranger, The
+T:Humours of Galteemore, The
+T:Callaghan's
+R:reel
+Z:id:hn-reel-46
+M:C|
+K:D
+AF~F2 FEDE|~F3E F2dB|AF~F2 FEDE|1 FBBA FEEF:|2 F2EG FDD2||
+~A3B AF~F2|ABde fe~e2|fedc BcdB|ABde fedB|
+~A3B AGFG|ABde fe~e2|fedc BcdB|ABde fedB||
+
+
+X:5642
+T:Galtee Ranger, The
+T:Humours of Galteemore, The
+T:Callaghan's
+R:reel
+H:Similar to "The Blackberry Blossom", #117
+Z:id:hn-reel-46
+M:C|
+K:D
+AF~F2 FEDE|~F3E F2dB|AF~F2 FEDE|1 FBBA FEEF:|2 F2EG FDD2||
+~A3B AF~F2|ABde fe~e2|fedc BcdB|ABde fedB|
+~A3B AGFG|ABde fe~e2|fedc BcdB|ABde fedB||
+
+
+X:5643
+T:Galtee Reel, The
+R:reel
+S:Louise Costello
+D:Fintan Vallely: Traditional Irish Flute Music
+Z:id:hn-reel-582
+M:C|
+K:Ador
+aged cAAG|EA~A2 EA~A2|aged cAAc|BGGF GABd|
+aged cAAG|EA~A2 a2ga|bgag eaaf|1 gedB BA~A2:|2 gedB BAAB||
+|:~c3B cded|c2Bc dBGB|~c3B cded|cBAG EAAB|
+~c3B cded|cA~A2 a2ga|bgag eaaf|1 gedB cAAB:|2 gedB cA~A2||
+"version 2"
+|:aged cAAG|EA~A2 G2EG|aged cAAG|EG~G2 EGD2|
+aged cAAG|EA~A2 a2ga|bgaf gedB|1 dBAG EA~A2:|2 dBAG EAAB||
+|:c2AB cded|cAAG EAAB|c2AB cded|EGGF GED2|
+cBAB cded|cA~A2 a2ga|bgaf gedB|1 dBAG EAAB:|2 dBAG EA~A2||
+
+
+X:5644
+T:Galway
+Z: id:dc-hornpipe-60
+M:C|
+L:1/8
+K:D Major
+FE|D2FA dAFD|CDEF G2FE|D2FA dcdf|(3efe (3dcB (3ABA (3GFE|!
+D2FA dAFD|CDEF G2FG|AdcB AGFE|D2CE D2:|!
+de|fefg fedc|BABc B2cd|edef edcB|(3ABA ^GB A2 (3ABc|!
+dcde fdAF|GFGA BdcB|AdcB AGFE|D2CE D2:|!
+
+
+X:5645
+T:Galway Bay
+R:hornpipe
+D:Eamonn Cotter: Traditional Irish Music from County Clare
+Z:Devin McCabe
+M:C|
+L:1/8
+K:ADor
+AB|:cBcd ed (3efg|a2ea aec'a|gec'a gede|(3cBA (3BAG AGEG|
+!~A3B cecA|GDGA BAGE|ABcA ecAB|1c2A2 A3B:|2c2A2 A3a|
+!:ageg abc'a|age^d ecAB|c2cd eafd|gdec BAGE|
+!cGec BGdG|cGec BG=F2|(3efg ab c'abg|1e2a2 a3a:|2e2a2 a2AB||
+
+
+X:5646
+T:Galway Bay
+R:hornpipe
+S:Jonas Lindholm
+Z:id:hn-hornpipe-96
+M:C|
+K:Gdor
+GA|BABc dcdf|gfdf gabg|fdbg fdcd|BGGA GFDF|
+~G3A BABG|FEFG AGFD|GABc dcAc|(3BcB G2 G2:|
+|:za|gfdf gabg|gfd_e dBGA|BABc dcd=e|fcdB AGFA|
+(3BcB dB AFcA|BFdB AF_ec|dfga bagf|d2 (3ggg g2:|
+
+
+X:5647
+T:Galway Bay
+Z: id:dc-hornpipe-66
+M:C|
+L:1/8
+K:G Dorian
+A|BABc dcd^f|g^fdf gabg|fdbg fdcd|BGA^F G=FDF|!
+G2GA BABG|FcFG AGFD|GABG dBGA|B2G2 G3:|!
+f|gfdf gabg|gfdf dBGA|BABc dcde|fcdB AGFA|!
+BFdB AFcA|BFdB AF_ec|dfga bag^f|d2g2 g3:|!
+
+
+X:5648
+T:Galway Belle, The
+M:2/4
+L:1/16
+Q:142
+S:irtrad-l, 5/97, P. Varlet
+R:polka
+D:Celtic Thunder: Green Linnet GL 1029 (1981)
+K:E Dor
+E3F G2A2 | B2e2 B4 | A2F2 D2F2 | E2F2 D2B,2 |
+E3F G2A2 | B2e2 B4 | A2F2 D2F2 |1 E4 E2B,2 :|2 E4 E4 ||
+e2e2 B2B2 | e2e2 B4 | A2F2 D2F2 | E2F2 D4 |
+e2e2 B2B2 | e2e2 B4 | A2F2 D2F2 | E4 E4 |
+e2e2 B2B2 | e2e2 B4 | A2F2 D2F2 | E2F2 D2B,2 |
+E3F G2A2 | B2e2 B4 | A2F2 D2F2 | E4 E4 ||
+
+
+X:5649
+T:Galway Farmer
+R:Reel
+C:Steve Knightly
+S:Charles de Lint
+Z:Added by Alf Warnoc
+M:4/4
+L:1/8
+Q:1/4=200
+K:G
+D|E2EF EDB,D|EDEF GFED|D2AB AFED|dA (3Bcd AFED|
+E2EF EDB,D|EDEF GFED|D2AB AFED|E4 E3:||
+D|E2BE cEBE|E2BE cEBE|E2cE dEcE|E2cE dEcE|
+d3B AFED|AGAB AFED|B2 (3BBB AGFG|E4 E3:|
+
+
+X:5650
+T:Galway Farmer
+R:Reel
+C:Steve Knightly
+S:Charles de Lint
+Z:Added by Alf Warnock
+M:4/4
+L:1/8
+K:G
+D|E2EF EDB,D|EDEF GFED|D2AB AFED|dA (3Bcd AFED|
+E2EF EDB,D|EDEF GFED|D2AB AFED|E4 E3:|
+D|E2BE cEBE|E2BE cEBE|E2cE dEcE|E2cE dEcE|
+d3B AFED|AGAB AFED|B2 (3BBB AGFG|E4 E3:|
+
+
+X:5651
+T:Galway Hornpipe
+M:C
+L:1/8
+C:Trad.
+S:Maritime Fiddler  June 1996
+R:Hornpipe
+K:D
+z2z2z2FE|:"D"DDFA dAFD|"C"=CDEF G2FE|"D"DDFA dcde|"E"edcB "A"AGFE|
+"D"DDFA dAFD|"C"=CDEF G2FG|"D"AdcB "A"AGFE|"D"D2F2D2FE:||:
+"D(Bm)"fefg "(F#m)"fedc|"G(Bm)"BABc B2cf|"E"efefedcB|"A"ABce a2Bc|"D"dcd
+e fdAF|"G"GFGA BdcB|"A"AdcB AGFE|1"D"D2F2D2de:|2D2F2D4
+
+
+X:5652
+T:Galway Hornpipe
+R:hornpipe
+N:Bar 4 of 2nd part also played |(3ABA ^GB A2 (3ABc|
+Z:id:hn-hornpipe-48
+M:C|
+L:1/8
+K:D
+FE|D2FA dAFD|CDEF GEFE|D2FA dcdf|(3efe  (3dcB  (3ABA  (3GFE|
+D2FA dAFD|CDEF G2FG|AdcB AGFE|(3DED CE D2:|
+|:de|fefg fedc|BABc B2cd|edef edcB|(3ABA ce a2 (3ABc|
+dcde fdAF|GFGA BdcB|AdcB AGFE|(3DED CE D2:|
+
+
+X:5653
+T:Galway Hornpipe, The
+R:hornpipe
+N:Bar 4 of 2nd part also played |(3ABA ^GB A2 (3ABc|
+Z:id:hn-hornpipe-48
+M:C|
+K:D
+FE|D2FA dAFD|CDEF GEFE|D2FA dcdf|(3efe (3dcB (3ABA (3GFE|
+D2FA dAFD|CDEF G2FG|AdcB AGFE|(3DED CE D2:|
+|:de|fefg fedc|BABc B2cd|edef edcB|(3ABA ce a2 (3ABc|
+dcde fdAF|GFGA BdcB|AdcB AGFE|(3DED CE D2:|
+
+
+X:5654
+T:Galway Lasses
+M:4/4
+L:1/8
+C:Traditional
+R:R
+K:D
+|:BFF2 BFAF|EFDE FAA2|BFF2 BFAF|EFGE FDFA|!
+BFF2 BFAF|EFDE FAA2|BABc dBAF|EFGE FDFA:|!
+|:dAA2 BdAB|dfed BeeA|dAA2 BdAF|EFGE FDFA|!
+dAA2 BdAB|dfed Beed|fdec dBAF|EFGE FDFA:||!
+
+
+X:5655
+T:Galway Rambler, The
+R:reel
+D:Terry Bingham
+Z:id:hn-reel-485
+M:C|
+K:G
+G2dG eGdG|~G2dG AGEF|GFGA BABd|1 gedB AGEF:|2 gedB A2Bd||
+~g3b agab|gabg agef|~g3b agab|gedB A2Bd|
+~g3b agab|gabg a2ga|bgab gede|gedB AGEF||
+"variations"
+~g3d egdB|GBdB AGEF|GFGA BABd|gedB AGEF|
+~G3d eBdB|~G2dB AGEF|~G3A BABd|gedB A2Bd||
+g2bg agab|g2bg agef|g2bg agab|gedB A2Bd|
+g2bg agab|gabg ageg|bg~g2 eg~g2|gedB AGEF||
+
+
+X:5656
+T:Galway Rambler, The
+T:Walsh's Favorite
+T:Wellington's
+M:C|
+E:7
+Z:Boston.  From the playing of Paddy Canny and P.J. Hayes.   
+R:reel
+K:G
+G2 dG eGdG|G2dB AGEF|GFGA BABd|gedB AGEF|G2 dG eGdG|G2dB AGEF|GFGA BABd|gedB AGEF||
+g2 bg agab|gabg agef|g2 bg agab|gedB AGED|gabg gabg|gabg a2 ga|(3bag af gbaf|gedB AGED||
+
+
+X:5657
+T:Galway Rambler, The
+T:Walsh's Favorite
+T:Wellington's
+S:John B. Walsh
+M:C|
+E:7
+Z:Boston.  From the playing of Paddy Canny and P.J. Hayes.   
+R:reel
+K:G
+G2 dG eGdG|G2dB AGEF|GFGA BABd|gedB AGEF|
+G2 dG eGdG|G2dB AGEF|GFGA BABd|gedB AGEF||
+g2 bg agab|gabg agef|g2 bg agab|gedB AGED|
+gabg gabg|gabg a2 ga|(3bag af gbaf|gedB AGED||
+
+
+X:5658
+T:Galway Reel, The
+C:Larry Redican (1908-1975)
+R:reel
+S:Kevin Finucane
+Z:id:hn-reel-631
+M:C|
+K:G
+B|:AGEG DG,B,D|BAGA BedB|AGED B,DA,D|B,A,~A,2 B,EED|
+E2DE GEDB,|D2CE DG,B,D|~E3G DEGA|1 BdAB ~G3B:|2 BdAB G2Bc||
+|:dG~G2 EGDC|B,G,B,D GBdf|ec~c2 AcGE|DFAd fedc|
+BG~G2 EGDC|B,G,B,D GBdf|ec~c2 efge|1 dBAB G2Bc:|2 dBAB ~G3||
+
+
+X:5659
+T:Galway Reel, The
+C:Larry Redican
+R:reel
+S:Kevin Finucane
+Z:id:hn-reel-631
+M:C|
+K:G
+B|:AGEG DG,B,D|BAGA BedB|AGED B,DA,D|B,A,~A,2 B,EED|
+E2DE GEDB,|D2CE DG,B,D|~E3G DEGA|1 BdAB ~G3B:|2 BdAB G2Bc||
+|:dG~G2 EGDC|B,G,B,D GBdf|ec~c2 AcGE|DFAd fedc|
+BG~G2 EGDC|B,G,B,D GBdf|ec~c2 efge|1 dBAB G2Bc:|2 dBAB ~G3||
+
+
+X:5660
+T:Game Chicken, The (not available here)
+R:Jig
+O:England
+M:6/8
+L:1/8
+B:"The Fiddler of Helperby", Dragonfly Music, ISBN 1-872277-18-7, 1994.
+A:Yorkshire
+H:Dance Music, 1820-1850
+K:G
+
+
+X:5661
+T:Gamle Bonde (sonderh\o{}ning)
+S:CS
+R:Sonderh\o{}ning
+O:Denmark
+M:2/4
+A:Fan\o{}
+K:D
+f2a2 abag | fgfe d2d2 | efed c2c2 | c2cc A4 |\
+f2a2 abag | fgfd d2d2 | efed c2c2 | d4 d4 :|*
+d2f2 g3f | f2e2 e4 | d2f2 a2aa | g2fg f2d2 |\
+d2f2 abag | fgfe d2d2 | efed c2c2 | d4 d4 :|**
+
+
+X:5662
+T:Gammal Schottis
+O:France
+M:2/4
+L:1/8
+Q:1/4=160
+K:FDor
+C|:FEFE|F2 e2|c2c2|G2B2|[1 A2A2|F2F2|GFGE|C3C:|[2 AGAF|GFGE|F4-|F4|
+
+
+X:5663
+T:Gammel Hamborger
+Z:abc2
+S:HO
+R:Other
+O:Denmark
+M:2/4
+K:G
+B2B2 {B}c3B | B2G2 GDGB | \
+A2A2 FDFA | G2BG D4| \
+B2B2 {B}c3B | B2G2 GBGB | \
+A2A2 FDFA | (G4 G3)D ||*
+d2d2 {d}e3d | d2B2 BDGB | \
+A3A FDFA |G2B2 {B}d4| \
+d2d2 {d}e3d | d2B2 BDGB | \
+A2A2 FDFA | G2B2 G2z2 ||**
+
+
+X:5664
+T:Gan Aimn (from James Kelly)
+M:6/8
+L:1/8
+S:James Kelly
+R:jig
+Z:Devin McCabe
+K:D
+E|:FED EFG|ABA GFE|FED EFG|AdA BAG|
+!EFD EFG|Adf ecA|BAG FAF|1GEC D2E:|2GEC D2D|
+!:~E3 EDC|EFE EFG|~E3 EDC|DFE DCD|
+!~E3 EDC|EFE EFG|~F3 GEC|1DFE DCD:|2DFE DFA|
+!:dD cD BD|AD GD FD|EDC ABC|DEF ABc|
+!dD cD BD|AD GD FD|EDC ABC|1DFE DFA:|2DFE D2E||
+
+
+X:5665
+T:Gan ainm
+R:Reel
+S:
+H:
+N:
+D:?
+Z:Adrian Scahill
+M:4/4
+L:1/8
+K:G
+G2BG cGBG|ADDE FGAF|G2BG cGBG|Addc AGGF:||\
+g2dg egde|g2bg agef|g2dg egdB|cBAc BGG2:||
+
+
+X:5666
+T:Gan Ainm
+R:reel
+S:Francis Lynne(?)
+H:
+N: 
+D:Milltown Session 
+Z:Adrian Scahill
+M:4/4
+L:1/8
+K:A
+e2ce e2ce|fedf eaag|fedc dcBA|GABG Eaaf|\
+e2ce e2ce|fedf eaag|fedc dBed|cdBc A4:||\
+gbeg bee2|gaag agfe|fedc dcBA|\
+GBBG E3a|1 gbeg bee2|gaag agfe|fedc dBed|cdBc A4:|2 e2ce e2ce|fedf eaag|fedc dBed|cdBc A4||\
+
+
+X:5667
+T:Gan ainm
+R:Polka
+S:Martin O'Connor
+H:
+N:
+D:Live concert Galway
+Z:Adrian Scahill
+M:2/4
+L:1/8
+K:G
+eAag|edcA|B>A GE|ga/2g/2 ed|\
+eAag|edBg|e/2g/2e/2d/2 eg|eAA2:||\
+B>A GE|G2GD|EA AG/2A/2|BAAd|\
+B>A GE|G2G>e|dGG>A|BGG2:||
+
+
+X:5668
+T:Gan ainm
+R:Reel
+S:
+H:
+N:
+D:?
+Z:Adrian Scahill
+M:4/4
+L:1/8
+K:G
+ge|dBAB G3E|DGG2 DGBe|dBAB G3A|Beed efge:||\
+dBB2 dBge|dBB2 d3e|dBB2 g2fg|egdB A2Bc|\
+dBB2 dBgf|edef g3a|b2af gfed |(3efg fa g2Bd||egdB G3E|DGG2 DGBe|
+
+
+X:5669
+T:Gan Ainm
+R:reel
+S:Seamus Egan
+H:
+N:
+D:Solo Album #1 
+Z:Adrian Scahill
+M:4/4
+L:1/8
+K:G
+E|DEGA B3d|egg2 edd2|ed (3Bcd g3d|egdB ABGE|\
+DEGA B3d|egg2 edd2|egdB ABGE|DEGA BGG2:||\
+dgg2 eaa2|dgg2 ed (3Bcd|e3d g3d|egdB ABge|\
+dgg2 eaa2|dgg2 ed (3Bcd|egdB ABGE|DEGA BGG2:||
+
+
+X:5670
+T:Gan Ainm
+R:Reel
+C:
+S:
+H:
+N:
+D:Milltown Session
+Z:Adrian Scahill
+M:4/4
+L:1/8
+K:G
+A2 (3AAA cAA2|BAGA Bcd2|g2dB Ggge|dBGA BAA2|\
+A2 (3AAA cAA2|BAGA Bcd2|(3EFG AB cdef|gedB BAA2:||\
+eaag a3b|a2bg agef|g2dg g2ba|gedB BAA2|\
+eaag a3b|a2bg agef|gedB cdef|gedB BAA2:||
+
+
+X:5671
+T:Gan Ainm
+R:Reel
+C:
+S:
+H:
+N:
+D:Clare FM Broadcast
+Z:Adrian Scahill
+M:4/4
+L:1/8
+K:D
+D2FA dBBd|(3ABA FD EB,B,E|D2FA dBBd|AFDF (3EFE D2:||
+Adfd edfd|adfd eBB2|Adfd edfd|AFDF (3EFE D2|\
+Adfd edfd|adfd ed (3Bcd|g3e f3e|dBAF E2FE||
+
+
+X:5672
+T:Gan Ainm
+R:Reel
+S:Seamus Egan
+H:
+N:
+D:Solo Album #1 
+Z:Adrian Scahill
+M:4/4
+L:1/8
+K:G
+E2GB edBA|G3A FDD2|EDEF GFGA|Bdef gefd|\
+eagf eDEF|GBAG FDD2|EDEF GBed|BAGF E4:||\
+e3f g2fg|edBG EGBG|Bdde effe|dBAF DEFA|\
+Beef g2fg|edBG EGBG|Adde effe|dBAF E4:||
+
+
+X:5673
+T:Gan ainm
+S:
+H:
+N:Some type of march/planxty? Slowish rhythm. Only 4 bars in 2nd part.
+D:All-Ireland Fleadh 19??
+Z:Adrian Scahill
+M:4/4
+L:1/8
+K:G
+%R:Reel
+g2bg agfd|e2ge dBB2|g2bg agfd|(3efg fa gbg2|\
+g2bg agfd|e2ge dBcA|GFGA Bddg|(3efg fa gbg2:||
+G3A BddB|cABG AGEF|G3A Bddg|(3efg fa gbg2:||
+
+
+X:5674
+T:Gan ainm
+R:Reel
+S:
+H:
+N:
+D:Nomos tape of dubious origin
+Z:Adrian Scahill
+M:4/4
+L:1/8
+K:G
+G3B cABA|GABd g3f|ecc2 dBB2|cAAB AGEF|\
+GABd cABA|GABd g3f|ecc2 dBB2|cAFA G4:||\
+g3f gbag|e3c egfe|dBB2 gBB2|1 cAAG ABcd|g3f gbag|e3c egfe|dBB2 gBB2|cAFA G4:|2 cAAB AGFG| ECEG DB,DE|GABd g3f|ecc2 dBB2|cAFA G4||
+
+
+X:5675
+T:Gan ainm
+R:Reel
+S:
+H:
+N:
+D:Nomos tape of dubious origin
+Z:Adrian Scahill
+M:4/4
+L:1/8
+K:G
+cAAG ABcd|e2ab agef|g2dg (3efg dg|^cdgd (3efg dB|\
+cAAG ABcd|e2ab agef|g2dg efge|dBGB A4:||\
+eaag ageg|agbg agef|g2dg (3efg dg|^cdgd (3efg dg|\
+eaag ageg|agbg agef|g2dg efge|dBGB A4:||
+
+
+X:5676
+T:Gan ainm
+R:Reel
+S:Kevin Burke/The Murphys
+H:
+N:
+D:Up Close
+Z:Adrian Scahill
+M:2/2
+L:1/8
+K:D
+D3F EDB,A,|D3E FAA2|Beed e2de|f2ed BAFE|\
+D3F EDB,D|A,B,DE FAA2|Beed e2dB|AFEF D4:||\
+ABde f3g|afdf edBd|ABde f3g|afdf e2dB|\
+ABde f3g|afdf edBA|d3B ABdB|AFEF D4:||
+
+
+X:5677
+T:Gan ainm
+R:Reel
+S:
+H:
+N:
+D:Nomos tape of dubious origin
+Z:Adrian Scahill
+M:4/4
+L:1/8
+K:A
+cEE2 c2Bc|AFFE FAEA|F3E FGAB|cBAB cffe|\
+cEE2 c2Bc|AFFE FAEA|F3E FGAB|cABG A4:||\
+aefe c2Bc|AFEF ABce|f2ba fbaf|ecAB cAce|\
+aefe c2Bc|AFEF ABce|f2ba fbaf|ecBc A4:||
+
+
+X:5678
+T:Gan Ainm
+R:reel
+S:Francis Lynne(?)
+H:
+N: 
+D:Milltown Session 
+Z:Adrian Scahill
+M:4/4
+L:1/8
+K:A
+Acc2 efec|BAGB AFEF|Acc2 efec|afec B2B2|\
+Acce eafa|eafa ecBc|Acc2 afec|BABc A2A2:||\
+afec e2eg|afec B2Bg|afec e2ef|ecBc A2Ag|\
+afec e2ef|aee2 bee2|gaaf ceef|edcB A2A2:||
+
+
+X:5679
+T:Gan ainm
+R:waltz
+S:
+H:
+N:
+D:
+Z:Adrian Scahill
+M:3/4
+L:1/8
+K:D
+D3E FG|A3F Ad|f2e2c2|d4dc|B2GBdB|(3ABA FAdf|e2cABc|1d2fdAF:|2d4A2:|3d2fdAF:|4d3DEF||\
+G2BGBG|(3BcB GBdB|(3ABA FAde|(3fgf dfa2|bagfgf|e>f edcB|1A>B AGFE|F2AF (3DEF:|2 (3ABA ^GABc|d3 DEF:||
+
+
+X:5680
+T:Gan Ainm
+R:Reel
+S:
+H:
+N:
+D:?
+Z:Adrian Scahill
+M:4/4
+L:1/8
+K:G
+G2dG BGdG|G2dB cAFA|G2dG Bcde|fdcB cAFA|\
+G2dG BGdG|G2dB cAFA|GABc dfeg|1 fdcA AGFA:|2 fdcA GABc||\
+dgg2 bgaf|dgg2 d2cA|dgg2 bgag|fdcA GABc|\
+dgg2 bgaf|dgg2 d2eg|afge (3fed eg|1 fdcA GABc:|2 fdcA AGFA||
+
+
+X:5681
+T:Gan Ainm
+R:Reel
+S:Unknown Fiddle
+H:
+N:
+D:Radio Clare Broadcast
+Z:Adrian Scahill
+M:4/4
+L:1/8
+K:D
+AFF2 GFEF|DB,A,B, DEFD|EBB2 dBAc|(3dcB cA BFAF|\
+DFF2 BFAF|DEFD EB,B,2|D2dA BdAF|DEE2 D4:||\
+FBB2 BAFE|DE (3FED A,DFA|Bee2 edBA|FABc dcde|\
+fdd2 cdBd|AFF2 EDCE|D2dA BdAF|DEE2 D4:||
+
+
+X:5682
+T:Gan Ainm
+R:Reel
+S:
+H:
+N:
+D:Galway Sessions
+Z:Adrian Scahill
+M:4/4
+L:1/8
+K:G
+GEDE G3A|Bdgd BGG2|AGEG ABcA|(3Bcd gd egdB|\
+GEDE G3A|Bdgd BGG2|(3Bcd ed Bage|dBAc BGG2:||\
+gede g3a|bgaf ged2|ageg agab|c'abg agef|\
+gede g3a|bgaf gfed|(3Bcd ed Bdge|dBAc BGG2:||
+
+
+X:5683
+T:Gan ainm
+R:Polka
+S:
+H:
+N:
+D:All-Ireland Fleadh 19??
+Z:Adrian Scahill
+M:2/4
+L:1/8
+K:G
+B2 BA/2B/2|dB gB|A>B AG|AB ce|\
+dB GB|dB gB|A>B ce|AGG2:||\
+e>f ge|dB Bd|cA Ac|BG B/2c/d|\
+e>f ge|dB Bd|cA BA|G2G2:|| 
+
+
+X:5684
+T:Gan Ainm
+R:Reel
+C:
+S:
+H:
+N:Not the clearest of playing: second half is 'reconstructed' somewhat
+D:Milltown Session 
+Z:Adrian Scahill
+M:4/4
+L:1/8
+K:A
+A3B ABce|f3e fefg|a2fe fdaf|(3efe cA BAFA|\
+A3B ABce|f3e fefg|a2fe fdaf|ecBc A4:||\
+c3e efae|fcec BecB|AFEC EFAE|FAEC B,2 CB,|\
+A,2CE FECE|cEcB ABce|agae fdaf|ecBc A4:||
+
+
+X:5685
+T:Gan ainm
+R:Reel
+S:Billy McComiskey
+H:
+N:
+D:Making the Rounds
+Z:Adrian Scahill
+M:2/2
+L:1/8
+K:D
+ABAG EGG2|Addc d2af|gefd ceAd|=cdef ge^ce|\
+dcAG EGG2|Addc d2af|gefd ceAd|=cAGE ADD2:||\
+d2af g2fg|af (3gfe fdAB|=cdef gefg|afge (3fed ec|\
+dAaf g2fg|afge fdaf|gefd ceAd|=cAGE ADD2:||
+
+
+X:5686
+T:Gan Ainm
+R:Reel
+C:
+S:
+H:
+N:
+D:Clare FM Broadcast
+Z:Adrian Scahill
+M:4/4
+L:1/8
+K:D
+B,EE2 GFEG|FDDC DEFA|(3BcB AF G2dB|AFDF GEED:||\
+Beed e2fd|(3efe fd edBd|d2 dc defe|dBAF GEE2|\
+Beed e2fd|(3efe fd edBd|dBAF G2Bc|dBAF GEFD||\
+
+
+X:5687
+T:Gan Ainm
+R:Reel
+C:
+S:Declan Corey (Mandola)
+H:
+N:Kevin Burke 'Up Close; Aidan Coffey, Seamus Creagh
+D:Milltown Session 
+Z:Adrian Scahill
+M:4/4
+L:1/8
+K:A
+e3f ecAB|c2Ac BAFA|ceef ecAB|cBBA B3d|\
+cAce f2ec|efec (3BcB AB|c2cA BAFD|EAAG A4:||\
+cee2 dffd|efec (3BcB AB|cee2 defg|afec B2AB|\
+cee2 dffd|efec (3BcB AB|c2cA BAFA|EAAG A4:||
+
+
+X:5688
+T:Gan ainm
+R:Reel
+S:Billy McComiskey
+H:
+N:Also in CRE somewhere
+D:Making the Rounds
+Z:Adrian Scahill
+M:2/2
+L:1/8
+K:G
+ABAG EFGE|AGAB cded|cAag ef(3gfg|1 aged ^cAdc:|2 aged ^cAA2||
+egdg egdc|BGGA BcdB|e3f eAab|aged ^cAA2|\
+a2ea aged|^cAAG EFGE|A^GAB cdef|(3gfg ea ged^c||
+
+
+X:5689
+T:Gan ainm
+R:Reel
+S:
+H:
+N:
+D:?
+Z:Adrian Scahill
+M:2/2
+L:1/8
+K:A
+AGAc B2cd|ecdB cABG|EAA2 BEed|cABG AECE|\
+(3ABA Ac B2cd|eAae cABG|EAA2 BEed|1 cABG A2CE:|2 cABG a2ce||\
+a2(3aga b3g|f2ga bgeg|abaf (3gag eg|fagb a2ce|\
+aec'a gabg|(3fgf ga bgeg|aec'a fdBd|cABG A2 ce:||
+
+
+X:5690
+T:Gan Ainm
+S:Denis Brooks
+E:11.5
+R:polka
+I:speed 450
+M:2/4
+K:G
+c|B2G2 G3A|B2G2 G2B2|A2D2 F2G2|A2B2 cBA2|B2G2 G3A|B2G2 G2B2|A2D2 F2G2|A2G2 G3:|
+A|B2d2 c2e2|d2g2 B2AB|d2c2 A2F2|e2d2 B2GA|B2d2 c2e2|d2g2 B2AB|d2c2 A2F2|G4 G3:|
+
+
+X:5691
+T:Gan Ainm
+R:Reel
+C:
+S:
+H:
+N:
+D:Clare FM Broadcast
+Z:Adrian Scahill
+M:4/4
+L:1/8
+K:A
+EFAB c2Ac|c2Ac BAFA|EFAB c3d|ecAc B2AF:||
+afef c3d|cBAc BAFA|afef c3d|cBAc B2fg|\
+aee2 fcc2|ecAc BAFA|EFAB c3d|ecAc B2AF||
+
+
+X:5692
+T:Gan Ainm
+R:Reel
+S:Garry Shannon
+H:
+N:
+D:Lose the Head
+Z:Adrian Scahill
+M:2/2
+L:1/8
+K:E
+G2BG BGFG|(3EFE EF GBce|fgge fgfe|^Bcfg ecBA|\
+=G^GcG BGFG|(3EFE EF GBce|fgge fece|Bcef e4:||\
+B3g fege|Bege fgfe|^BceB ceBc|ec=BG FGAF|\
+G2cG BGFG|(3EFE EF GBce|fgge fece|Bcef e4:||
+
+
+X:5693
+T:Gan Ainm
+R:Reel
+S:(Phil Cunningham)
+H:
+N:
+D:?
+Z:Adrian Scahill
+M:4/4
+L:1/8
+K:D
+FABd B2AF|ABdf e2de|f2ed BAdB|ABdD FEDE|\
+(3FGA Bd B2AF|ABdf e2de|f2ed bafb|1 afef d4:|2 afef d2fa||\
+b3f a3f|d2de edBA|FABd ABdb|afdf e2fa|\
+bdd2 a3f|d2de edBA|FABd ABdb|afef d4:||
+
+
+X:5694
+T:Gan Ainm
+R:reel
+S:(Unknown fiddle)
+H:
+N:
+D:Taped @ Milltown
+Z:Adrian Scahill
+M:4/4
+L:1/8
+K:D
+FGEF D2EF|GEFD EDEG|FGEF D3g|1 fdec dBAG:|2 fdec dBAg||\
+fddc dfaf|eAA2 cdeg|1fddc dfaf|eABc dcde:|2 fdfa gfed|cAce dBAG|| 
+
+
+X:5695
+T:Gan ainm
+R:S
+R:S

@@ -1,0 +1,1350 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%   ColecciÃ³n de ABCs de  la Taberna   %%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   N I L   %%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+X:9990
+T:M.B.Polka,The. GHW.022
+M:2/4
+L:1/8
+Q:220
+S:George H.Watson,MS,Swanton Abbott,Norfolk,1850-1880
+R:Polka
+O:England
+A:Norfolk
+N:Possibly ff marking at start of B part. Fine marked at end of C part. D
+N:part marked '1st time f, 2nd time ff at start. 2nd. time at end of D
+N:marked D.TT.. Last strain re-beamed.CGP
+Z:vmp.Taz Tarry
+K:G
+B/A/B d/^c/d|ed G/F/G| F/E/F c/B/c|ed B2|!
+B/A/B d/^c/d|ed G/F/G| F/E/F (d/c/B/A/)|GGG z:|!
+K:D
+:Aff>d|A^GBA|Gee>c|AGcB|!
+Aff>d|A^GBA|Gec>A|ddd z:|!
+K:G
+"FF"B/A/B d/^c/d|ed G/F/G| F/E/F c/B/c|ed B2|!
+B/A/B d/^c/d|ag A/^G/A|c/B/c e>F|"FINE"Ggg||!
+K:C
+|:e|cG/G/ GE|G3 e|cG/G/ GE|A3 f|!
+dF/F/ FD|B3A|AG/G/ GE|G3e|!
+cG/G/ GE|G3 e|cG/G/ GE|A3 f|!
+dA/A/ Ad|cG/G/ Gc|BfA>B|1c3:||2c3 z||
+
+
+X:9991
+T:M.T.B.
+% Nottingham Music Database
+S:Lesley Dolman
+M:3/4
+L:1/4
+K:G
+D|"G"GBd|"G"g3/2g/2f/2g/2|"C"age|"G"edd|"D"DFA|"D"d3/2d/2^c/2d/2|"D7"edc|
+"G"B2B/2A/2|"G"GBd|"G"g3/2g/2f/2g/2|"C"age|"G"edd|"D"DFA|"D"d3/2d/2^c/2d/2|\
+"D7"cBA|
+"G"G2B/2A/2|"G"GBe|"G"d2d|"G"GBe|"G"d2d|"D"DFA|"D"d3/2d/2^c/2d/2|"D7"edc|
+"G"B2B/2A/2|"G"GBe|"G"d2d|"G"GBe|"G"d2d|"D"DFA|"D"d3/2d/2^c/2d/2|"D7"cBA|"G"G2\
+||
+
+
+X:9992
+T:Ma Avarech
+O:Israeli
+C:Ya'ir Rosenblum
+L:1/8
+M:4/4
+Q:1/4=96
+K:Em
+"Em"E2 BA "Em"B2 cB| "Am"AA GA-"Am"A2 Bc| "G"dcBA "Em"G2 F2|\
+[1 "Em"E8 :|[2 "Em"E6 FG|\
+"D"A3 F "Em"BAGF| "Em"GE EE-"Em"E2 EG|
+ "Am"A2 AGB"D"A GF| "Em"G4 "Em"Bc|\
+"Em"e2 fd "G"d2 B2| "Am"c2 dc "Em"B2 G2 | "Am"A2 BA "D"F2 E2 | "Em"E8|
+
+
+X:9993
+T:Ma Avarech
+O:Israeli
+C:Ya'ir Rosenblum
+L:1/8
+M:4/4
+Q:1/4=96
+K:Em
+"Em"E2 BA "Em"B2 cB| "Am"AA GA-"Am"A2 Bc| "G"dcBA "Em"G2 F2|\
+[1 "Em"E8 :|[2 "Em"E6 FG|\
+"D"A3 F "Em"BAGF| "Em"GE EE-"Em"E2 EG|
+ "Am"A2 AGB"D"A GF| "Em"G4 "Em"Bc|\
+"Em"e2 fd "G"d2 B2| "Am"c2 dc "Em"B2 G2 | "Am"A2 BA "D"F2 E2 | "Em"E8|
+
+
+X:9994
+T:Ma belle, si tu voulais
+R:Chanson
+O:France
+B:Le livre des Chansons (Henri Davenson) nÂ°46
+Z:<anamnese@caramail.com> -- http://anamnese.fr.st
+M:3/8
+L:1/8
+Q:1/4=100
+K:Bb
+F | F2 G | G2 F | F2 D | D2 E | E2 D | D2 C | C2 D | D2 C |!
+ C B, B, | B, z C | C2 D | D2 C | C2 B,-|B,2 z ||
+W:Ma belle, si tu voulais, (2x)
+W:Nous dormirions ensemble, (2x) lon lÃ 
+W:
+W:Dans un grand lit carrÃ©, couvert de taies blanches ;
+W:Aux quatre coins du lit, un bouquet de pervenches.
+W:Dans le mitan du lit, la riviÃ¨re profonde ;
+W:Tous les chevaux du roi y viennent boire ensemble.
+W:Et lÃ , nous dormirions jusqu'Ã  la fin du monde.
+
+
+X:9995
+T:Ma jeunesse
+R:BourrÃ©e Ã  3 temps
+A:Massif Central
+O:France
+M:3/4
+L:1/4
+Q:1/4=180
+K:F
+F|:Gc2|B/2c/2dc|BGA|Bc2|B/2c/2BA|1G2F:|2G2B|
+|:AF2|G/2A/2GF|ECB|AF2|G/2A/2GE|1F2B:|2F2||
+
+
+X:9996
+T:Ma Navu
+L:1/8
+O:Israel
+C:J.Spivak
+S:V. Pasternak : Great Songs of Israel
+M:4/4
+Q:1/4=60
+K:Bm
+"Em"EB/2A/2 B>G "Am" AB "Em" GF/2E/2 | "Am" F/2G/2A "Em"GF/2E/2 F G2 F|
+"Em"EB/2A/2 B>G "Am" AB "Em" GF/2E/2 | "Am" F/2G/2A "Em"GF/2E/2 D E2 D/2C/2| \
+|"Bm" DE "A" ^C>A, "D" D/2C/2D "Em" ED/2C/2|
+"D" DE "A" C>A, "Bm" D/2C/2 B,2 D/2C/2 | \
+|"Bm" DE "A" ^C>A, "D" D/2C/2D "Em" ED/2C/2|\
+ "D" DE "A"^C>A, "Bm" D/2C/2 B,3 |
+
+
+X:9997
+T:Ma Navu
+L:1/8
+O:Israel
+C:J.Spivak
+S:V. Pasternak : Great Songs of Israel
+M:4/4
+Q:1/4=60
+K:Bm
+"Em"EB/2A/2 B>G "Am" AB "Em" GF/2E/2 | "Am" F/2G/2A "Em"GF/2E/2 F G2 F|
+"Em"EB/2A/2 B>G "Am" AB "Em" GF/2E/2 | "Am" F/2G/2A "Em"GF/2E/2 D E2 D/2C/2| \
+|"Bm" DE "A" ^C>A, "D" D/2C/2D "Em" ED/2C/2|
+"D" DE "A" C>A, "Bm" D/2C/2 B,2 D/2C/2 | \
+|"Bm" DE "A" ^C>A, "D" D/2C/2D "Em" ED/2C/2|\
+ "D" DE "A"^C>A, "Bm" D/2C/2 B,3 |
+
+
+X:9998
+T:Ma Normandie
+T:Quand tout renaÃ®t Ã  l'espÃ©rance
+R:Valse
+C:FrÃ©dÃ©ric BÃ©rat (1885) Traditionnel
+A:Normandie
+O:France
+M:3/4
+L:1/8
+Q:1/4=76
+K:G
+D| D> G G> B B> e| d2 d zz D|c> B A3 d|B> A Gz D|!
+D> G  G> B B> e|d2 d zz D|c> B A3 d|B> A Gz D|!
+cd c3 D|Bc B2-B D|A B A3 D|G A G2zD|D G G B B e|!
+d2-d/2 z/2 d c> B| B A E ^F E> D|"h"G4  z||
+
+
+X:9999
+T:Mabel Kelly
+R:Other
+O:Ireland
+M:4/4
+C:Turlough O'Carolan
+K:C
+d/c/|\
+A2A2 Ac|d2de de|dc AG Ac|d2 de d2|\
+cB AG ED|C2 CD C2|AG ED EG|A2 Ac A2|
+c2 ce ce|d2 de d2|ed eg ag|"tr"e3 d c2|\
+cB cd ed|cd cB AG|E>D CE GE|D2DE HD||
+D/C/|\
+A,2 A,2 DE|GE GA G2|GE DC EG|A2 Ac A2|\
+cB cd ed|cA cd eg|ag ed ce|d2 de d2|
+cB AG E>D|C2 CD C2|AG ED EG|A2 Ac A2|\
+c2 GE C2|d2cB AG|E>D CE GE|D2DE HD||
+
+
+X:10000
+T:Mabou Communications
+R:reel
+C:Dougie MacDonald & Kinnon Beaton
+O:20th century Cape Breton
+N:Bookings,Mechanicals etc.
+N:Bookings,Mechanicals etc.
+N:..... Dougie MacDonald <dougie@cranfordpub.com>
+N:More tunes and information <http://www.cranfordpub.com/dougie>
+D:Saturday Night Lively
+N:. . . . Kinnon Beaton <kinnon@cranfordpub.com>
+B:Cape Breton Fiddler Dougie MacDonald:Fiddle Tunes, 1993
+Z:This abc transcription is for personal use only,
+Z:provided this notice remains attached.
+Z:Used by permission of the composers.
+Z:Paul Stewart Cranford <psc@cranfordpub.com>
+Q:333
+L:1/8
+M:C|
+K:D
+fg|ag f2 gece|dA A/A/A B2 Bd|AGFA BdGB|ceAc dcBA|!
+ag f2 gece|dA A/A/A B2 Bd|AGFA BdGB|ceAc d2:|!
+|:AG|F2 DF Adfd|BG G/G/G BcdB|Ad f2 fagf|ecdB cAAG|!
+F2 DF Adfd|BG G/G/G BcdB|Adfa gbed|cABc d/d/d:|]!
+
+
+X:10001
+T:Mabou Communications
+R:reel
+C:Dougie MacDonald & Kinnon Beaton
+O:20th century Cape Breton
+N:Bookings,Mechanicals etc.
+N:Bookings,Mechanicals etc.
+N:..... Dougie MacDonald <dougie@cranfordpub.com>
+N:More tunes and information <http://www.cranfordpub.com/dougie>
+D:Saturday Night Lively
+N:. . . . Kinnon Beaton <kinnon@cranfordpub.com>
+B:Cape Breton Fiddler Dougie MacDonald:Fiddle Tunes, 1993
+Z:This abc transcription is for personal use only,
+Z:provided this notice remains attached.
+Z:Used by permission of the composers.
+Z:Paul Stewart Cranford <psc@cranfordpub.com>
+Q:333
+L:1/8
+M:C|
+K:D
+fg|ag f2 gece|dA A/A/A B2 Bd|AGFA BdGB|ceAc dcBA|!
+ag f2 gece|dA A/A/A B2 Bd|AGFA BdGB|ceAc d2:|!
+|:AG|F2 DF Adfd|BG G/G/G BcdB|Ad f2 fagf|ecdB cAAG|!
+F2 DF Adfd|BG G/G/G BcdB|Adfa gbed|cABc d/d/d:|]!
+
+
+X:10002
+T:Mac's Fancy
+R:jig
+H:Originally from a Scottish tune: "MacDonald's March"
+D:De Danann: Mist Covered Mountain
+Z:id:hn-jig-259
+M:6/8
+K:Amix
+eAA fed|eAA Bcd|eAA gfe|dBG Bcd|
+eAA fed|eAA Bcd|egg gfe|dBG Bcd:|
+|:Aaa ~a3|Aaa aga|Aaa aef|gfe dBG|
+Aaa aga|Aaa a2f|~g3 gfe|dBG Bcd:|
+
+
+X:10003
+T:Mac's Fancy
+R:jig
+H:Originally from a Scottish tune: "Lord MacDonald's March to Harlaw"
+D:De Danann: Mist Covered Mountain
+Z:id:hn-jig-259
+M:6/8
+K:Amix
+eAA fed|eAA Bcd|eAA gfe|dBG Bcd|
+eAA fed|eAA Bcd|egg gfe|dBG Bcd:|
+|:Aaa ~a3|Aaa aga|Aaa aef|gfe dBG|
+Aaa aga|Aaa a2f|~g3 gfe|dBG Bcd:|
+
+
+X:10004
+T:MacAllan
+% Nottingham Music Database
+S:J Scott Skinner
+M:4/4
+L:1/8
+R:Hornpipe
+K:A
+D/2|C/2E3/2A3/2B/2 c/2B/2A/2G/2A3/2c/2|d3/2e/2f3/2e/2 d/2c/2B/2A/2G/2B3/2|
+C/2E3/2A3/2B/2 c/2B/2A/2G/2A3/2a/2|f/2g/2a/2f/2ea cAA:|
+g/2|a3/2A/2c/2d/2e f3/2a/2e3/2a/2|d3/2a/2c3/2a/2 B3/2A/2G/2B3/2|\
+(3ABc(3dcB (3cdea3/2g/2|f/2g/2ae3/2a/2 cAA:|
+
+
+X:10005
+T:MacArthur Road
+C:Dave Richardson
+R:reel
+D:Four Men and a Dog: Barking Mad
+Z:id:hn-reel-497
+M:C|
+K:E
+B2GB Bcef|~g3e fece|~f3e fece|fage fece|
+B2GB Bcef|~g3e fece|~f3g fece|1 Beef ~e3c:|2 Beef e2ga||
+|:be~e2 bec'e|be~e2 fece|~f3g fece|fage fece|
+[1 be~e2 bec'e|be~e2 fece|~f3g fece|Beef efga:|
+[2 ~B3G Bcef|~g3e fece|~f3g fece|Beef e2ec||
+
+
+X:10006
+T:Macclejohn's
+T:Johnny Macclejohn
+R:Reel
+S:Mally
+Z:Set Miss Monaghan's / Macclejohn's / Monaghan Twig
+M:4/4
+L:1/8
+Q:1/4=200
+K:D
+E|FAA2 BAFA|BAFA BcdA|FAA2 BAFA|(3Bcd AF EFD:|
+z|f3e d3A|BAFA BAFA|f3e d3A|(3Bcd AF EFDz|
+f3e d3A|BAFA BAFA|f3e d3A|(3Bcd AF EFD3|]
+
+
+X:10007
+T:MacCrimmons Lament, "Cha Till Mi Tuille"
+R:Slow Air
+B:The Skye collection
+O:Scotland
+M:4/4
+L:1/8
+K:C
+A>A e2 d2 {d}e2| A2 {bag}f2 e>deA|1 G2 (3GBd {e}dB dA:|2 G2 (3GBd e2 dB|
+G>G B2 e2 d>A||!
+g>feA g>feA| g>feA g>feA|1 g>edG g>edG| g>edG d>B A2:|2 G2 (3GBd e2 dB|G
+2 (3GBd e2 dA||
+
+
+X:10008
+T:Macdonald's Air
+R:Jig
+O:England
+M:6/8
+A:Lancashire
+B:Winder
+K:D
+e | fed dcB | AFA AFA | fed dag | fee e2d | \
+fed dcB | AFA AFA | daf ede | fdd d2 :|*
+|:A | FAd dfd | Ace ege | FAd dag | fee e2d | \
+fed dcB | AFA AFA | daf ede | fdd d2 :|**
+
+
+X:10009
+T:MacDonald's Jig
+% Nottingham Music Database
+S:Mick Peat
+M:6/8
+K:A
+"A"e2e "E"dcB|"A"cAG "D"Adf|"A"e2e "D"dfd|"A"ecA "G"=GBd|
+"A"e2e "E"dcB|"A"cAG "D"Adf|"Av1"eac "Bm"Bcd|"E"efg "A"a3:|
+"E"BcB Bed|"A"cBA "E"BGE|"D"FGA "Av1"agf|"Bm"ecA "E"B3|
+"A"c2e "D"agf|"A"cAG "D"Adf|"Av1"eac "Bm"Bcd|"E"efg "A"a3|
+
+
+X:10010
+T:Macdonald's March
+M:2/4
+L:1/16
+K:A
+ed|c2Bc A2A2|cAce a2ef|=g2ae =g2de|=gdBA =GAB=G|
+c2Bc A2A2|cAce a2ef|=gdBA =GABd|c2A2 A2:|
+|:e2|AAa2 =g2ea|=gefe a2ef|=g2ae =g2de|=gdBA =GAB=G|
+AAa2 =gea2|=gefe a2ef|=gdBA =GABd|c2A2 A2:|
+|:E2|ABcd eaec|ABcd ecA2|=GABc d=gdB|=GABc dB=G2|
+ABcd eaea|=gefe a2ef|=gdBA =GABd|c2A2 A2:|
+
+
+X:10011
+T:Macdonald's reel
+R:Reel
+O:England
+M:2/4
+L:1/8
+A:Lancashire
+B:Winder
+K:C
+E | A3 c | BA Bc | Ac-cd | e2 a2 |\
+A3 c | BA Bc | AF ED | A3 :|*
+|:f | ec BA | BA Bf | ec BA | c3 f | \
+ec BA | BG Bd | AF ED | A3 :|**
+
+
+X:10012
+T:Macdougall's Polka
+R:Polka
+M:4/4
+L:1/8
+K:A
+E2|AAEA c2Ac|eece a3e|g2f2 fede|f2e2 edcB|
+AAEA c2Ac|eece a3e|g2f2 edcB|A2c2 A2:|
+K:E
+GA|B2g2 g3B|A2f2 f3e|e2d2 d2A2|c2B2 BAGA|
+B2g2 g3B|A2f2 f3e|e2d2 a2d2|e4 e2:|
+
+
+X:10013
+T:Macedonian \#3
+S:Hamish Small ??
+R:Other
+O:Macedonia
+M:5/8
+L:1/8
+K:Bbm
+g2f2e|g2f2e|g2f2e|g2g3|\
+cde2e|e2e3|deg2e|dcB3::
+Bcd2c|e2B3|Bcd2c|e2B3|\
+Bcd2c|e2B3|cBB3|cBB3:|
+
+
+X:10014
+T:Machias Seal Island
+R:strathspey
+C:Paul S. Cranford
+O:20th Century Cape Breton
+D:The Lighthouse, Cranford Publications
+B:The Lighthouse Collection, ISBN 0-9691181-5-5
+N:http://www.cranfordpub.com
+Q:244
+L:1/8
+M:C
+K:Gmix
+c|B<dd>c B<GG>_B|A<cc>B A<FF>A|B<dd>c B<G (3G(A_B)|A<F c>A G2 G>A|!
+B<dd>c B<GG>_B|A<cc>B A<FF>A|G/A/B/c/ d>c B<Gd>_B|A>FC<A, G,/G,/G, G,||!
+A|G/A/B/c/ d>g e<dd>B|c>aB>g A<Fc>A|G/A/B/c/ d>g e<dd>_B|A<F c>A G2 G>A|!
+G/A/B/c/ d>g e<dd>B|c>aB>g A<Fc>A|(3GAB (3ABc (3Bcd (3cde|f<Fc>A G2 G|]!
+
+
+X:10015
+T:Machias Seal Island
+R:strathspey
+C:Paul S. Cranford
+O:20th Century Cape Breton
+D:The Lighthouse, Cranford Publications
+B:The Lighthouse Collection, ISBN 0-9691181-5-5
+N:Contacts ...
+N:..... Cranford Publications <http://www.cranfordpub.com>
+Z:This abc transcription is for personal use only,
+Z:provided this notice remains attached.
+Z:Used by permission of the composer and publisher.
+Z:Paul Stewart Cranford <psc@cranfordpub.com>
+Q:244
+L:1/8
+M:C
+K:Gmix
+c|B<dd>c B<GG>_B|A<cc>B A<FF>A|B<dd>c B<G (3G(A_B)|A<F c>A G2 G>A|!
+B<dd>c B<GG>_B|A<cc>B A<FF>A|G/A/B/c/ d>c B<Gd>_B|A>FC<A, G,/G,/G, G,||!
+A|G/A/B/c/ d>g e<dd>B|c>aB>g A<Fc>A|G/A/B/c/ d>g e<dd>_B|A<F c>A G2 G>A|!
+G/A/B/c/ d>g e<dd>B|c>aB>g A<Fc>A|(3GAB (3ABc (3Bcd (3cde|f<Fc>A G2 G|]!
+
+
+X:10016
+T:Mackilmoyle Reel
+R:Reel
+M:2/4
+L:1/16
+K:D
+Ad|fdfd cdec|dBAF DFAc|BGBG FGAF|EA,A,E DFAd|
+fdfd cdec|dBAF DFAc|BGBd cAce|d2f2 d2:|
+|:d2|cdef gfg2|Aceg a^ga2|edef gfge|dfed cBA2|
+Acef gfg2|Aceg a^ga2|Acef gfge|Acec d2:|
+d2|:
+
+
+X:10017
+T:Mackintosh
+R:March
+O:England
+M:4/4
+A:Lancashire
+B:Winder
+K:D
+D2 |\
+G2G2 B2AG | c2c2 c2BA | G2G2 B2AG | A3B A2g2 |\
+G2G2 B2AG | c2c2 dcBA | B2g2 A2f2 | G3A G2 :|*
+|:D2 |\
+GABG BcdB | cdec BcdB | G2G2 B2AG | A3B A2g2 |\
+GABG BcdB | cdec dcBA | B2g2 A2f2 | G3A G2 :|*
+|:e2 |\
+dBGB dBGB | c2A2 A2 e2 | dBGB dBGB | A3B A2e2 |\
+dBGB dBGB | c2A2 A2e2 | B2g2 A2f2 | G3A G2 :|**
+
+
+X:10018
+T:Mackintosh's Hornpipe
+R:Hornpipe
+O:England
+M:4/4
+A:Lancashire
+B:Winder
+K:G
+D2G2 BABG | AcBd cBAG | D2G2 BABG | AcBd c2g2 |\
+D2G2 BABG | AcBd c2BA | BdcB AcBA | B2G2 G4 ::\
+efgd Bdg2 | G2FG ABA2 | efgd efg2 | G2FG ABA2 |\
+efgd BdeG | FGAB c2BA | BdcB AcBA | B2G2 G4 :|**
+
+
+X:10019
+T:Macleod of Mull
+M:6/8
+L:1/8
+Q:3/8=88
+K:BMin
+   f2B  B>cA|A>ce f2a |e>ce f>ec|A>Bc    e2f |
+   a>cc B>cA|B>ce f2e |f>aa f<ae|f>ec    B3 :|
+   a2f  a>ff|e>fa f2c |e>ce f>ec|A>Bc    e2f |
+[1 a2f  a>ff|e>fa f2e |f>aa f<ae|f>ec    B3 :|
+[2 a>cc B>cA|B>ce f2e |f>aa f<ae|f>ec    B3 ||
+   B>cA B3  |B>ce f>ga|c<AB c2B |c2A     c<ef|
+   B>cA B3  |B>ce f2e |f>aa f<ae|f>ec [1 B3 :|[2 B2f||
+   a2f  e>ff|B>ff f2e |f>aa e>ff|A>ee    e2c |
+[1 a2f  e>ff|B>ff f2e |f>aa f<ae|f>ec    B2f:|
+[2 B2B  c>Bc|B>ce f2e |f>aa f<ae|f>ec    B2 |]
+
+
+X:10020
+T:MacLeod of Mull
+R:Pipe march
+O:Scotland
+M:6/8
+C:P.M. D. MacLeod
+K:Hp
+|: {afa}f2B {a}B>{d}c{e}A|{a}B>{d}ce {afa}f2a| {ef}e>ce {a}f>e{a}c| {a}A>B{GdG}c {aef}e2f| {ag}a>c{G}c {g}B>{d}c{e}A| {g}B>{d}ce {aga}f2{g}e | {g}f>a{g}a f<ae| {gfg}f>ec {gBG}B3 ::\
+{ag}a2f a>f{e}f| {g}e>fa {fg}f2{g}c |{gef}e>ce {g}f>e{g}c| {g}A>B{GdG}c {gef}e2f\
+|1 {ag}a2f a>f{e}f| {g}e>fa {fg}f2{g}e| {g}f>a{g}a f<ae|{gfg}f>ec {gBG}B3\
+:|2 {ag}ac{G}c {g}B>{d}c{e}A| {g}B>{d}ce {gfg}f2{g}e| {g}f>a{g}a f<ae| {gfg}f>ec {gBG}B3:|\
+|: {g}B>{d}c{e}A {GdG}B3| {g}B>{d}ce {g}f>ga| c<{d}AB {gcd}c2{e}B| {g}c2{GdGe}A {g}c<ef| {g}B>{d}c{e}A {GdG}B3| {g}B>{d}ce {gef}f2{g}e| {g}f>a{g}a f<ae| {gfg}f<ec {gBG}B2 ::\
+ {g}f| a2{GdG}f {g}e>f{e}f| {g}B>f{e}f {gfg}f2{g}e| {g}f>a{g}a e>f{e}f| {g}A>e{A}e {gef}e2{g}c\
+|1 a2{GdG}f {g}e>f{e}f| {g}B>f{e}f {gfg}f2{g}e| {g}f>a{g}a f<ae| {gfg}f>ec {gBG}B2\
+:|2 {g}B2{GdGe}B {gcd}c>{e}B{d}c| {g}B>{d}ce {gfg}f2{g}e| {g}f>a{g}a f<ae| {gfg}f>ec {gBG}B2||**
+
+
+X:10021
+T:Macton Reel
+C:Ward Allen
+R:reel
+M:4/4
+L:1/8
+K:D
+(3A,B,C|D2 DC DEFG|EDEF G2 FG|AFGE FEDB,|CFED CA,B,C|
+D2 DC DEFG|EDEF G2 FG|AFGE FEDB,|CDEC D2:|
+|:(3ABc|d2 dc dAFA|dfed cABc|d2 cd BdAF|GBAG FDCE|
+D2 DC DEFG|EDEF G2 FG|AFGE FEDB,|CDEF D2:|
+
+
+X:10022
+T:Mad Jig, The
+M:6/8
+L:1/8
+K:Em
+|: d | ~e3 edB | ~g3 afd | ~efe dBA | BAB GED |\
+e2 f edB | ~g3 afd | ~efe dBA | Bee e2 :|*
+e/2f/2 | gbb gbb | gbb baf | dfa dfa | dfa afd |\
+~g3 aga | bge fga | bge dBA | Bee e2 :|
+
+
+X:10023
+T:Mad Moll of the Cheshire Hunt
+M:4/4
+L:1/8
+Q:1/4=113
+C:Trad
+R:hornpipe
+K:G
+(3DEF|: G2 g>f e>dc>B|A>Bc>A B2A2|G2 g>f e>dc>B|d>cA>F G2 (3DEF|
+      G2 g>f e>dc>B|A>Bc>A B2A2|e2d2 c2B2|1 c>AF>A G2 (3DEF:|2 c>AF>A G4|
+|: D>GB>G D>GB>G|D>GB>d c2A2|D>FA>F D>FA>F|D>FA>c B2G2|
+   D>GB>G D>GB>G|D>GB>d c2A2|e2d2 c2B2|c>AF>A G4 :|
+
+
+X:10024
+T:Mad Moll of the Cheshire Hunt
+M:4/4
+L:1/8
+Q:1/4=113
+C:Trad
+R:hornpipe
+K:G
+(3DEF|: G2 g>f e>dc>B|A>Bc>A B2A2|G2 g>f e>dc>B|d>cA>F G2 (3DEF|
+      G2 g>f e>dc>B|A>Bc>A B2A2|e2d2 c2B2|1 c>AF>A G2 (3DEF:|2 c>AF>A G4|
+|: D>GB>G D>GB>G|D>GB>d c2A2|D>FA>F D>FA>F|D>FA>c B2G2|
+   D>GB>G D>GB>G|D>GB>d c2A2|e2d2 c2B2|c>AF>A G4 :|
+
+
+X:10025
+T:Mad Moll. TLY.007
+T:Peacock Followed The Hen. TLY007
+M:9/4
+L:1/4
+Q:180
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:Slip Jig
+O:England.
+A:Lancashire.
+H:1860.
+Z:vmp.Taz Tarry.
+K:G
+F|c>d e-c A A c A A|c>d e-c AA B2 G|c>d e c A A c A A|B>c d d>e d B2G|
+|!
+c>d e g-e e g-e e|c>d e g-e e f2 d|c>d e g-e e g-e e|B>c d d>e d B2
+ G||
+
+
+X:10026
+T:Mad Moll. TLY.007
+T:Peacock Followed The Hen. TLY007
+M:9/4
+L:1/4
+Q:180
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:Slip Jig
+O:England.
+A:Lancashire.
+H:1860.
+Z:Taz Tarry.
+K:G
+F|c>d e-c A A c A A|c>d e-c AA B2 G|c>d e c A A c A A|B>c d d>e d B2G|
+|!
+c>d e g-e e g-e e|c>d e g-e e f2 d|c>d e g-e e g-e e|B>c d d>e d B2
+ G||
+
+
+X:10027
+T:Mad Robin
+M:4/4s
+L:1/4
+Q:160
+S:Playford
+K:Gm
+f d2 g|f B2 c|d e/2d/2 c B |c/2B/2A/2G/2 F2| f d2 g| f B2 c| d e/2d/2 c
+B | B2::f| b a g f |g d2 =e| d g g>^f| g3 f| f e2 d | f d2 c/2B/2| A G c
+>B| B3:|
+
+
+X:10028
+T:MADAM CABRIN'S HORNPIPE
+B:John of the Greeny Cheshire Way
+N:Â© John Offord, Reproduced with permission
+M:3/2
+L:1/8
+K:C
+P:1
+e2 c4    G2 E4   | D2 d4    a2 g2 f2 | e2 c4    G2 E4   | C2 c4 a2 g2 f2 ||
+P:2
+e2 c2 g2 c2 e2 c2| f2 d4    a2 g2 f2 | e2 c2 g2 c2 e2 c2| g2 c2 e2 c2 f2 d2||
+P:3
+e2 c2 g2 c2 e2 c2| a2 f2 d2 a2 a2 gf | e2 c4    C2 EFGE | C2 c4 a2   g2 f2||
+P:4
+e2 c2 G2 A2 E2 G2| D2 d4    ef  gfed | e2 c2 G2 A2 E2 G2| C2 c2 efge defg ||
+P:5
+e2 c4    C2 E4   | D2 d4    a2 g2 f2 | e2 c4    C2 EFGE | C2 c4 e2   defg ||
+P:6
+e2 c2 g2 c2 efge | f2 d2 a2 d2 fgaf  | e2 c2 g2 e2 efge | g2 c2 dfge fgaf ||
+P:7
+e2 c2 g2 c2 efge | agfe  d2 a2 fgaf  | gfed  cBAG  EFGE | C2 c2 efge defg |]
+
+
+X:10029
+T:Madam del Caros Hornpipe. WM.082
+M:C
+L:1/8
+Q:160
+S:Wm.Mittell's MS,New Romney,Kent,1799
+R:Hornpipe
+O:England
+A:Kent
+N:In other MSs this usually appears dotted and in 2/4, as it does earlier
+N:in this MS.
+Z:vmp.Chris Partington
+W:
+K:G
+GBdg fede|dcBA BcdB|GBdg fede|dcBAG3z:|!
+|:GBdg e/f/g e/f/g|DFAc B/c/d B/c/d|GBdg e/f/g e/f/g|dcBAG3z:|]
+
+
+X:10030
+T:Madam del Caros Hornpipe. WM082
+M:C
+L:1/8
+Q:160
+C:*
+S:Wm.Mittell,1799
+R:Hornpipe
+O:England
+A:Kent
+P:*
+N:In other MSs this usually appears dotted and in 2/4, as it does earlier
+N:in this MS.
+Z:C.G.P
+W:*
+K:G
+GBdg fede|dcBA BcdB|GBdg fede|dcBAG3z:|!
+|:GBdg e/f/g e/f/g|DFAc B/c/d B/c/d|GBdg e/f/g e/f/g|dcBAG3z:|]
+
+
+X:10031
+T:Madam Hilingsborg's Reel. WM.076
+T:Madam Hillingsborg's Reel. WM.076
+M:9/8
+L:1/8
+Q:120
+S:Wm.Mittell's MS,New Romney,Kent,1799
+R:Slip Jig
+O:England
+A:Kent
+N:See D.Roberts' book for full version..Compare with Drops of Brand
+Z:vmp.Chris Partington
+K:G
+e|d2B BGB BGB|d2B BGBd2e|]
+
+
+X:10032
+T:Madam Hilingsborg's Reel. WM076
+T:Madam Hillingsborg's Reel. WM076
+M:9/8
+L:1/8
+S:Wm.Mittell,1799
+R:Slip Jig
+O:England
+A:Kent
+N:DR.Compare with Drops of Brand
+Z:C.G.P
+K:G
+e|d2B BGB BGB|d2B BGBd2e|]
+
+
+X:10033
+T:Madame Bonaparte
+% Nottingham Music Database
+P:8 + 12 bars
+S:Alistair Anderson
+M:4/4
+L:1/8
+R:Hornpipe
+K:G
+P:A
+dc|"G"B2BA BdBG|"C"c2cB cecA|"G"GBdf "Em"gfge|"Am"d3e "D7"dcBA|
+"G"B2BA BdBG|"C"cBcd efge|"G"dBGB "D7"cAFA|"G"G2GF G2:|
+P:B
+BA|"G"GBdf "Em"gfge|"Am"d3e "D7"dcBA|F"G"GBd f"Em"gfge|"Am"d3e "D7"dcBA|
+"G"BdGd BdGd|"Am"ceAe ceAd|"G"BdGd BdGA|"D7"FADA FADd|
+"G"BdGd BdGd|"C"cBcd efge|"G"dBGB "D7"cAFA|"G"G2GF G2:|
+
+
+X:10034
+T:Madame Bonaparte
+Z: id:dc-setdance-19
+M:C|
+L:1/8
+K:A Major
+ed|c2cB cecA|d2dc dfdB|Aceg agaf|e3f edcB|!
+c2cB cecA|dcde fgaf|ecAc dBGB|A2AG A2:|!
+cB|Aceg a3f|e3f edcB|Aceg a3f|e3f edcB|!
+ceAe ceAe|dfBf dfBf|ceAe ceAe|GBEB GBEB|!
+ceAe ceAe|dcde fgaf|ecAc dBGB|A2AG A2:|!
+
+
+X:10035
+T:Madame Bonaparte
+R:Hornpipe
+C:Alistair Anderson
+S:Nottingham Music Database
+M:4/4
+L:1/8
+K:A % transposed from G
+ed|"A"c2cB cecA|"D"d2dc dfdB|"A"Aceg "F#m"agaf|"Bm"e3f "E7"edcB|
+"A"c2cB cecA|"D"dcde fgaf|"A"ecAc "E7"dBGB|"A"A2AG A2:|
+cB|Aceg "F#m"agaf|"Bm"e3f "E7"edcB|"A"Aceg "F#m"agaf|"Bm"e3f "E7"edcB|
+"A"ceae ceae|"Bm"dfaf dfae|"A"ceae ceae|"E7"Begf gfed|
+"A"ceae ceae|"D"dcde fgaf|"A"ecAc "E7"dBGB|"A"A2AG A2:|
+
+
+X:10036
+T:Madame Bonaparte
+Z: id:dc-setdance-20
+M:C|
+L:1/8
+K:G Major
+dc|B2BA BdBG|c2cB cecA|GBdf gfge|d3e dcBA|!
+B2BA BdBG|cBcd efge|dBGB cAFA|G2GF G2:|!
+BA|GBdf g3e|d3e dcBA|GBdf g3e|d3e dcBA|!
+BdGd BdGd|ceAe ceAe|BdGd BdGd|FADA FADA|!
+BdGd BdGd|cBcd efge|dBGB cAFA|G2GF G2:|!
+
+
+X:10037
+T:Madame Bonaparte Variation
+% Nottingham Music Database
+P:8 + 12 bars
+S:AA
+M:4/4
+L:1/8
+R:Hornpipe
+K:G
+P:A
+dc|"G"B2BA F3/2Bcd(3BAG|"C"c2cB (3cde(3cBA|(3"G"GDG(3BGB F3/2"Em"dBd(3gfe|
+"Am"dcde F3/2"D7"ded(3cBA|"G"B2BA F3/2Bcd(3BAG|
+(3"C"cGc(3ece F3/2gfg(3age|(3"G"GBd(3GBd F3/2"D7"DFA(3DFA|(3"G"GBd(3GBd F2:|
+P:B
+(3B_BA|"G"GBdf gfge|"D7"d3e dcBA|(3"G"GDG(3BGB F3/2"Em"dBd(3gfe|
+"Am"dcde F3/2"D7"ded(3cBA|(3"G"GBd(3gdB F3/2GBd(3gdB|
+(3"C"Gce(3gec F3/2"C"Gce(3gec|(3"G"GBd(3gdB F3/2GBd(3gdB|
+(3"D7"Adf(3afd F3/2"D7"Adf(3afd|(3"G"GBd(3gdB F3/2GBd(3gdB|
+(3"C"cGc(3ece F3/2gfg(3age|(3"G"GBd(3GBd F3/2"D7"DFA(3DFA|(3"G"GBd(3GBd F2:|
+
+
+X:10038
+T:Madame Del Caro's Hornpipe
+M:2/2
+L:1/8
+S:Armitt MS
+N:*  The Dotted note is actually the semi-quaver not the quaver
+K:G Major
+G>Bd>g|f>ed>e d>cB>A|B>cd2G>Bd>g|f>ed>c B>AG>F|G2G2G>Bd>g|f>ed>e d>cB>A|
+B>cd2G>Bd>g|f>ed>c B>AG>F|G2G2||G>Bd>g|L:1/16efg3 efg3 z3F2A3c|Bcd3  Bcd
+3 G3Bd3"*"g|efg3 efg3 B3AG3F|G4G4:||
+
+
+X:10039
+T:Madame Del Caro's Hornpipe. BF13.094
+M:2/2
+L:1/8
+Q:120
+S:J.Lishman(?)MS,c1825,Lakes,Browne Coll.
+R:Hornpipe
+O:England
+A:Lakes
+N:
+Z:vmp.Cherri Graebe.
+K:G Major
+G>Bd>g|f>ed>e d>cB>A|B>cd2G>Bd>g|f>ed>c B>AG>F|G2G2G>Bd>g|!
+f>ed>e d>cB>A|B>cd2G>Bd>g|f>ed>c B>AG>F|G2G2|!
+|G>Bd>g|L:1/16e/f/g3 e/f/g3 z3FA3c|B/c/d3  B/c/d3 G3Bd3g|e/f/g3 e/f/g3 B
+3AG3F|G4
+G4:||
+
+
+X:10040
+T:Madame Del Caro's Hornpipe. WM.070a
+M:2/4
+L:1/8
+Q:280
+S:Wm.Mittell's MS,New Romney,Kent,1799
+R:Hornpipe
+O:England
+A:Kent
+Z:vmp.Chris Partington
+K:A
+A>ce>a|g>fe>f|e>dc>B|c>de2|!A>ce>a|g>fe>d|c>BA>G|A2A2:|!
+|:A>ce>a|(f/g/a) (f/g/a)|E>GB>d|(c/d/e) (c/d/e)|!
+A>ce>a|(f/g/a) (f/g/a)|c>BA>G|A2A2:|]
+
+
+X:10041
+T:Madame Del Caro's Hornpipe. WM070a
+M:2/4
+L:1/8
+Q:280
+S:Wm.Mittell,1799
+R:Hornpipe
+O:England
+A:Kent
+Z:C.G.P
+K:A
+A>ce>a|g>fe>f|e>dc>B|c>de2|A>ce>a|g>fe>d|c>BA>G|A2A2:|!
+|:A>ce>a|(f/g/a) (f/g/a)|E>GB>d|(c/d/e) (c/d/e)|A>ce>a|(f/g/a) (f/g/a)|c
+>BA>G|A2A2:|]
+
+
+X:10042
+T:Madame Maxwell
+R:Other
+O:Ireland
+M:2/4
+C:Turlough O'Carolan
+K:D
+A-B.A2 A-F.D2 | F2A2 A2B2 | \
+cde2 def2 | efg2 f2e2 |\
+d2A2 GFED | G2B2 B2d2 | c2A2 e2dc | d2 dz :|*
+a2d2 a2d2 | g2b4 ag | f2d2 a2gf | g2e4 g2 |\
+fga2 gab2 | a2g2 f2e2 | d4 e2d2 | c2A4 Bc | \
+d4 cBAG | F2D4 d2 | cde2 fed2 | c2A4 Bc |\
+dcBA BAGF | G2B4 A2 | BAGF AGFE | D8 ||**
+
+
+X:10043
+T:Madame Renaud
+M:4/4
+L:1/8
+C:Trad.
+R:Reel
+K:G
+|:"G"G2 BG dGBG|DGBd g2fg|"Am"A2 (3cBA eAcA|"D7"ABcd efge|!
+"G"G2BG dGBG|DGBd g2fg|"Am"afge fdec|1"D7"ABcd efge:|2"D7"ABcd edBd||!
+"G"g2fg dgBg|dgba gfed|"Am"ea^ga ea^ga|"D7"ecag fedf|!
+"G"g2fg dgBg|dgba gfeg|"Am"afge fdec|1"D7"ABcd edBd:|2"D7"ABcd efge||!
+
+
+X:10044
+T:Madame Renaud
+C:Joseph Allard
+M:2/4
+L:1/16
+K:G
+G2BG dGBG|DGBd g2fg|A2cA eAcA|ABcd efge|!
+G2BG dGBG|DGBd g2eg|afge fdec|ABcd BAG2:|!
+|:g2fg dgBg|dgba gfed|ea^ga ea^ga|ecaf gfed|!
+g2fg dgBg|dgba gfeg|afge fdec|ABcd BAG2:|!
+
+
+X:10045
+T:Madame Vanoni
+R:hornpipe
+D:Brian Finnegan:
+Z:id:hn-hornpipe-76
+M:C|
+K:D
+(3ABc|dAeA fAgA|aabc' d'dcB|AEBE cEdE|efge agec|
+BGgB AFfA|GEeG FDdF|G2 (3BAG AecA|dfec d2:|
+|:AG|FAdA FAdA|GBdB GBdB|^GBeB GBeB|Acec acec|
+FAdA FAdA|GBdB GBdB|^GBe=g agec|dfec d2:|
+
+
+X:10046
+T:Madamoiselle Voulez Vous Dancer
+M:4/4
+K:D
+f2fff2gf|e2e2d4|c3de2c2|d2e2f2a2|f2fff2gf|e2e2d2(3Adf|g3fe2A2|B2c2d4:||d2df afdA|=c2=ce gecA|d2df afda|gfec d3A|d2df afdA|=c2ce gecA|d2df afda|gfec d4:||
+
+
+X:10047
+T:Madeleine & la Mort
+R:Branle simple
+O:Alsace - Elsass
+A:Walscheid 1937
+S:
+B:La tradition Alsacienne.
+Z:transcription (partition) : eric.forgeot@caramail.com
+N:p.30
+N:
+M:6/4
+L:1/8
+Q:1/4=130
+K:G
+D | GDGA B2A2 G2GB | BAAA G2BG A2Bc | B2AA G2BG A2Bc | B2 AA G6 z ||
+
+
+X:10048
+T:Madness !
+% Nottingham Music Database
+S:Chris Dewhurst (1983), via PR
+M:4/4
+L:1/4
+K:F
+A,"C7"B, =B,|"F"C3/2C/2 DC|"F"A2 A2|"C7""g"C3/2C/2 " ""c"DC|\
+"C7""g"B2 -" ""c"B2|"Gm"C3/2C/2 DC|"C7"c3/2c/2 =Bc|"F"AF "Dm"ED|"Gm"CA, "C7"B,=B,|
+"F"C3/2C/2 DC|"F"A2 A2|"C7""g"C3/2C/2 " ""c"DC|"Gm"B2 -"C7"B2|\
+"F"c3/2A/2 "F7"GF|"Bb"DF FG|"F""c"A2 "C7"G2|"F"FF "F7"GA||
+"Bb"B3/2B/2 Bc|dD FB|"F"A3/2A/2 AB|"Am"c3A|"Dm"F3/2F/2 FG|"G7"AG A=B|\
+"C7"dc "Gm"BG|
+"C"E_E "C7"D_D|"F"C3/2C/2 DC|"F"A2 A2|"C7""g"C3/2C/2 " ""c"DC|"Gm"B2 -"C7"B2|\
+"F"c3/2A/2 "F7"GF|"Bb"DF FG|"F""c"A2 "C7"G2|"F"F||
+
+
+X:10049
+T:Madocsai Tancok
+O:Hungary
+P:AB
+L:1/8
+M:2/4
+K:Em
+P:A
+Q:1/4=96
+z2 B,/C/B,/C/|"G".D2 .G2|"Em".E2 "G".G2| "G"DEDC| B,4|\
+GF "Em"E2| "G"DC B,2| DEDC| B,2 B,/C/B,/C/|
+|: .D2 .G2|"Em".E2 "G".G2| DEDC| B,4|\
+"C".C2 "Em".E2| "G".D2 GA |BGGF| G4|
+"G"B2 "Dm"A/B/A/B/| GB B2|"Dm".A2 "G".G2| "Bm"F4|\
+"C"ce "Em"e2| "G"Bd d2| "Am"Ac "C"c2| "G"B2 B,/C/B,/C/ :| 
+"G".D2 .G2|"Em".E2 "G".G2| DEDC| B,4|\
+"C".C2 "Em".E2| .D2 GA|BGGF| G4|z4|
+P:B
+K:Gm
+%%MIDI gchord fzzzzzzz
+Q:1/4=192
+|:"Gm"G2 "Dm"z2|z.F"Gm".G.A| .B2 "Dm".A2| "Gm".G2 "D".^F2 |\
+"Gm".G2 "Cm"C2| "Gm"D2 "Eb"E2| "Gm"DD2D| D4 :|
+|:"Gm"D3 C|"Eb"DE3|"Bb"F3E|"Gm"DB,3|\
+B,3 A,|B,2 "Cm"C2| "Gm"D3 B,| A,G,3|
+"Bb"F,2"Gm"B,2| "Dm"A,2 "Bb"F,2| "Gm"G,G,2F,| G,4:|
+
+
+X:10050
+T:Madocsai Tancok
+O:Hungary
+P:AB
+L:1/8
+M:2/4
+K:Em
+P:A
+Q:1/4=96
+z2 B,/C/B,/C/|"G".D2 .G2|"Em".E2 "G".G2| "G"DEDC| B,4|\
+GF "Em"E2| "G"DC B,2| DEDC| B,2 B,/C/B,/C/|
+|: .D2 .G2|"Em".E2 "G".G2| DEDC| B,4|\
+"C".C2 "Em".E2| "G".D2 GA |BGGF| G4|
+"G"B2 "Dm"A/B/A/B/| GB B2|"Dm".A2 "G".G2| "Bm"F4|\
+"C"ce "Em"e2| "G"Bd d2| "Am"Ac "C"c2| "G"B2 B,/C/B,/C/ :| 
+"G".D2 .G2|"Em".E2 "G".G2| DEDC| B,4|\
+"C".C2 "Em".E2| .D2 GA|BGGF| G4|z4|
+P:B
+K:Gm
+%%MIDI gchord fzzzzzzz
+Q:1/4=192
+|:"Gm"G2 "Dm"z2|z.F"Gm".G.A| .B2 "Dm".A2| "Gm".G2 "D".^F2 |\
+"Gm".G2 "Cm"C2| "Gm"D2 "Eb"E2| "Gm"DD2D| D4 :|
+|:"Gm"D3 C|"Eb"DE3|"Bb"F3E|"Gm"DB,3|\
+B,3 A,|B,2 "Cm"C2| "Gm"D3 B,| A,G,3|
+"Bb"F,2"Gm"B,2| "Dm"A,2 "Bb"F,2| "Gm"G,G,2F,| G,4:|
+
+
+X:10051
+T:Madrigal, the
+M:6/8
+R:Jig
+K:C
+"Siciliano" G|\
+c2c cBA| G2G G2G| A2d BAB| c2c c2G|\
+c2c cBA| G2G G2G| A2d BAB| c2c c2::\
+G|\
+d2f e2c| BAB c2G| d2f e2c| BAB cec|\
+A2A cBA| G2E G2G| c2c edc| g2g Hgec|\
+A2A BAB| c2c c2:|
+
+
+X:10052
+T:Madrugaba la niÃ±a
+R:Danza
+C:Tradicional
+S:MÃºsica Tradicional Asturiana, (C) Tello & Tito. Asturies, 2001.
+S:http://pagina.de/MusTradAst <telloytito@asturies.org>
+A:Asturies
+M:3/8
+Q:3/8=100
+K:C
+|:G2 B|ddd|dde|e2d|e2d|cde|d2c|d3|B3|B3:|
+
+
+X:10053
+T:Madrugaba la NiÃ±a
+C:Trad.
+M:3/8
+Q:3/8=100
+K:C
+|:G2 B|ddd|dde|e2d|e2d|cde|d2c|d3|B3|B3:|
+
+
+X:10054
+T:Madrugaba la niÃ±a (CT 080)
+R:Danza
+C:Tradicional
+S:MÃºsica Tradicional Asturiana, (C) Tello & Tito. Asturies, 2001.
+S:http://pagina.de/MusTradAst <telloytito@asturies.org>
+N:Danza, transcrita en AvilÃ©s.
+N:ContinÃºa cantÃ¡ndose las horas hasta doce, y decrece luego hasta una, de manera anÃ¡loga a la canciÃ³n seÃ±alada como CT 057.
+N:Intervienen en esta danza personas de ambos sexos.
+O:AvilÃ©s
+A:Asturies
+Z:Cancioneru de Torner 080
+M:6/8
+Q:3/8=80
+W:Madrugaba la niÃ±a a la una.
+W:Â¡Ai!, Â¡Ai!, Â¡Ai! cÃ³mo madrugaba.
+W:
+W:Que ni una, ni media, ni nada.
+W:Â¡Ai!, Â¡Ai!, Â¡Ai! cÃ³mo madrugaba.
+K:C
+"Solo"G2B|ddd dde|e2d "Coro"e2d|cde d2c|d3 B3-|B2 z
+"Solo"G2B|ddd dde|e2d "Coro"e2d|cde d2c|d3 B3-|B2 z:||
+
+
+X:10055
+T:Maeve's Reel
+T:Jim McKillop's
+C:Jim McKillop
+R:reel
+H:See also #624
+D:Sean Smyth: The Blue Fiddle
+Z:id:hn-reel-610
+M:C|
+K:G
+d2^ce dBAB|~B2AG GEDB,|G,A,B,D GB~B2|egag edBd|
+gfga bgeg|gedB AE~E2|DEGB dg~g2|ecAF GABc:|
+|:dggf g2ag|bgfg edBd|DEGB BABd|1 gafg edBg|gfga bgeg|
+gedB AE~E2|DEGB dg~g2|ecAF GABc:|2 ~g3f edBg|
+gfga bgeg|gedB AE~E2|DEGB dg~g2|ecAF GABc||
+
+
+X:10056
+T:Maeve's Reel
+R:Reel
+S:Noel Hill
+H:
+N:
+D:
+Z:Adrian Scahill
+M:4/4
+L:1/8
+K:G
+dged dBAc|B2AG GEDB,|G,2B,D GBdg|eaag edBd|\
+g3a bgag|gedB AGEG|DEGB dgfg|ecAF G4:||\
+dggf g3a|bgag edBG|DEGA B3c|dgg2 edBd|\
+g3a bgaf|gedB AGEG|DEGB dgfg|ecAF G4:||
+
+
+X:10057
+T:Mage on a Cree
+M:6/8
+L:1/8
+S:Playford
+K:Gm
+B>cd/2=e/2 f2 c| A2 F c2 A| B>cd d>cd| B>AG d2 G| B>cd/2=e/2 f2 c| A2 F
+c2 A |B>cd =efg|^f>=ef g3:|
+
+
+X:10058
+T:Mage on a Cree
+M:6/8
+L:1/8
+Q:120
+R:Jig
+H:The dance is a progressive round, one of the earliest types found in
+H:TDM.  No one has been able to explain the meaning of the title, and
+H:from the entries in old books, it seems it was not clear then.  It may
+H:have been Irish. When the title was first used for a ballad in 1633,
+H:the tune name was "Magina-cree".
+K:GDor
+G> cd/2e/2 f2c|A2F c2A|B>cd d>cd|B>AG d2G|G> cd/2e/2 f2c|A2F c2A
+|B>cd e>fg|^f>ef g2G||
+
+
+X:10059
+T:Maggie and Jiggs
+C:Ward Allen
+M:4/4
+L:1/8
+K:A
+a>f|e2A2 c<A (3Bcd|e2A>B A2a>f|e2A2 c<AA>d|c2B>A B2a>f|
+e2A2 c<AA2|d2f>e f<aa>f|e>fe>c B>ce>d|c2A2 A2:|
+|:(3efg|a2e>d c<e (3efg|a2e2 e2 (3efg|a2e>d c<ee>f|=g2d>c d2 (3ef^g|
+a2e>d c<e (3ABc|d2f>e f<aa>f|e>fe>c B>ce>d|c2A2 A2:|
+
+
+X:10060
+T:Maggie Brown's favourite
+R:Jig
+O:Ireland
+M:6/8
+K:G
+g|\
+dBG GAB|E2E E2c|AFD DEF|G2G G2g|\
+dBG GAB|E2E E2c|AFD DEF|G3 G2::
+g/a/|\
+bgb afd|efg gfe|dBg dBG|AFD Dga|\
+bgb afd|efg gfe|faf ge^c|d3 de=f|\
+ece dBd|cac BgB|Ace dBG|FAF DEF|\
+GAB EFG|ABc def|gdB cAF|G3 G2:|
+
+
+X:10061
+T:Maggie Cameron
+C:trad. pipe tune, composite fiddle setting (KED)
+R:Strathspey
+A:Cape Breton
+N:Transcribed by Kate Dunlay (dungreen@total.net)
+M:C
+L:1/16
+Q:1/4=160
+K:A mixolydian
+(uef3)|ve4 (cA3) ce3c3A|e3cA3c (ce3)(ef3)|e4 (cA3) ce3c3A|d3BG3B (Bd3)(df3)|
+e4 (cA3) ce3c3A|e3cA3c e4 ((3a2g2f2)|e3Ac3A ((3c2d2e2) (c3A)|d3BG3B (Bd3)(df3)||
+vea3c3a e3ac3a|((3g2f2e2) ua3uc (ce3) (ef3)|ea3c3a e3fg3e|((3d2c2B2) ug3uB (Bd3)(df3)|
+ea3c3a e3ac3a|((3g2f2e2) ua3uc e4 ((3e2f2g2)|((3a2g2f2) (g3e) ((3f2e2d2) (e3c)|((3d2c2B2) ug3uB (Bd3)(df3)||
+ve4 (c3e) AAA2 (c3e)|AAA2 (c3e) AAA2 ((3a2g2f2)|e4 (c3e) AAA2 (c3e)|((3d2c2B2) ug3uB (Bd3)(df3)|
+e4 (c3e) AAA2 (c3e)|AAA2 (c3e) AAA2 ((3a2g2f2)|e3Ac3A ((3c2d2e2) (c3A)|((3d2c2B2) ug3uB (Bd3)(df3)||
+vea3a3g f3eab3|a3fe3d ((3c2d2e2) (ef3)|ea3a3g f3ea3c|((3d2c2B2) ug3uB (Bd3)(df3)|
+ea3a3g f3eab3|a3fe3d ((3c2d2e2) ((3e2f2g2)|((3a2g2f2) (g3e) ((3f2e2d2) (e3c)|((3d2c2B2) ug3uB (Bd3)(df3)|]
+
+
+X:10062
+T:Maggie in the Wood
+Z: id:dc-polka-24
+M:2/4
+L:1/8
+K:G Major
+B/A/|GD GA|Be eg/e/|dB AG/A/|BA AB/A/|!
+GD GA|Be eg/e/|dB AB/A/|G2 G:|!
+e/f/|gf ed|ef ge|dB AG/A/|BA A|!
+[1 e/f/|gf ed|ef ge|dB AB/A/|G2 G:|!
+[2 B/A/|GD GA|Be eg/e/|dB AB/A/|G2 G|]!
+
+
+X:10063
+T:Maggie in the Wood
+R:polka
+Z:id:hn-polka-19
+M:2/4
+L:1/8
+K:G
+GD G>A|Be eg/e/|dB B/A/G/A/|BA AB/A/|
+GD G>A|Be eg/e/|dB AB/A/|1 G2 GA:|2 G2 Ge/f/||
+|:gf ed|ef g>e|dB B/A/G/A/|BA Ae/f/|
+gf ed|ef g>e|dB AB/A/|1 G2 Ge/f/:|2 G2 GA||
+"Variations:"
+GD G/F/G/A/|Be eg/e/|dB G>A|BA AB/A/|
+GD G/F/G/A/|Be eg/e/|dB AB|1 AG G>A:|2 AG Ge/f/||
+|:gf ed|Be eg/e/|dB AG/A/|BA Ae/f/|
+gf ed|Be eg/e/|dB AB|1 AG Ge/f/:|2 AG G>A||
+
+
+X:10064
+T:Maggie in the Wood
+T:An bhFaca T\'u Mo Sh\'eamais\'in
+T:If I Had Maggie in the Wood
+R:polka
+Z:id:hn-polka-19
+M:2/4
+L:1/8
+K:G
+GD G>A|Be eg/e/|dB B/A/G/A/|BA AB/A/|
+GD G>A|Be eg/e/|dB AB/A/|1 G2 GA:|2 G2 Ge/f/||
+|:gf ed|ef g>e|dB B/A/G/A/|BA Ae/f/|
+gf ed|ef g>e|dB AB/A/|1 G2 Ge/f/:|2 G2 GA||
+"Variations:"
+GD G/F/G/A/|Be eg/e/|dB G>A|BA AB/A/|
+GD G/F/G/A/|Be eg/e/|dB AB|1 AG G>A:|2 AG Ge/f/||
+|:gf ed|Be eg/e/|dB AG/A/|BA Ae/f/|
+gf ed|Be eg/e/|dB AB|1 AG Ge/f/:|2 AG G>A||
+
+
+X:10065
+T:Maggie in the Wood
+M:2/4
+L:1/8
+Q:300
+C:Trad
+R:polka
+K:G
+B/2A/2|GD GA|Be eg/2e/2|dB B/2A/2G/2A/2|BA AB/2A/2|!
+GD GA|Be eg/2e/2|dB AB/2A/2|G3:|!
+e/2f/2|gf ed|ef g>e|dB B/2A/2G/2A/2|1]BA Ae/2f/2|!
+gf ed|ef g>e|dB AB/2A/2|G3:|2] BA AB/2A/2|!
+GD GA|Be eg/2e/2|dB AB/2A/2|G3||!
+
+
+X:10066
+T:Maggie in the Wood
+M:2/4
+L:1/8
+K:G Major
+B/A/|GD GA|Be eg/e/|dB AG/A/|BA AB/A/|!
+GD GA|Be eg/e/|dB AB/A/|G2 G:|!
+e/f/|gf ed|ef ge|dB AG/A/|BA A|!
+[1 e/f/|gf ed|ef ge|dB AB/A/|G2 G:|!
+[2 B/A/|GD GA|Be eg/e/|dB AB/A/|G2 G|]!
+
+
+X:10067
+T:Maggie in the Woods
+T:Knocknaborough Polka
+M:C|
+L:1/8
+C:Trad
+R:Polka
+K:D
+|:G2D2 G3A|B2d2 e4|d2B2 BAGA|B2A2 A4|
+G2D2 G3A|B2d2 e4|d2B2 A2BA|G4 G4:|
+|:g2f2 e2d2|e2f2 g2e2|d2B2 BAGA|B2A2 A4|
+g2f2 e2d2|e2f2 g2e2|d2B2 A2BA|G4 G4:|
+
+
+X:10068
+T:Maggie in the Woods
+M:2/4
+L:1/16
+R:Polka
+K:G
+|:BA|G2D2 G2A2|B2e2 efge|d2B2 BAGA|B2A2 AcBA|
+|G2D2 G2A2|B2e2 efge|d2B2 A2B2|G4 G2:|
+|:d2|g3f e2d2|e2f2 g3e| d2B2 BAGA|B2A2 A3d|
+|1 g3f e2d2|e2f2 g3e|d2B2 A2B2|G4 G2:|
+|2 G2D2 G2A2|B2e2 efge|d2B2 A2B2|G4 G2|
+
+
+X:10069
+T:Maggie in the Woods
+S:John B. Walsh
+M:2/4
+Z:There are some slightly rowdy lyrics on one of the 
+Z:early Chieftains albums. Madison, Vancouver
+E:10
+R:polka
+K:G
+|:BA|G2D2 G2A2|B2e2 efge|d2B2 BAGA|B2A2 AcBA| 
+G2D2 G2A2|B2e2 efge|d2B2 A2BA|G4 G2:|
+|:d2|g3f e2d2|e2f2 g3e| d2B2 BAGA|B2A2 A3d|
+g3f e2d2|e2f2 g3e|d2B2 A2B2|G4 G2:|
+
+
+X:10070
+T:Maggie in the Woods
+M:2/4
+Z:There are some slightly rowdy lyrics on one of the 
+Z:early Chieftains albums. Madison, Vancouver
+E:10
+R:polka
+K:G
+BA|G2D2 G2A2|B2e2 efge|d2B2 BAGA|B2A2 AcBA| G2D2 G2A2|B2e2 efge|d2B2 A2BA|G4 G2:|
+d2|g3f e2d2|e2f2 g3e| d2B2 BAGA|B2A2 A3d|g3f e2d2|e2f2 g3e|d2B2 A2B2|G4 G2:|
+
+
+X:10071
+T:Maggie in the Woods
+M:2/4
+Z:There are some slightly rowdy lyrics on one of the 
+Z:early Chieftains albums. Madison, Vancouver
+E:10
+R:polka
+K:G
+BA|G2D2 G2A2|B2e2 efge|d2B2 BAGA|B2A2 AcBA| G2D2 G2A2|B2e2 efge|d2B2 A2B
+A|G4 G2:|
+d2|g3f e2d2|e2f2 g3e| d2B2 BAGA|B2A2 A3d|g3f e2d2|e2f2 g3e|d2B2 A2B2|G4 
+G2:|
+
+
+X:10072
+T:Maggie Lawder. HSJJ.186
+M:4/4
+L:1/8
+Q:120
+S:HSJ Jackson,Wyresdale,Lancs.1823
+R:Air
+O:England
+A:Lancashire
+N:Whew!.
+H:1823
+Z:Chris Partington
+K:D
+.de.df .de.df|eF g/f/e/d/ c2{d}e2|dedf dedf|ab a/b/a/g/~f2a2|!
+g/f/g/a/ g/b/a/g/ f/e/f/g/ f/a/g/f/|e/d/e/f/ g/f/e/d/c2{d}e2|a/g/~f2a2|!
+g/f/g/a/ g/b/a/g/ f/e/f/g/ f/a/g/f/|e/d/e/f/ g/f/e/d/c2{d}e2|
