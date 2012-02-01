@@ -4,7 +4,7 @@
     <div id="tunetitle" style="text-align:center; font-size:30pt; width:800;">${tune.title}</div>
     <div id="tunerender"></div>
     <span style="font-weight:bold">ABC file</span>
-    <pre id="tuneabc">${tune.abc}</pre>
+    <pre id="tuneabc">${tune.abc | h}</pre>
     <script type="text/javascript">
         var abc = $("#tuneabc").text();
         var parser = new AbcParse({});
